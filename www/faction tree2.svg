@@ -1,0 +1,3142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="faction tree2.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3061"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3186"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3260"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3331"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3402"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3473"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3562"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3651"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3722"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3865"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3936"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4025"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4096"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4167"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4292"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4363"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4488"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4595"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4738"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4809"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4898"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4987"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5058"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5129"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5236"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5307"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5396"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5485"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5574"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5699"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5934"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6131"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6418"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6489"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6560"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6631"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6720"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6938"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7009"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7080"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7169"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7366"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7455"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7526"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7633"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7704"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7775"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7846"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7935"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8114"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8257"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8346"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8435"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8560"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8703"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8810"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8881"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9052"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9123"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9194"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9265"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9354"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9479"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9550"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9621"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9692"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9706"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9929"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10000"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10092"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10163"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10234"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10305"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10376"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10465"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10572"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10661"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10732"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10803"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10874"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10981"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11073"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11144"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11233"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11304"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11375"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11446"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11535"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11642"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11713"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11784"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11873"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12016"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12087"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12158"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12229"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12318"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12407"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12478"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12549"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12641"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12712"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12783"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12854"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12925"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9724"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9813"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9905"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9994"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10065"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10157"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10228"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10320"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10412"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10483"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10671"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10742"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10906"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10977"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11066"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11137"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11244"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11333"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11440"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11583"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11672"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective11800"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3205"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3258"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3382"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3810"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3884"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4084"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4212"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4340"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4432"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4542"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4616"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4798"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5034"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5144"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5434"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5508"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5690"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5872"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5946"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6056"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6256"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6402"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6548"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective6784"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7002"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7112"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7204"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7530"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3565"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="-671.38823"
+     inkscape:cy="2547.6767"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-1920,1742"
+       id="guide3138" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2200.5163,-1643.3162"
+       id="guide3174" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-663,641"
+       id="guide4331" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Alliance BG"
+     style="display:inline">
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:11"
+       id="rect3547"
+       width="3922.5261"
+       height="4228.582"
+       x="-2101.0193"
+       y="-2633.1616"
+       rx="42.426407"
+       ry="42.426407"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Boxes" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g3468"
+       transform="translate(-1489.5644,3954.2833)">
+      <rect
+         style="fill:none;stroke:#3c1d0e;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3154"
+         width="715.62073"
+         height="932.86926"
+         x="1020.7711"
+         y="-1205.7993"
+         rx="42.426407"
+         ry="42.426407" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/ruffian.png"
+         width="191.68608"
+         height="191.68608"
+         id="image3653"
+         x="1044.892"
+         y="-717.03363" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/bandit.png"
+         width="191.68608"
+         height="191.68608"
+         id="image4027"
+         x="1380.7809"
+         y="-724.2674" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/thug.png"
+         width="191.68608"
+         height="191.68608"
+         id="image4169"
+         x="1227.7334"
+         y="-720.67865" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/outlaw+female.png"
+         width="191.68608"
+         height="191.68608"
+         id="image4294"
+         x="1489.8682"
+         y="-725.02197" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/ranger.png"
+         width="192.76239"
+         height="192.76239"
+         id="image4365"
+         x="1240.6073"
+         y="-933.6651" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/huntsman.png"
+         width="192.76239"
+         height="192.76239"
+         id="image4597"
+         x="1381.4841"
+         y="-930.45068" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/trapper.png"
+         width="192.76239"
+         height="192.76239"
+         id="image4811"
+         x="1340.4207"
+         y="-1146.6733" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/footpad+female.png"
+         width="192.76239"
+         height="192.76239"
+         id="image4989"
+         x="1385.8785"
+         y="-519.24573" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/footpad.png"
+         width="192.76239"
+         height="192.76239"
+         id="image5060"
+         x="1495.2404"
+         y="-1148.9248" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/outlaw.png"
+         width="192.76239"
+         height="192.76239"
+         id="image5131"
+         x="1514.6846"
+         y="-931.62" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/woodsman.png"
+         width="192.76239"
+         height="192.76239"
+         id="image5309"
+         x="1073.2771"
+         y="-934.69543" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/thief.png"
+         width="192.76239"
+         height="192.76239"
+         id="image5826"
+         x="1086.1864"
+         y="-519.48743" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/assassin.png"
+         width="192.76239"
+         height="192.76239"
+         id="image6420"
+         x="1223.629"
+         y="-1141.8494" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/assassin+female.png"
+         width="192.76239"
+         height="192.76239"
+         id="image6562"
+         x="1080.9583"
+         y="-1141.8494" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/thief+female.png"
+         width="192.76239"
+         height="192.76239"
+         id="image6633"
+         x="1225.5543"
+         y="-515.6322" />
+      <text
+         xml:space="preserve"
+         style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         x="278.30676"
+         y="1806.7638"
+         id="text3156"
+         transform="matrix(0,-1,1,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3158"
+           x="278.30676"
+           y="1806.7638"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">15 Outlaws</tspan></text>
+    </g>
+    <g
+       id="g3452"
+       transform="translate(0,-146.92135)"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256">
+      <g
+         id="g3316">
+        <rect
+           style="fill:#ffffff;stroke:#465052;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:none"
+           id="rect12053"
+           width="847.24304"
+           height="470.49789"
+           x="-1920"
+           y="-2197.8867"
+           rx="42.426407"
+           ry="42.426407" />
+        <g
+           id="g12036"
+           transform="translate(-50.162179,-627.99998)">
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/spearman.png"
+             width="215.41196"
+             height="221.67674"
+             id="image9054"
+             x="-1471.8027"
+             y="-1354.0953" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/netcaster.png"
+             width="232.76057"
+             height="192.76239"
+             id="image9125"
+             x="-1299.2804"
+             y="-1325.181" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/hunter.png"
+             width="198.06335"
+             height="216.85768"
+             id="image9481"
+             x="-1644.3252"
+             y="-1349.2762" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/hoplite.png"
+             width="217.82149"
+             height="207.21956"
+             id="image9552"
+             x="-1835.4009"
+             y="-1339.6382" />
+        </g>
+        <g
+           id="g12042"
+           transform="translate(-74.86377,-627.99998)">
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/enchantress.png"
+             width="237.57964"
+             height="192.76239"
+             id="image9196"
+             x="-1815.9156"
+             y="-1541.5045" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/priestess.png"
+             width="204.81003"
+             height="212.03862"
+             id="image9267"
+             x="-1611.4833"
+             y="-1560.7808" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/triton.png"
+             width="240.95297"
+             height="203.84622"
+             id="image9356"
+             x="-1441.5071"
+             y="-1552.5884" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/merfolk/transparent/fighter.png"
+             width="192.76239"
+             height="192.76239"
+             id="image9623"
+             x="-1229.3643"
+             y="-1541.5045" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="1729.7727"
+           y="-1012.3503"
+           id="text12048"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan12050"
+             x="1729.7727"
+             y="-1012.3503"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">8 Merfolk </tspan></text>
+      </g>
+      <g
+         transform="translate(0,-367.99999)"
+         id="g3267">
+        <rect
+           style="fill:#ffffff;stroke:#1f2607;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3093"
+           width="917.95374"
+           height="1374.4919"
+           x="-1915.1362"
+           y="-537.74634"
+           rx="42.426407"
+           ry="42.426407" />
+        <g
+           id="g3176"
+           inkscape:export-filename="/home/snowdrop/Skrivbord/elfreference.png"
+           inkscape:export-xdpi="124.63594"
+           inkscape:export-ydpi="124.63594">
+          <g
+             transform="translate(0,-136)"
+             id="g3101">
+            <image
+               y="-352.00391"
+               x="-1835.4253"
+               id="image11075"
+               height="192.76239"
+               width="192.76239"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/archer.png" />
+            <image
+               y="-351.76294"
+               x="-1658.5865"
+               id="image11146"
+               height="199.99097"
+               width="165.29375"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/archer+female.png" />
+            <image
+               y="-361.64203"
+               x="-1430.3765"
+               id="image11235"
+               height="212.03862"
+               width="182.16045"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/captain.png" />
+            <image
+               y="-323.57147"
+               x="-1209.9506"
+               id="image11306"
+               height="174.44995"
+               width="185.0519"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/druid.png" />
+            <image
+               y="-142.61578"
+               x="-1843.0287"
+               id="image11377"
+               height="190.35286"
+               width="140.71654"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/fighter.png" />
+            <image
+               y="-120.93"
+               x="-1658.4938"
+               id="image11448"
+               height="170.11281"
+               width="192.76239"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/hero.png" />
+            <image
+               y="-157.3139"
+               x="-1457.8885"
+               id="image11537"
+               height="212.03862"
+               width="212.03862"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/high-lord.png" />
+            <image
+               y="-132.25476"
+               x="-1231.4059"
+               id="image11644"
+               height="192.76239"
+               width="192.76239"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/lady.png" />
+            <image
+               y="48.94186"
+               x="-1874.0789"
+               id="image11715"
+               height="192.76239"
+               width="192.76239"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/lord.png" />
+            <image
+               y="52.797085"
+               x="-1681.9056"
+               id="image11786"
+               height="192.76239"
+               width="192.76239"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/marksman.png" />
+            <image
+               y="56.65234"
+               x="-1431.7499"
+               id="image11875"
+               height="192.76239"
+               width="192.76239"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/marksman+female.png" />
+            <image
+               y="44.122799"
+               x="-1251.4667"
+               id="image12018"
+               height="202.4005"
+               width="202.4005"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/ranger.png" />
+            <image
+               y="262.78207"
+               x="-1851.7662"
+               id="image12089"
+               height="192.76239"
+               width="192.76239"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/ranger+female.png" />
+            <image
+               y="236.75916"
+               x="-1630.5981"
+               id="image12160"
+               height="221.67674"
+               width="221.19484"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/scout.png" />
+            <image
+               y="280.13068"
+               x="-1402.6791"
+               id="image12231"
+               height="188.90714"
+               width="156.61943"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/shaman.png" />
+            <image
+               y="252.18015"
+               x="-1248.745"
+               id="image12320"
+               height="221.67674"
+               width="240.95297"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/shyde.png" />
+            <image
+               y="476.26645"
+               x="-1860.1736"
+               id="image12409"
+               height="197.58144"
+               width="197.58144"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/sorceress.png" />
+            <image
+               y="462.77307"
+               x="-1630.9694"
+               id="image12551"
+               height="216.85768"
+               width="216.85768"
+               xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/elves/transparent/sylph.png" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="-835.10278"
+           y="-937.48657"
+           id="text3097"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3099"
+             x="-835.10278"
+             y="-937.48657"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">23 Gaia</tspan></text>
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/chantal-druid.png"
+           width="276.28674"
+           height="217.12122"
+           id="image4086"
+           x="-1920"
+           y="565.44647" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/cleodil.png"
+           width="260.00266"
+           height="271.40152"
+           id="image4214"
+           x="-1431.8813"
+           y="272.42557" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/galtrid.png"
+           width="217.12122"
+           height="217.12122"
+           id="image4618"
+           x="-1239.5807"
+           y="329.47849" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/kalenz2.png"
+           width="217.12122"
+           height="217.12122"
+           id="image5948"
+           x="-1663.608"
+           y="562.00543" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/uradredia.png"
+           width="217.12122"
+           height="217.12122"
+           id="image7004"
+           x="-1468.6375"
+           y="563.92523" />
+      </g>
+      <image
+         xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/woses/transparent/ancient-wose.png"
+         width="221.95297"
+         height="221.95297"
+         id="image11802"
+         x="-1264.5082"
+         y="189.85895" />
+      <g
+         id="g3298">
+        <rect
+           ry="42.426407"
+           rx="42.426407"
+           y="-1680.2845"
+           x="-1920"
+           height="722.49792"
+           width="847.24304"
+           id="rect3079"
+           style="fill:#ffffff;stroke:#47301c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:none" />
+        <g
+           id="g3085"
+           transform="translate(-74.86377,-633.99998)">
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage.png"
+             width="178.67575"
+             height="175.87666"
+             id="image3262"
+             x="-1604.7599"
+             y="-785.26678" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-white.png"
+             width="192.76239"
+             height="192.76239"
+             id="image5238"
+             x="-1270.3486"
+             y="-998.40454" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-white+female.png"
+             width="192.76239"
+             height="192.76239"
+             id="image5576"
+             x="-1454.8871"
+             y="-999.81873" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage+female.png"
+             width="192.76239"
+             height="192.76239"
+             id="image7706"
+             x="-1776.2164"
+             y="-802.61273" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-red.png"
+             width="192.76239"
+             height="192.76239"
+             id="image7937"
+             x="-1616.9915"
+             y="-1002.2015" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-red+female.png"
+             width="187.94333"
+             height="187.94333"
+             id="image8883"
+             x="-1790.6183"
+             y="-997.06586" />
+        </g>
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text3081"
+           y="-1012.3503"
+           x="967.77271"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+             y="-1012.3503"
+             x="967.77271"
+             id="tspan3083"
+             sodipodi:role="line">11 Order of Dawn</tspan></text>
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/crelanu.png"
+           width="229.40152"
+           height="229.40152"
+           id="image4342"
+           x="-1334.9578"
+           y="-1471.0393" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/eldred.png"
+           width="192.67804"
+           height="210.5771"
+           id="image4434"
+           x="-1515.7058"
+           y="-1227.3882" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/garard.png"
+           width="196.58322"
+           height="196.58322"
+           id="image4800"
+           x="-1707.7465"
+           y="-1220.5974" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/velon.png"
+           width="196.58322"
+           height="196.58322"
+           id="image7114"
+           x="-1863"
+           y="-1224.1298" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/young_delfador.png"
+           width="183.52121"
+           height="183.52121"
+           id="image7206"
+           x="-1514.7117"
+           y="-1427.2433" />
+      </g>
+      <g
+         style="fill:#e6e6e6"
+         transform="translate(0,-376)"
+         id="g3332">
+        <rect
+           style="fill:#e6e6e6;stroke:#465052;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:30, 30;stroke-dashoffset:11"
+           id="rect3247"
+           width="571.24304"
+           height="505.51712"
+           x="-1920"
+           y="909.52441"
+           rx="42.426407"
+           ry="42.426407" />
+        <image
+           style="fill:#e6e6e6"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/ranger.png"
+           width="224.30284"
+           height="224.30284"
+           id="image3539"
+           x="-1697.2894"
+           y="1161.3169" />
+        <image
+           style="fill:#e6e6e6"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/woodsman.png"
+           width="224.30284"
+           height="224.30284"
+           id="image3551"
+           x="-1920"
+           y="914.04468" />
+        <image
+           style="fill:#e6e6e6"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/ruffian.png"
+           width="223.05043"
+           height="223.05043"
+           id="image3531"
+           x="-1615.0391"
+           y="915.97852" />
+        <image
+           style="fill:#e6e6e6"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/thug.png"
+           width="223.05043"
+           height="223.05043"
+           id="image3535"
+           x="-1920"
+           y="1165.0762" />
+        <image
+           style="fill:#e6e6e6"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/thief+female.png"
+           width="224.30284"
+           height="224.30284"
+           id="image3559"
+           x="-1754.8472"
+           y="918.00427" />
+        <text
+           xml:space="preserve"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="-1419.6384"
+           y="-1284.3502"
+           id="text3249"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             sodipodi:role="line"
+             x="-1419.6384"
+             y="-1284.3502"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+             id="tspan3262">5 Voleur</tspan></text>
+      </g>
+      <g
+         transform="translate(21.431458,0)"
+         id="g4202">
+        <text
+           xml:space="preserve"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           x="-1262.2134"
+           y="703.51581"
+           id="text3134"><tspan
+             sodipodi:role="line"
+             id="tspan3136"
+             x="-1262.2134"
+             y="703.51581"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">43</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           x="-1229.3643"
+           y="751.58667"
+           id="text3343"><tspan
+             sodipodi:role="line"
+             id="tspan3345"
+             x="-1229.3643"
+             y="751.58667"
+             style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">units in alliance</tspan></text>
+        <text
+           id="text7659"
+           y="930.59961"
+           x="-1260.0792"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="930.59961"
+             x="-1260.0792"
+             id="tspan7661"
+             sodipodi:role="line">48</tspan></text>
+        <text
+           id="text3347"
+           y="976.46814"
+           x="-1229.1145"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           xml:space="preserve"><tspan
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="976.46814"
+             x="-1229.1145"
+             id="tspan3349"
+             sodipodi:role="line">units in alliance</tspan><tspan
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="1026.4681"
+             x="-1229.1145"
+             sodipodi:role="line"
+             id="tspan3351">inc. clan members</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:177.03395081px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+         x="-1920"
+         y="-2260.533"
+         id="text4161"><tspan
+           sodipodi:role="line"
+           id="tspan4163"
+           x="-1920"
+           y="-2260.533"
+           style="font-style:italic;font-weight:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">Naima</tspan></text>
+      <g
+         id="g4253"
+         transform="translate(21.431458,0)">
+        <text
+           id="text4255"
+           y="703.51581"
+           x="-1262.2134"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="703.51581"
+             x="-1262.2134"
+             id="tspan4257"
+             sodipodi:role="line">43</tspan></text>
+        <text
+           id="text4259"
+           y="751.58667"
+           x="-1229.3643"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           xml:space="preserve"><tspan
+             style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="751.58667"
+             x="-1229.3643"
+             id="tspan4261"
+             sodipodi:role="line">units in alliance</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           x="-1260.0792"
+           y="930.59961"
+           id="text4263"><tspan
+             sodipodi:role="line"
+             id="tspan4265"
+             x="-1260.0792"
+             y="930.59961"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">48</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           x="-1229.1145"
+           y="976.46814"
+           id="text4267"><tspan
+             sodipodi:role="line"
+             id="tspan4269"
+             x="-1229.1145"
+             y="976.46814"
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">units in alliance</tspan><tspan
+             id="tspan4271"
+             sodipodi:role="line"
+             x="-1229.1145"
+             y="1026.4681"
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">inc. clan members</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3370"
+       transform="translate(-32.181396,60.811164)"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256">
+      <rect
+         style="fill:#ffffff;stroke:#664e33;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3340"
+         width="793.95374"
+         height="946.492"
+         x="-659.31458"
+         y="-429.23669"
+         rx="42.426407"
+         ry="42.426407" />
+      <image
+         y="12.982109"
+         x="-290.17758"
+         id="image6550"
+         height="187"
+         width="187"
+         xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/olurf.png" />
+      <image
+         y="-752.0061"
+         x="-425.73312"
+         id="image5436"
+         height="217.12122"
+         width="217.12122"
+         xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/howgarth.png" />
+      <image
+         y="-754.54565"
+         x="-223.85167"
+         id="image6404"
+         height="217.12122"
+         width="217.12122"
+         xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/lionel.png" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/dragonguard.png"
+         width="225.05008"
+         height="192.76239"
+         id="image10094"
+         x="-630.98309"
+         y="-427.22479" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/explorer.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10165"
+         x="-428.46167"
+         y="-432.67682" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/fighter.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10236"
+         x="-274.18274"
+         y="-438.12909" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/fighter-2.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10307"
+         x="-86.986176"
+         y="-438.12909" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/gryphon-rider.png"
+         width="240.95297"
+         height="240.95297"
+         id="image10378"
+         x="-630.49396"
+         y="221.83511" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/guard.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10467"
+         x="-643.1048"
+         y="-236.3996" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/lord.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10574"
+         x="-421.59528"
+         y="-236.3996" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/runemaster.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10663"
+         x="-261.4548"
+         y="-225.4953" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/scout.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10734"
+         x="-97.890472"
+         y="-230.94745" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/sentinel.png"
+         width="192.76239"
+         height="240.95297"
+         id="image10805"
+         x="-131.08778"
+         y="-43.710815" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/thunderer.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10876"
+         x="-662.18726"
+         y="3.4946568" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/dwarves/transparent/ulfserker.png"
+         width="192.76239"
+         height="192.76239"
+         id="image10983"
+         x="-465.12891"
+         y="8.946805" />
+      <text
+         xml:space="preserve"
+         style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         x="-518.61249"
+         y="196.33508"
+         id="text3342"
+         transform="matrix(0,-1,1,0,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3344"
+           x="-518.61249"
+           y="196.33508"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">13 Knalgans</tspan></text>
+      <rect
+         style="fill:#ffffff;stroke:#1f2607;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3396"
+         width="909.46844"
+         height="1889.6335"
+         x="-662.14301"
+         y="-2377.0996"
+         rx="42.426407"
+         ry="42.426407" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/spearman.png"
+         width="186.60654"
+         height="186.60654"
+         id="image3333"
+         x="-432.74936"
+         y="-2094.3242" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/fencer.png"
+         width="186.60654"
+         height="186.60654"
+         id="image3404"
+         x="-619.3559"
+         y="-1644.6044" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/master-at-arms.png"
+         width="186.60654"
+         height="186.60654"
+         id="image3475"
+         x="-432.74936"
+         y="-1644.6044" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/grand-knight.png"
+         width="233.25816"
+         height="233.25816"
+         id="image3564"
+         x="-44.386787"
+         y="-1691.256" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/duelist.png"
+         width="186.60654"
+         height="186.60654"
+         id="image3724"
+         x="-19.135794"
+         y="-1869.4644" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/swordsman.png"
+         width="186.60654"
+         height="186.60654"
+         id="image3867"
+         x="-619.3559"
+         y="-2094.3242" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/paladin.png"
+         width="233.25816"
+         height="233.25816"
+         id="image3938"
+         x="-263.65616"
+         y="-1691.256" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/cavalier.png"
+         width="233.25816"
+         height="233.25816"
+         id="image4098"
+         x="6.8825917"
+         y="-1466.3959" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/knight.png"
+         width="240.95297"
+         height="240.95297"
+         id="image4490"
+         x="-238.67819"
+         y="-1474.0907" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/horseman.png"
+         width="240.95297"
+         height="240.95297"
+         id="image4740"
+         x="-463.59583"
+         y="-1474.0907" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/cavalryman.png"
+         width="240.95297"
+         height="240.95297"
+         id="image4900"
+         x="-605.58521"
+         y="-1249.2307" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/lieutenant.png"
+         width="192.76239"
+         height="192.76239"
+         id="image5398"
+         x="-254.25662"
+         y="-2325.3401" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/royal-guard.png"
+         width="192.76239"
+         height="192.76239"
+         id="image5487"
+         x="-56.852272"
+         y="-2325.3401" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/master-bowman.png"
+         width="192.76239"
+         height="192.76239"
+         id="image5701"
+         x="-625.51172"
+         y="-1875.6202" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/pikeman.png"
+         width="240.95297"
+         height="240.95297"
+         id="image5936"
+         x="-34.749367"
+         y="-2148.6709" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/longbowman.png"
+         width="192.76239"
+         height="192.76239"
+         id="image6133"
+         x="-428.74936"
+         y="-1875.6202" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/bowman.png"
+         width="192.76239"
+         height="192.76239"
+         id="image6491"
+         x="-225.24187"
+         y="-1875.6202" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/javelineer.png"
+         width="192.76239"
+         height="192.76239"
+         id="image6722"
+         x="-226.91982"
+         y="-2100.4802" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/sergeant.png"
+         width="192.76239"
+         height="192.76239"
+         id="image7368"
+         x="-433.27359"
+         y="-2325.3401" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/general.png"
+         width="192.76239"
+         height="192.76239"
+         id="image6940"
+         x="-601.73602"
+         y="-2324.7073" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/halberdier.png"
+         width="240.95297"
+         height="240.95297"
+         id="image7011"
+         x="-420.65707"
+         y="-2149.0203" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/iron-mauler.png"
+         width="192.76239"
+         height="192.76239"
+         id="image7082"
+         x="-378.46802"
+         y="-1201.0402" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/heavy-infantry.png"
+         width="192.76239"
+         height="192.76239"
+         id="image7171"
+         x="-157.42136"
+         y="-1201.0402" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/marshal.png"
+         width="192.76239"
+         height="192.76239"
+         id="image7777"
+         x="-647.51172"
+         y="-1425.9001" />
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         id="text3400"
+         y="305.30658"
+         x="493.66507"
+         style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+           y="305.30658"
+           x="493.66507"
+           id="tspan3402"
+           sodipodi:role="line">31 Loyalists</tspan></text>
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-silver.png"
+         width="196.13573"
+         height="216.85768"
+         id="image7457"
+         x="17.768118"
+         y="-1221.7126" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-silver+female.png"
+         width="192.76239"
+         height="192.76239"
+         id="image8116"
+         x="23.624409"
+         y="-967.98645" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-light.png"
+         width="221.67674"
+         height="221.67674"
+         id="image8259"
+         x="-463.12817"
+         y="-990.08459" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-light+female.png"
+         width="216.85768"
+         height="216.85768"
+         id="image8348"
+         x="-658.94073"
+         y="-987.67517" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-arch+female.png"
+         width="202.4005"
+         height="207.70146"
+         id="image8437"
+         x="-632.89551"
+         y="-745.00745" />
+      <image
+         xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/mage-arch.png"
+         width="240.95297"
+         height="217.82149"
+         id="image8562"
+         x="-215.23422"
+         y="-989.43079" />
+      <text
+         id="text4249"
+         y="-2452.533"
+         x="-660"
+         style="font-size:177.03395081px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-weight:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+           y="-2452.533"
+           x="-660"
+           id="tspan4251"
+           sodipodi:role="line">Empire</tspan></text>
+      <rect
+         style="fill:#e6e6e6;stroke:#465052;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:30, 30;stroke-dashoffset:11"
+         id="rect4275"
+         width="331.24304"
+         height="505.51709"
+         x="-663"
+         y="567.52441"
+         rx="42.426407"
+         ry="42.426407" />
+      <g
+         transform="translate(-224,0)"
+         id="g4341">
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text4287"
+           y="-27.35022"
+           x="-1077.6384"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           xml:space="preserve"><tspan
+             id="tspan4289"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+             y="-27.35022"
+             x="-1077.6384"
+             sodipodi:role="line">5 Voleur</tspan></text>
+        <g
+           transform="translate(1278.4315,34)"
+           id="g4291">
+          <text
+             xml:space="preserve"
+             style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+             x="-1262.2134"
+             y="703.51581"
+             id="text4293"><tspan
+               sodipodi:role="line"
+               id="tspan4295"
+               x="-1262.2134"
+               y="703.51581"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">44</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+             x="-1229.3643"
+             y="751.58667"
+             id="text4297"><tspan
+               sodipodi:role="line"
+               id="tspan4299"
+               x="-1229.3643"
+               y="751.58667"
+               style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">units in alliance</tspan></text>
+          <text
+             id="text4301"
+             y="930.59961"
+             x="-1260.0792"
+             style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+               y="930.59961"
+               x="-1260.0792"
+               id="tspan4303"
+               sodipodi:role="line">46</tspan></text>
+          <text
+             id="text4305"
+             y="976.46814"
+             x="-1229.1145"
+             style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+             xml:space="preserve"><tspan
+               style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+               y="976.46814"
+               x="-1229.1145"
+               id="tspan4307"
+               sodipodi:role="line">units in alliance</tspan><tspan
+               style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+               y="1026.4681"
+               x="-1229.1145"
+               sodipodi:role="line"
+               id="tspan4309">inc. clan members</tspan></text>
+        </g>
+        <g
+           id="g4311"
+           transform="translate(1278.4315,34)">
+          <text
+             id="text4313"
+             y="703.51581"
+             x="-1262.2134"
+             style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+               y="703.51581"
+               x="-1262.2134"
+               id="tspan4315"
+               sodipodi:role="line">4</tspan></text>
+          <text
+             id="text4317"
+             y="751.58667"
+             x="-1229.3643"
+             style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+             xml:space="preserve"><tspan
+               style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+               y="751.58667"
+               x="-1229.3643"
+               id="tspan4319"
+               sodipodi:role="line">units in alliance</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+             x="-1260.0792"
+             y="930.59961"
+             id="text4321"><tspan
+               sodipodi:role="line"
+               id="tspan4323"
+               x="-1260.0792"
+               y="930.59961"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic" /></text>
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+             x="-1229.1145"
+             y="976.46814"
+             id="text4325"><tspan
+               sodipodi:role="line"
+               id="tspan4327"
+               x="-1229.1145"
+               y="976.46814"
+               style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">units in alliance</tspan><tspan
+               id="tspan4329"
+               sodipodi:role="line"
+               x="-1229.1145"
+               y="1026.4681"
+               style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">inc. clan members</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(46,-4)"
+         id="g4365">
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/footpad.png"
+           width="222.22047"
+           height="222.22047"
+           id="image3547"
+           x="-663"
+           y="595.41766" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/thief.png"
+           width="222.22047"
+           height="222.22047"
+           id="image3553"
+           x="-663"
+           y="826.6701" />
+      </g>
+    </g>
+    <g
+       id="g3273"
+       transform="translate(-1663.1153,-1957.2716)"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256">
+      <rect
+         ry="42.426407"
+         rx="42.426407"
+         y="757.71375"
+         x="2194"
+         height="268.49188"
+         width="513.17993"
+         id="rect3162"
+         style="fill:#ffffff;stroke:#1f2607;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none" />
+      <image
+         xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/nagas/transparent/fighter.png"
+         width="240.95297"
+         height="192.76239"
+         id="image10159"
+         x="2219.5457"
+         y="786.34399" />
+      <image
+         xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/nagas/transparent/myrmidon.png"
+         width="204.81003"
+         height="204.81003"
+         id="image10230"
+         x="2467.9282"
+         y="780.32019" />
+      <g
+         transform="translate(0,1098)"
+         id="g4502">
+        <rect
+           ry="42.426407"
+           rx="42.426407"
+           y="-1454.1567"
+           x="2197.3967"
+           height="1054.4919"
+           width="917.95386"
+           id="rect3140"
+           style="fill:#ffffff;stroke:#1f2607;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           y="-1410.2968"
+           x="2218.6296"
+           id="image7528"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/dark-adept+female.png" />
+        <image
+           y="-1405.9739"
+           x="2410.9819"
+           id="image7635"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/dark-adept.png" />
+        <image
+           y="-1417.6766"
+           x="2853.3757"
+           id="image8705"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/necromancer.png" />
+        <image
+           y="-1411.7697"
+           x="2608.636"
+           id="image8812"
+           height="202.4005"
+           width="202.4005"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/necromancer+female.png" />
+        <image
+           y="-664.32385"
+           x="2432.1482"
+           id="image9907"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/monsters/transparent/bat.png" />
+        <image
+           y="-1180.7592"
+           x="2240.0559"
+           id="image10908"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/deathblade.png" />
+        <image
+           y="-1194.9753"
+           x="2387.2637"
+           id="image10979"
+           height="221.19484"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/death-knight.png" />
+        <image
+           y="-1175.307"
+           x="2610.8015"
+           id="image11068"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/ghost.png" />
+        <image
+           y="-1210.3065"
+           x="2810.2444"
+           id="image11139"
+           height="240.95297"
+           width="240.95297"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/lich.png" />
+        <image
+           y="-946.31696"
+           x="2234.9958"
+           id="image11246"
+           height="192.76239"
+           width="202.88242"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/nightgaunt.png" />
+        <image
+           y="-951.7691"
+           x="2458.1416"
+           id="image11335"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/revenant.png" />
+        <image
+           y="-940.86487"
+           x="2643.5144"
+           id="image11442"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/shadow.png" />
+        <image
+           y="-957.22125"
+           x="2805.0693"
+           id="image11585"
+           height="218.21823"
+           width="218.21823"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/skeleton.png" />
+        <image
+           y="-711.0459"
+           x="2228.7854"
+           id="image11674"
+           height="240.95297"
+           width="188.42523"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/undead/transparent/spectre.png" />
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text3142"
+           y="3175.0464"
+           x="399.30762"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+             y="3175.0464"
+             x="399.30762"
+             id="tspan3144"
+             sodipodi:role="line">14 Undead</tspan></text>
+      </g>
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         id="text3166"
+         y="2762.426"
+         x="-1026.9475"
+         style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+           y="2762.426"
+           x="-1026.9475"
+           id="tspan3168"
+           sodipodi:role="line">2 Naga</tspan></text>
+      <g
+         transform="translate(6.5163,1406)"
+         id="g4453">
+        <rect
+           ry="42.426407"
+           rx="42.426407"
+           y="1224.4042"
+           x="2194"
+           height="268.49188"
+           width="513.17993"
+           id="rect3238"
+           style="fill:#ffffff;stroke:#1f2607;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none" />
+        <image
+           y="1251.7925"
+           x="2269.9192"
+           id="image9996"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/monsters/transparent/ogre.png" />
+        <image
+           y="1264.8981"
+           x="2446.7659"
+           id="image10067"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/monsters/transparent/scorpion.png" />
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text3240"
+           y="2771.4775"
+           x="-1493.6379"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+             y="2771.4775"
+             x="-1493.6379"
+             sodipodi:role="line"
+             id="tspan3242">2 Faction</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="-1258.8785"
+           y="2825.2178"
+           id="text4523"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             id="tspan4525"
+             sodipodi:role="line"
+             x="-1258.8785"
+             y="2825.2178"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">less</tspan></text>
+      </g>
+      <g
+         id="g4469">
+        <rect
+           style="fill:#ffffff;stroke:#1f2607;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3244"
+           width="789.59204"
+           height="976.49182"
+           x="2194"
+           y="1082.8448"
+           rx="42.426407"
+           ry="42.426407" />
+        <g
+           id="g4460"
+           transform="translate(0,1416)">
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/goblins/transparent/direwolver.png"
+             width="216.85768"
+             height="216.85768"
+             id="image12643"
+             x="2190.2524"
+             y="-292.80899" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/goblins/transparent/impaler.png"
+             width="192.76239"
+             height="240.95297"
+             id="image12714"
+             x="2387.3518"
+             y="-312.56714" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/goblins/transparent/pillager.png"
+             width="231.31487"
+             height="231.31487"
+             id="image12785"
+             x="2522.2856"
+             y="-307.74808" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/goblins/transparent/rouser.png"
+             width="192.76239"
+             height="192.76239"
+             id="image12856"
+             x="2726.6138"
+             y="-276.9061" />
+          <image
+             xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/goblins/transparent/rouser-2.png"
+             width="192.76239"
+             height="192.76239"
+             id="image12927"
+             x="2595.1526"
+             y="-53.602474" />
+          <image
+             xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/goblins/transparent/spearman.png"
+             width="240.95297"
+             height="192.76239"
+             id="image9726"
+             x="2204.4165"
+             y="-63.459961" />
+          <image
+             xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/goblins/transparent/wolf-rider.png"
+             width="216.85768"
+             height="216.85768"
+             id="image9815"
+             x="2396.1113"
+             y="-81.16452" />
+        </g>
+        <image
+           y="1594.4479"
+           x="2242.8523"
+           id="image10322"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/orcs/transparent/grunt.png" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/jetto.png"
+           width="217.12122"
+           height="217.12122"
+           id="image5692"
+           x="2733.48"
+           y="1569.2646" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/albrock.png"
+           width="217.12122"
+           height="217.12122"
+           id="image3886"
+           x="2729.4568"
+           y="1334.9482" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/flartar.png"
+           width="217.12122"
+           height="217.12122"
+           id="image4544"
+           x="2414.9771"
+           y="1570.6852" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/kapoue.png"
+           width="217.12122"
+           height="217.12122"
+           id="image6058"
+           x="2569.5281"
+           y="1569.8995" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/shan_taum.png"
+           width="217.12122"
+           height="217.12122"
+           id="image6786"
+           x="2413.24"
+           y="1789.6575" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/zorlan.png"
+           width="240.46175"
+           height="217.12122"
+           id="image7532"
+           x="2200.5164"
+           y="1791.84" />
+        <image
+           y="1783.9762"
+           x="2549.6953"
+           id="image10673"
+           height="216.85768"
+           width="216.85768"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/trolls/transparent/troll.png" />
+        <image
+           y="1808.0715"
+           x="2784.1326"
+           id="image10744"
+           height="192.76239"
+           width="129.63271"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/trolls/transparent/whelp.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="-2048.0095"
+           y="3043.7231"
+           id="text3246"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             id="tspan3248"
+             sodipodi:role="line"
+             x="-2048.0095"
+             y="3043.7231"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">16 Northerners</tspan></text>
+      </g>
+      <g
+         id="g4491">
+        <rect
+           style="fill:#ffffff;stroke:#1f2607;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3275"
+           width="787.17993"
+           height="471.08069"
+           x="2194"
+           y="2110.1931"
+           rx="42.426407"
+           ry="42.426407" />
+        <image
+           y="2353.4714"
+           x="2241.98"
+           id="image10414"
+           height="192.76239"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/saurians/transparent/augur.png" />
+        <image
+           y="2115.3884"
+           x="2735.6162"
+           id="image10485"
+           height="239.02536"
+           width="192.76239"
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/saurians/transparent/skirmisher.png" />
+        <image
+           xlink:href="file:///home/snowdrop/WT%20Design%20Package/portraits/inarix.png"
+           width="217.12122"
+           height="217.12122"
+           id="image5510"
+           x="2537.4355"
+           y="2128.3521" />
+        <image
+           y="2133.4712"
+           x="2217.2922"
+           id="image9931"
+           height="216.85768"
+           width="216.85768"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/drakes/transparent/glider.png" />
+        <image
+           y="2131.2568"
+           x="2414.0583"
+           id="image10002"
+           height="216.85768"
+           width="216.85768"
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/drakes/transparent/clasher.png" />
+        <text
+           xml:space="preserve"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="-2585.9019"
+           y="3047.4775"
+           id="text3277"
+           transform="matrix(0,-1,1,0,0,0)"><tspan
+             id="tspan3279"
+             sodipodi:role="line"
+             x="-2585.9019"
+             y="3047.4775"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">5 Drake</tspan></text>
+      </g>
+      <g
+         id="g4387"
+         transform="translate(4277.6398,2418.015)">
+        <text
+           id="text4389"
+           y="703.51581"
+           x="-1262.2134"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="703.51581"
+             x="-1262.2134"
+             id="tspan4391"
+             sodipodi:role="line">39</tspan></text>
+        <text
+           id="text4393"
+           y="751.58667"
+           x="-1229.3643"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           xml:space="preserve"><tspan
+             style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="751.58667"
+             x="-1229.3643"
+             id="tspan4395"
+             sodipodi:role="line">units in alliance</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           x="-1260.0792"
+           y="930.59961"
+           id="text4397"><tspan
+             sodipodi:role="line"
+             id="tspan4399"
+             x="-1260.0792"
+             y="930.59961"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">47</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           x="-1229.1145"
+           y="976.46814"
+           id="text4401"><tspan
+             sodipodi:role="line"
+             id="tspan4403"
+             x="-1229.1145"
+             y="976.46814"
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">units in alliance</tspan><tspan
+             id="tspan4405"
+             sodipodi:role="line"
+             x="-1229.1145"
+             y="1026.4681"
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">inc. clan members</tspan></text>
+      </g>
+      <g
+         transform="translate(4277.6398,2418.015)"
+         id="g4407">
+        <text
+           xml:space="preserve"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           x="-1262.2134"
+           y="703.51581"
+           id="text4409"><tspan
+             sodipodi:role="line"
+             id="tspan4411"
+             x="-1262.2134"
+             y="703.51581"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           x="-1229.3643"
+           y="751.58667"
+           id="text4413"><tspan
+             sodipodi:role="line"
+             id="tspan4415"
+             x="-1229.3643"
+             y="751.58667"
+             style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">units in alliance</tspan></text>
+        <text
+           id="text4417"
+           y="930.59961"
+           x="-1260.0792"
+           style="font-size:269.06613159px;font-style:normal;font-weight:normal;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#b3b3b3;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="930.59961"
+             x="-1260.0792"
+             id="tspan4419"
+             sodipodi:role="line" /></text>
+        <text
+           id="text4421"
+           y="976.46814"
+           x="-1229.1145"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#808080;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+           xml:space="preserve"><tspan
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="976.46814"
+             x="-1229.1145"
+             id="tspan4423"
+             sodipodi:role="line">units in alliance</tspan><tspan
+             style="fill:#808080;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+             y="1026.4681"
+             x="-1229.1145"
+             sodipodi:role="line"
+             id="tspan4425">inc. clan members</tspan></text>
+      </g>
+      <g
+         transform="translate(-566.73175,426.11602)"
+         id="g4435">
+        <rect
+           ry="42.426407"
+           rx="42.426407"
+           y="2523.7239"
+           x="2767.248"
+           height="495.21655"
+           width="692.20288"
+           id="rect4371"
+           style="fill:#e6e6e6;stroke:#465052;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995;stroke-opacity:1;stroke-dasharray:30, 30;stroke-dashoffset:11" />
+        <text
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text4383"
+           y="3525.8582"
+           x="-3023.5374"
+           style="font-size:71.29779816px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           xml:space="preserve"><tspan
+             id="tspan4385"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+             y="3525.8582"
+             x="-3023.5374"
+             sodipodi:role="line">8 Voleur</tspan></text>
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/assassin.png"
+           width="192.76239"
+           height="192.76239"
+           id="image3555"
+           x="2945.4202"
+           y="2559.1135" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/assassin+female.png"
+           width="192.76239"
+           height="192.76239"
+           id="image3557"
+           x="2802.7493"
+           y="2559.1135" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/trapper.png"
+           width="192.76239"
+           height="192.76239"
+           id="image3543"
+           x="3084.8391"
+           y="2559.9468" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/bandit.png"
+           width="191.68608"
+           height="191.68608"
+           id="image3533"
+           x="2782.96"
+           y="2778.7058" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/outlaw+female.png"
+           width="191.68608"
+           height="191.68608"
+           id="image3537"
+           x="2923.1597"
+           y="2772.2944" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/footpad+female.png"
+           width="192.76239"
+           height="192.76239"
+           id="image3545"
+           x="3259.9514"
+           y="2563.8821" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/huntsman.png"
+           width="192.76239"
+           height="192.76239"
+           id="image3541"
+           x="3261.667"
+           y="2767.6841" />
+        <image
+           xlink:href="file:///home/snowdrop/Bilder/westactics/portraits/humans/transparent/outlaw.png"
+           width="192.76239"
+           height="192.76239"
+           id="image3549"
+           x="3091.7727"
+           y="2765.2764" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:177.03395081px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+         x="2200.5164"
+         y="-434.4502"
+         id="text3269"><tspan
+           sodipodi:role="line"
+           id="tspan3271"
+           x="2200.5164"
+           y="-434.4502"
+           style="font-style:italic;font-weight:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic">Black Legion</tspan></text>
+    </g>
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.29999995000000013;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:11"
+       id="rect3553"
+       width="1316"
+       height="668"
+       x="-2102"
+       y="928.36218"
+       rx="42.426407"
+       ry="42.426407"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+       x="-2063.5095"
+       y="1476.4556"
+       id="text3549"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256"><tspan
+         sodipodi:role="line"
+         id="tspan3551"
+         x="-2063.5095"
+         y="1476.4556"
+         style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">v.0.1 dev. sketch of factions and their subfactions.</tspan><tspan
+         sodipodi:role="line"
+         x="-2063.5095"
+         y="1526.4556"
+         style="font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+         id="tspan3555">all names &amp; units may change. all is GPL &amp; devs are wanted.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:189.11250305px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+       x="-2079.7966"
+       y="1148.0823"
+       id="text3582"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256"><tspan
+         sodipodi:role="line"
+         id="tspan3584"
+         x="-2079.7966"
+         y="1148.0823"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">WTactics</tspan></text>
+    <g
+       id="g3590"
+       transform="matrix(0.67602445,0,0,0.67602445,-667.81383,470.68285)"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256">
+      <text
+         xml:space="preserve"
+         style="font-size:141.37185669px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+         x="-2066.2104"
+         y="1295.7471"
+         id="text4255-2"><tspan
+           sodipodi:role="line"
+           id="tspan4257-0"
+           x="-2066.2104"
+           y="1295.7471"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">3 alliances</tspan></text>
+      <text
+         id="text3586"
+         y="1402.7466"
+         x="-2066.2104"
+         style="font-size:141.37185669px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+           y="1402.7466"
+           x="-2066.2104"
+           id="tspan3588"
+           sodipodi:role="line">10 factions</tspan></text>
+    </g>
+    <text
+       id="text3602"
+       y="1133.8813"
+       x="-1414.3669"
+       style="font-size:75.26378632px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Rollergirls;-inkscape-font-specification:Rollergirls"
+       xml:space="preserve"
+       inkscape:export-filename="/home/snowdrop/WT Design Package/factionproposal.png"
+       inkscape:export-xdpi="32.034256"
+       inkscape:export-ydpi="32.034256"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic Italic"
+         y="1133.8813"
+         x="-1414.3669"
+         id="tspan3604"
+         sodipodi:role="line">.org</tspan></text>
+  </g>
+</svg>

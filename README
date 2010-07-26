@@ -1,0 +1,56 @@
+// WTactics.org Developers Package
+
+v.2.0 released 25:th July 2010
+
+
+// INTRO
+
+Welcome and thank you for downloading the WTactics Dev. Package. It contains all our resources at WTactics.org 
+and empowers you and the community by giving you _everything_ you need to start contributing by creating new cards,
+translations or new web content for our sites. 
+
+WTactics is an trul free and open source CCG. It gives you great freedom, and with freedom comes responsibility:
+Please refer to the README files in every dir for proper information about license(s), credits and other info.
+
+We would love it if you wanted to help us out in _any way_ possible and would appreciate it if you contacted us
+before doing so, allowing us all to make the best of our knowledge, skills and to co-ordinate the WTactics-project 
+in general. 
+
+Also feel free to send us any questions or thoughts - we like mail and read and answer it all when we get
+a chance: contact@WTactics.org
+
+
+// HOW TO USE
+
+I. Some of our files link to other files in the package. Because of that you must make sure that the directory structure 
+of the dev. package is intact and looks exactly as it did when you downloaded it. We use relative paths and suggest you 
+do the same in order to make it easy for others to use your work. In other words: Don't move, delete or rename any 
+already existing files or dirs, and all should go well. 
+
+II. You need Inkscape (inkscape.org) to properly work with our SVG-files. Inkscape is a great open source vector program
+and is available for all major platforms such as Linux, Windows and Mac.
+
+III. After installing Inkscape you may need to install the fonts we use on your system. When that is done you can start
+up Inkscape and open the SVG-files. If you did everything correct in the above steps it should all work out now.
+
+
+// PLEASE 
+
+For the sake of clarity and simplicity we beg you to only share & spread this package using it's offiical name if it
+is in it's orginal form with all of it's content intact and in it's original state. It will make life easier for all of
+us and will help to keep the integrity of the project if there are only official versions around of the "WTactics Dev. Package".
+If you want to assemble a custom dev. package or other packages you are free to do so, but please use a very different name on
+it. Please note that you are always legally allowed to, among other things, share our work(s) found within the package
+in accordabce to the works associated license(s).
+
+
+// KEEP IN MIND
+
+However you modify, contribute to or use the material in this package it would in most cases automatically become legally released
+under one or several of the open source-licenses we use. Please read the licenses or contact us for answeres to your questions or
+other information about these matters.
+
+
+// CONTACT
+
+contact@WTactics.org
