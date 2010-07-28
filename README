@@ -1,6 +1,5 @@
 // WTactics.org Developers Package
-
-v.2.0 released 25:th July 2010
+ - revision 3
 
 
 // INTRO
@@ -20,18 +19,36 @@ Also feel free to send us any questions or thoughts - we like mail and read and 
 a chance: contact@WTactics.org
 
 
-// HOW TO USE
+// HOW TO USE OUR SVG FILES 
 
-I. Some of our files link to other files in the package. Because of that you must make sure that the directory structure 
-of the dev. package is intact and looks exactly as it did when you downloaded it. We use relative paths and suggest you 
-do the same in order to make it easy for others to use your work. In other words: Don't move, delete or rename any 
-already existing files or dirs, and all should go well. 
+1. You need Inkscape (inkscape.org) to properly work with our SVG-files. Not illustrator, nor anything else
+but Inkscape. Inkscape is a great open source vector program that kicks ass and is available for all major
+platforms such as Linux, OS X & Windows. Inkscape is cross-platform and all the developers can co-work even
+if some of them happen to use differnt operating systems.
 
-II. You need Inkscape (inkscape.org) to properly work with our SVG-files. Inkscape is a great open source vector program
-and is available for all major platforms such as Linux, Windows and Mac.
+2. After installing Inkscape you probably need to install the fonts we use for WTactics on your system.
+When that is done you can start up Inkscape and open the SVG-files. (Notice: On some systems, and depending
+on your personal configuration of the system, you may need to restart the whole OS for the fonts to be
+recognized by the system / showing up in Inkscape.)
 
-III. After installing Inkscape you may need to install the fonts we use on your system. When that is done you can start
-up Inkscape and open the SVG-files. If you did everything correct in the above steps it should all work out now.
+3. Some of our files (i.e. the SVG ones) often link to other files in the package. Because of that you
+_must make sure_ that the directory structure of the dev. package is intact and looks exactly as it did when
+you downloaded it. We use relative paths in Inkscape and suggest you do the same in order to make it easy for
+others to use your work. In other words: Don't move, delete or rename any already existing files or dirs, and
+all should go well. 
+
+If you did everything correct in the above steps it should all work out now: Open Inkscape and then, from within
+Inkscape, open up the SVG you want to work with. 
+
+
+// CONTRIBUTE WITH YOU WORK
+
+There are really only two ways you can help us out with WTactics, and both are equally important:
+
+1. Donate money, so we can hire artists for new card artwork, pay bandwidth costs etc.
+2. Work: Do something for the project.
+
+
 
 
 // PLEASE 
@@ -39,8 +56,8 @@ up Inkscape and open the SVG-files. If you did everything correct in the above s
 For the sake of clarity and simplicity we beg you to only share & spread this package using it's offiical name if it
 is in it's orginal form with all of it's content intact and in it's original state. It will make life easier for all of
 us and will help to keep the integrity of the project if there are only official versions around of the "WTactics Dev. Package".
-If you want to assemble a custom dev. package or other packages you are free to do so, but please use a very different name on
-it. Please note that you are always legally allowed to, among other things, share our work(s) found within the package
+If you want to assemble a custom dev. package or other packages you are free to do so, but please use a very different
+name on it. Please note that you are always legally allowed to, among other things, share our work(s) found within the package
 in accordabce to the works associated license(s).
 
 
@@ -50,7 +67,26 @@ However you modify, contribute to or use the material in this package it would i
 under one or several of the open source-licenses we use. Please read the licenses or contact us for answeres to your questions or
 other information about these matters.
 
+// REVISION INFO
+
+The content of the "WTactics.org Developers Package" is the same as  in our Bazaar /trunk at https://launchpad.net/wtactics.
+
+Because most mortals don't use sub-version systems and us wanting to keep the development as friendly, easy and open as possible
+we have decided to release our trunk as a downloadable tar-package from our official site at http://www.WTactics.org/downloads  
+
+The revision number of the "WTactics.org Developers Package" corresponds to whatever revision in the trunk it was a copy of.
+The higher the number, the more up to date versionb you have of the package. That said, if you want to be certain you have the
+latest files and the most recent progress you should download the file(s) you work with from the trunk instead of using the ones
+in the tar-package.
+
+We will keep updating the tar-package from time to time and wheenever huge and important changes have been done it, but don't do so
+on a weekly or monthly basis.
+
+If you have any questions about differences and revisions, please conact us or check out the /trunk: From there you can easily
+download any and all files you're interested in.
+
 
 // CONTACT
 
 contact@WTactics.org
+
