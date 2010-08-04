@@ -1,6 +1,10 @@
 // WTactics.org Developers Package
  - revision 3
 
+Notice: The rev. number above is only correct when downloading this package as a tar-file from our website
+WTactics.org. If you get our material from the /trunk at Bazaar it's always the latest version. In such a
+case the rev. number can be seen at Bazaar: http://bazaar.launchpad.net/~snowdrop/wtactics/trunk/files
+
 
 // INTRO
 
@@ -46,9 +50,10 @@ Inkscape, open up the SVG you want to work with.
 There are really only two ways you can help us out with WTactics, and both are equally important:
 
 1. Donate money, so we can hire artists for new card artwork, pay bandwidth costs etc.
-2. Work: Do something for the project.
+2. Work: Do something for the project. 
 
-
+Either way youy should contact us now at contact@WTactics.org - we'd love to hear from you and have
+you on our tream.
 
 
 // PLEASE 
@@ -75,7 +80,7 @@ Because most mortals don't use sub-version systems and us wanting to keep the de
 we have decided to release our trunk as a downloadable tar-package from our official site at http://www.WTactics.org/downloads  
 
 The revision number of the "WTactics.org Developers Package" corresponds to whatever revision in the trunk it was a copy of.
-The higher the number, the more up to date versionb you have of the package. That said, if you want to be certain you have the
+The higher the number, the more up to date version you have of the package. That said, if you want to be certain you have the
 latest files and the most recent progress you should download the file(s) you work with from the trunk instead of using the ones
 in the tar-package.
 

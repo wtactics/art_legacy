@@ -1,0 +1,21 @@
+Revision 4
+
+ADDED
+
+Rebels.svg
+
+- Space for card type on Event-template
+- Threshold bars.
+- 3 non-art layers.
+
+
+FIXES
+
+Rebels.svg
+
+- Killed 7+ excessive layers in Rebels.svg
+- Re-layered some objects more correctly.
+- Made the document paper on scale, but added 1mm at every side, making it 90mm high, 65mm wide. 
+- Paper border's on top of art & now red.
+- Scaled down the work copy. 
+
