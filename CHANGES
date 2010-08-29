@@ -1,5 +1,34 @@
-Revision 4
 
+Revision 5
+-----------------------------------------
+
+// FIXES
+
+- Rebels.svg: Bottom / Left & Right Masks for the Elvish Event card, will fix the problem with the drop shadow falling on the card edges etc.
+- Rebels.svg: Resized elf logo.
+- Dev Kit box.svg: Path to raster image corrected.
+- Dev Kit box.svg: Perspective of main text somewhat corrected.
+
+ 
+// ADDED
+
+- Rebels.svg: Card placement grid, making it easier to place new cards around.
+- Rebels.svg: Added threshold layers, so it's easy to add / remove threshold bars by just shutting on off/layers.
+- Rebels.svg: Event Mask split into 3 handy sub-layers for switching them on/off where needed.
+- /misc/used sketches  
+
+// NEW ARTWORK
+
+- Karma
+- Elf Child
+- Merfolk Noble
+- Cyclops
+
+
+
+
+Revision 4
+-----------------------------------------
 ADDED
 
 Rebels.svg
