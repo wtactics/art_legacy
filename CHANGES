@@ -1,4 +1,22 @@
 
+Revision 6
+-----------------------------------------
+
+// FIXES
+
+- Removed useless Photoshop files that lacked proper layering anyhow.
+- Replaced some Photoshop files with minimal layering into GIMP-files and intact layers.
+- Corrected artist info, removed non-relevant names for WT.
+ 
+// NEW ARTWORK
+
+- Confused orc
+- Goblin against the wind
+- Crumbling tower
+- Unity
+
+
+
 Revision 5
 -----------------------------------------
 
@@ -8,7 +26,7 @@ Revision 5
 - Rebels.svg: Resized elf logo.
 - Dev Kit box.svg: Path to raster image corrected.
 - Dev Kit box.svg: Perspective of main text somewhat corrected.
-
+- Corrected artist info, removed non-relevant names for WT.
  
 // ADDED
 
@@ -19,6 +37,10 @@ Revision 5
 
 // NEW ARTWORK
 
+- Confused orc
+- Goblin against the wind
+- Crumbling tower
+- Unity
 - Karma
 - Elf Child
 - Merfolk Noble
