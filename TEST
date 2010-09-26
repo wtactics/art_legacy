@@ -1,0 +1,15 @@
+This is a file to test if it is possible for you to commit any code to Wesnoth Tactics.
+
+Q_x says hi!
+
+Steps to get things working:
+Assigned to wtdevs group at launchpad
+Installing Bazaar Explorer 2.1.2 (latest stable was not working properly, there was no config window appearing, it is in 2.1.2)
+Downloading PUTTY
+Creating SSH key
+Registering public key on launchpad as written here:
+https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair
+Executing launchpad-login command, as depicted here:
+http://doc.bazaar.canonical.com/explorer/en/guide/setup.html#ssh-secure-network-transfers
+Running PAGENT from putty, clicking on it in the tray, adding a key
+Bazaar will use it automagically
