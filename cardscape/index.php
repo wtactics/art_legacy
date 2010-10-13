@@ -8,13 +8,12 @@
 		<script type="text/javascript">/* <![CDATA[ *//* ]]> */</script>
 	</head>
 	<body>
-		<h1>WTactics Card Database</h1>
 <?php
 error_reporting( E_ALL );
 function errror_handler() {
 	//TODO
 }
-//session_start();
+session_start();
 
 require_once 'util.php';
 require_once 'config.php';
@@ -39,6 +38,7 @@ $act[ 'edit_card' ] = function () {
 };
 
 $act[ 'search_card' ] = function () {
+	msg( 'Card search not implemented yet!' );
 
 };
 
@@ -52,12 +52,36 @@ $act[ 'logoff' ] = function () {
 
 };
 
+//output navigation and decide which link is active
+$category = (isset( $_GET[ 'dev' ] ) )? 'dev': 'official';
+$category = (isset( $_GET[ 'settings' ] ) )? 'settings': $category;
+$categories = array( 'official' => 'Official Cards',
+	'dev' => 'Card Development Area',
+	'settings' => 'User control panel' );
+
+echo '<div id="nav">';
+while( list( $key, $value ) = each( $categories ) ) {
+	echo '<a href="index.php?'.$key.'" class="'.
+		( ($key == $category)? 'active': 'inactive' ).
+		'">'.$value.'</a>';
+}
+echo '</div>';
+
 /* Decide what to do */
 foreach( $_GET as $key => $value ) {
-	if( in_array( $key, array_keys( $act ) ) ) {
+	if( isset( $act[ $key ] ) ) {
 		$act[ $key ]();
 	}
+	msg( 'Using GET parameter ['.$key.']' );
 }
+
+echo '<form name="search" method="get" action="index.php">
+	<fieldset><legend>Card search</legend>';
+	inputField( $category, '', 'hidden' );
+	inputField( 'search_card', '', 'hidden' );
+	inputField( 'srch_name', 'Name of card' ); #TODO implement complex search editor in JavaScript with OR AND and NOT combinations
+	inputField( 'srch_rule', 'Part of ruletext' );
+echo '</fiedset></form>';
 
 ?>
 
