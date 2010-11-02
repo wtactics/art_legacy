@@ -13,24 +13,7 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1272201154664" FOLDED="true" HGAP="-62" ID="ID_819222134" MODIFIED="1288702697448" POSITION="right" VSHIFT="1402">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      House of Nobles
-    </p>
-    <p>
-      <font size="3" color="#000000">soldiers of fortune </font>
-    </p>
-    <p>
-      <font size="3" color="#000000">trickery, espionage etc.</font>
-    </p>
-  </body>
-</html>
-</richcontent>
+<node COLOR="#0033ff" CREATED="1272201154664" HGAP="-108" ID="ID_819222134" MODIFIED="1287942387648" POSITION="right" TEXT="House of Nobles" VSHIFT="1405">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1272320920240" ID="ID_1741427034" MODIFIED="1287940390975" TEXT="Attitude">
@@ -117,7 +100,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1272201142890" FOLDED="true" HGAP="234" ID="ID_1184001938" MODIFIED="1288702154237" POSITION="left" TEXT="Dark Legion" VSHIFT="-162">
+<node COLOR="#0033ff" CREATED="1272201142890" HGAP="234" ID="ID_1184001938" MODIFIED="1287942384070" POSITION="left" TEXT="Dark Legion" VSHIFT="-162">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1272205419569" HGAP="39" ID="ID_1834450443" MODIFIED="1272208414896" TEXT="Undead" VSHIFT="-49">
@@ -227,7 +210,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1272196155413" FOLDED="true" HGAP="486" ID="ID_988390620" MODIFIED="1288702689036" POSITION="right" VSHIFT="-272">
+<node COLOR="#0033ff" CREATED="1272196155413" HGAP="473" ID="ID_988390620" MODIFIED="1287942374250" POSITION="right" VSHIFT="-193">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -240,15 +223,8 @@
     <p style="text-align: left">
       Gaia
     </p>
-    <p style="text-align: left">
-      <font size="3" color="#000000">defensive and peacefull </font>
-    </p>
-    <p style="text-align: left">
-      <font size="3" color="#000000">use nature's powers </font>
-    </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1287939358860" HGAP="-49" ID="ID_1093174667" MODIFIED="1287939587831" TEXT="General" VSHIFT="85">
@@ -262,7 +238,7 @@
 </node>
 <node COLOR="#990000" CREATED="1272360010087" ID="ID_1403539405" MODIFIED="1287938678668" TEXT="Unique Abilities">
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#111111" CREATED="1272205625605" ID="ID_267537468" MODIFIED="1288702024230" TEXT="Protect / Heal">
+<node COLOR="#111111" CREATED="1272205625605" ID="ID_267537468" MODIFIED="1272360382431" TEXT="Protect / Heal">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#111111" CREATED="1272360940464" ID="ID_1134214140" MODIFIED="1272360943871" TEXT="Life Link"/>
 </node>
@@ -272,7 +248,7 @@
 <node COLOR="#111111" CREATED="1272359468526" ID="ID_1048122280" MODIFIED="1272360875879" TEXT="Mark Cards">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1272205388717" HGAP="17" ID="ID_1062326940" MODIFIED="1288702024230" TEXT="Pacifying" VSHIFT="3">
+<node COLOR="#111111" CREATED="1272205388717" HGAP="17" ID="ID_1062326940" MODIFIED="1272360938079" TEXT="Pacifying" VSHIFT="3">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#111111" CREATED="1272361048027" ID="ID_1203406997" MODIFIED="1279789543875" TEXT="Pin Down - Net"/>
 </node>
@@ -335,19 +311,19 @@
 <node COLOR="#990000" CREATED="1272320766101" HGAP="38" ID="ID_1652908937" MODIFIED="1287939444276" TEXT="Attitude" VSHIFT="26">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1272320780603" ID="ID_1124473680" MODIFIED="1272361027497" TEXT="Good"/>
-<node COLOR="#111111" CREATED="1272320773135" ID="ID_456316041" MODIFIED="1288702024230" TEXT="Shy">
+<node COLOR="#111111" CREATED="1272320773135" ID="ID_456316041" MODIFIED="1272918797417" TEXT="Shy">
 <node COLOR="#111111" CREATED="1272360973536" ID="ID_1940386936" MODIFIED="1272360977362" TEXT="Elusive">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1272360986096" ID="ID_775870075" MODIFIED="1288702105276" TEXT="Hard to target">
+<node COLOR="#111111" CREATED="1272360986096" ID="ID_775870075" MODIFIED="1279787841603" TEXT="Hard to target">
 <node COLOR="#111111" CREATED="1279787843256" ID="ID_1778773166" MODIFIED="1279787853830" TEXT="Thematic: Water"/>
 </node>
 </node>
-<node COLOR="#111111" CREATED="1272323400852" ID="ID_834406719" MODIFIED="1288702024230" TEXT="Anti-tech">
+<node COLOR="#111111" CREATED="1272323400852" ID="ID_834406719" MODIFIED="1272323403583" TEXT="Anti-tech">
 <node COLOR="#111111" CREATED="1272361015521" ID="ID_480754736" MODIFIED="1272361018850" TEXT="Debuffs Tech"/>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1272205471208" HGAP="34" ID="ID_1889493718" MODIFIED="1288701708035" TEXT="Creatures" VSHIFT="23">
+<node COLOR="#990000" CREATED="1272205471208" FOLDED="true" HGAP="34" ID="ID_1889493718" MODIFIED="1287939441642" TEXT="Creatures" VSHIFT="23">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1272205588542" ID="ID_1575186670" MODIFIED="1272360499375" TEXT="Price: 3"/>
 <node COLOR="#111111" CREATED="1272206057937" ID="ID_1091765540" MODIFIED="1272360684311" TEXT="Tribal: 5">
@@ -411,24 +387,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1287939708154" FOLDED="true" HGAP="257" ID="ID_259765734" MODIFIED="1288702135119" POSITION="left" VSHIFT="89">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Red Banner
-    </p>
-    <p>
-      <font size="3" color="#000000">poor people doing a revolution, </font>
-    </p>
-    <p>
-      <font size="3" color="#000000">believeing in a collective effort</font>
-    </p>
-  </body>
-</html>
-</richcontent>
+<node COLOR="#0033ff" CREATED="1287939708154" HGAP="257" ID="ID_259765734" MODIFIED="1287942381220" POSITION="left" TEXT="Red Banner" VSHIFT="89">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1287940601999" ID="ID_124605483" MODIFIED="1287940609833" TEXT="General">
@@ -437,7 +396,7 @@
 <node COLOR="#990000" CREATED="1287940580089" ID="ID_1707286461" MODIFIED="1287940585400" TEXT="Abilities">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#111111" CREATED="1287940574863" ID="ID_737005552" MODIFIED="1288702024230" TEXT="Goblins">
+<node COLOR="#111111" CREATED="1287940574863" ID="ID_737005552" MODIFIED="1287940627182" TEXT="Goblins">
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#111111" CREATED="1287940566446" ID="ID_960153518" MODIFIED="1287940588719" TEXT="Sacrificial">
 <font NAME="SansSerif" SIZE="12"/>
@@ -488,21 +447,7 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1287942284170" FOLDED="true" HGAP="42" ID="ID_237490646" MODIFIED="1288702146886" POSITION="right" VSHIFT="-2642">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Empire
-    </p>
-    <p>
-      <font size="3" color="#000000">&#160;the heaviest and most armored, slow units</font>
-    </p>
-  </body>
-</html>
-</richcontent>
+<node COLOR="#0033ff" CREATED="1287942284170" HGAP="42" ID="ID_237490646" MODIFIED="1287942391274" POSITION="right" TEXT="Empire" VSHIFT="-2642">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1287942290743" HGAP="101" ID="ID_542384520" MODIFIED="1287942318322" TEXT="Soon here" VSHIFT="-38">
