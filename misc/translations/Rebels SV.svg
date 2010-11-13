@@ -14,7 +14,7 @@
    height="405.86447"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    version="1.0"
    sodipodi:docname="Rebels SV.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -33,9 +33,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="1598.5081"
-     inkscape:cy="-1208.6132"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="1778.6438"
+     inkscape:cy="-1201.4129"
      inkscape:document-units="mm"
      inkscape:current-layer="layer41"
      showgrid="false"
@@ -132,8 +132,16 @@
        id="guide16141" />
     <sodipodi:guide
        orientation="0,1"
-       position="5616,-1064"
+       position="1397.9501,-1062.7815"
        id="guide15870" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1252.2861,-1128.1888"
+       id="guide37630" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1647.75,-1157.75"
+       id="guide37727" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -69751,113 +69759,205 @@
        id="image11923"
        height="58.765362"
        width="94.024582"
-       xlink:href="file:///home/snowdrop/Skrivbord/800px-Flag_of_Sweden.svg.png"
-       inkscape:export-filename="/home/snowdrop/Skrivbord/teamsverige.png"
-       inkscape:export-xdpi="88"
-       inkscape:export-ydpi="88" />
+       xlink:href="file:///home/snowdrop/Skrivbord/175px-Flag_of_Germany.svg.png"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_germany.png"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-ydpi="87.429771" />
     <g
-       id="g11927"
-       transform="translate(0,-6.3639615)"
-       inkscape:export-filename="/home/snowdrop/Skrivbord/teamsverige.png"
-       inkscape:export-xdpi="88"
-       inkscape:export-ydpi="88">
-      <g
-         inkscape:export-ydpi="75.793465"
-         inkscape:export-xdpi="75.793465"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/translate these.png"
-         transform="matrix(0.48482895,0,0,0.48482895,232.88474,1475.3464)"
-         id="g11850">
-        <text
-           id="text11852"
-           y="254.97519"
-           x="2028.4447"
-           style="font-size:81.22624969px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
-           xml:space="preserve"><tspan
-             style="fill:#28170b;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
-             y="254.97519"
-             x="2028.4447"
-             id="tspan11854"
-             sodipodi:role="line">WTactics</tspan></text>
-        <text
-           id="text11856"
-           y="271.58841"
-           x="2336.6426"
-           style="font-size:30.62241554px;font-style:normal;font-weight:normal;fill:#d45500;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
-           xml:space="preserve"><tspan
-             style="fill:#d45500"
-             y="271.58841"
-             x="2336.6426"
-             id="tspan11858"
-             sodipodi:role="line">.org</tspan></text>
-      </g>
-      <text
-         id="text11860"
-         y="1563.7064"
-         x="1214.8107"
-         style="font-size:33.76393509px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
-         xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#28170b;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-           y="1563.7064"
-           x="1214.8107"
-           id="tspan11862"
-           sodipodi:role="line">Team Sverige</tspan></text>
-    </g>
-    <g
-       id="g11972"
-       inkscape:export-filename="/home/snowdrop/Skrivbord/squadra italia.pngt.png"
-       inkscape:export-xdpi="96.72612"
-       inkscape:export-ydpi="96.72612">
-      <image
-         y="1652.8096"
-         x="1115.6833"
-         id="image11947"
-         height="58.765362"
-         width="94.024582"
-         xlink:href="file:///home/snowdrop/Skrivbord/800px-Flag_of_Italy.svg.png"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/teamsverige.png"
-         inkscape:export-xdpi="88"
-         inkscape:export-ydpi="88" />
-      <g
-         id="g11951"
-         transform="matrix(0.48482895,0,0,0.48482895,232.88474,1587.7764)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/translate these.png"
-         inkscape:export-xdpi="75.793465"
-         inkscape:export-ydpi="75.793465">
-        <text
-           xml:space="preserve"
-           style="font-size:81.22624969px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
-           x="2028.4447"
-           y="254.97519"
-           id="text11953"><tspan
-             sodipodi:role="line"
-             id="tspan11955"
-             x="2028.4447"
-             y="254.97519"
-             style="fill:#28170b;font-family:ChunkFive;-inkscape-font-specification:ChunkFive">WTactics</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:30.62241554px;font-style:normal;font-weight:normal;fill:#d45500;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
-           x="2336.6426"
-           y="271.58841"
-           id="text11957"><tspan
-             sodipodi:role="line"
-             id="tspan11959"
-             x="2336.6426"
-             y="271.58841"
-             style="fill:#d45500">.org</tspan></text>
-      </g>
+       id="g11850"
+       transform="matrix(0.48482895,0,0,0.48482895,232.88474,1468.9824)"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_germany.png"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-ydpi="87.429771">
       <text
          xml:space="preserve"
-         style="font-size:31.81434631px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
-         x="1214.8335"
-         y="1674.7837"
-         id="text11961"><tspan
+         style="font-size:81.22624969px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+         x="2028.4447"
+         y="254.97519"
+         id="text11852"><tspan
            sodipodi:role="line"
-           id="tspan11963"
-           x="1214.8335"
-           y="1674.7837"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#28170b;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">Squadra Italia</tspan></text>
+           id="tspan11854"
+           x="2028.4447"
+           y="254.97519"
+           style="fill:#28170b;font-family:ChunkFive;-inkscape-font-specification:ChunkFive">WTactics</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:30.62241554px;font-style:normal;font-weight:normal;fill:#d45500;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+         x="2336.6426"
+         y="271.58841"
+         id="text11856"><tspan
+           sodipodi:role="line"
+           id="tspan11858"
+           x="2336.6426"
+           y="271.58841"
+           style="fill:#d45500">.org</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:33.91204834px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+       x="1214.801"
+       y="1555.8134"
+       id="text11860"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_germany.png"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-ydpi="87.429771"><tspan
+         sodipodi:role="line"
+         id="tspan11862"
+         x="1214.801"
+         y="1555.8134"
+         style="font-size:31.79999924px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#28170b;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif">Team Deutschland</tspan></text>
+    <image
+       inkscape:export-ydpi="88"
+       inkscape:export-xdpi="88"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/teamsverige.png"
+       xlink:href="file:///home/snowdrop/Skrivbord/800px-Flag_of_Italy.svg.png"
+       width="94.024582"
+       height="58.765362"
+       id="image11947"
+       x="1115.6833"
+       y="1652.8096" />
+    <g
+       inkscape:export-ydpi="75.793465"
+       inkscape:export-xdpi="75.793465"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/translate these.png"
+       transform="matrix(0.48482895,0,0,0.48482895,232.88474,1587.7764)"
+       id="g11951">
+      <text
+         id="text11953"
+         y="254.97519"
+         x="2028.4447"
+         style="font-size:81.22624969px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+         xml:space="preserve"><tspan
+           style="fill:#28170b;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+           y="254.97519"
+           x="2028.4447"
+           id="tspan11955"
+           sodipodi:role="line">WTactics</tspan></text>
+      <text
+         id="text11957"
+         y="271.58841"
+         x="2336.6426"
+         style="font-size:30.62241554px;font-style:normal;font-weight:normal;fill:#d45500;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+         xml:space="preserve"><tspan
+           style="fill:#d45500"
+           y="271.58841"
+           x="2336.6426"
+           id="tspan11959"
+           sodipodi:role="line">.org</tspan></text>
+    </g>
+    <text
+       id="text11961"
+       y="1674.7837"
+       x="1214.8335"
+       style="font-size:31.81434631px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#28170b;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         y="1674.7837"
+         x="1214.8335"
+         id="tspan11963"
+         sodipodi:role="line">Squadra Italia</tspan></text>
+    <g
+       inkscape:export-ydpi="87.429771"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_germany.png"
+       transform="matrix(0.48482895,0,0,0.48482895,232.88474,1369.9875)"
+       id="g37632">
+      <text
+         id="text37634"
+         y="254.97519"
+         x="2028.4447"
+         style="font-size:81.22624969px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+         xml:space="preserve"><tspan
+           style="fill:#28170b;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+           y="254.97519"
+           x="2028.4447"
+           id="tspan37636"
+           sodipodi:role="line">WTactics</tspan></text>
+      <text
+         id="text37638"
+         y="271.58841"
+         x="2336.6426"
+         style="font-size:30.62241554px;font-style:normal;font-weight:normal;fill:#d45500;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+         xml:space="preserve"><tspan
+           style="fill:#d45500"
+           y="271.58841"
+           x="2336.6426"
+           id="tspan37640"
+           sodipodi:role="line">.org</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="87.429771"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_germany.png"
+       id="text37642"
+       y="1456.8184"
+       x="1214.801"
+       style="font-size:33.91204834px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+       xml:space="preserve"><tspan
+         style="font-size:31.79999924px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#28170b;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         y="1456.8184"
+         x="1214.801"
+         id="tspan37644"
+         sodipodi:role="line">Team Deutschland</tspan></text>
+    <g
+       inkscape:export-ydpi="87.429771"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_poland.png"
+       transform="matrix(0.48482895,0,0,0.48482895,671.29093,1468.9824)"
+       id="g37648">
+      <text
+         id="text37650"
+         y="254.97519"
+         x="2028.4447"
+         style="font-size:81.22624969px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+         xml:space="preserve"><tspan
+           style="fill:#28170b;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+           y="254.97519"
+           x="2028.4447"
+           id="tspan37652"
+           sodipodi:role="line">WTactics</tspan></text>
+      <text
+         id="text37654"
+         y="271.58841"
+         x="2336.6426"
+         style="font-size:30.62241554px;font-style:normal;font-weight:normal;fill:#d45500;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+         xml:space="preserve"><tspan
+           style="fill:#d45500"
+           y="271.58841"
+           x="2336.6426"
+           id="tspan37656"
+           sodipodi:role="line">.org</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="87.429771"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_poland.png"
+       id="text37658"
+       y="1557.5248"
+       x="1653.2206"
+       style="font-size:36.54242325px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Ruritania;-inkscape-font-specification:Ruritania"
+       xml:space="preserve"><tspan
+         style="font-size:34.26655579px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#28170b;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+         y="1557.5248"
+         x="1653.2206"
+         id="tspan37660"
+         sodipodi:role="line">Polska Ekipa</tspan></text>
+    <image
+       y="1534.1262"
+       x="1554.1116"
+       id="image37724"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAABOCAYAAAANbhkmAAAABHNCSVQICAgIfAhkiAAAANpJREFU
+eJzt3EENwDAMBMGmGAKn/FGUi8uieewMAkur+3rNzFyk3KcP4H+iB4keJHqQ6EGiB4keJHqQ6EGi
+B4keJHqQ6EGiB4keJHqQ6EGiB4keJHqQ6EGiB4keJHqQ6EGiB4keJHqQ6EGiB4keJHqQ6EGiB4ke
+JHqQ6EGiB613P16KxVh6kOhBogeJHiR6kOhBogeJHiR6kOhBogeJHiR6kOhBogeJHiR6kOhBogeJ
+HiR6kOhBogeJHiR6kOhBogeJHiR6kOhBogeJHiR6kOhBogeJHiR6kOhBH5yiBsKW+I5BAAAAAElF
+TkSuQmCC
+"
+       height="58.372585"
+       width="93.545807"
+       inkscape:export-filename="/home/snowdrop/Skrivbord/team_poland.png"
+       inkscape:export-xdpi="87.429771"
+       inkscape:export-ydpi="87.429771" />
   </g>
   <g
      inkscape:groupmode="layer"
