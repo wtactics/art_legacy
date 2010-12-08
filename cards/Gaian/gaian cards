@@ -1,0 +1,77 @@
+Ceasefire	
+Event	
+3
+Mark two allies in the same front. No creatures may attack until target players next turn.
+
+Donations for Recovery	
+Event	
+3	
+Until end of turn, this card becomes a resource pile of size x, where x is equal to the number of enemy attackers this turn. You may only use this pile to play Events & Creatures. You may place Creature on it when it comes into play. If you did, deploy at the end of turn.
+
+Elvish Archer	
+Elf	
+2	
+1/1	
+Ranged: May attack creatures with Flying. First strike: Enemy creature only fights back if survives.
+	
+Elvish Druid	
+Elf	
+3	
+2/2	
+Mark: Prevent up to 2 damage on target creature. Mark: Target creature can't move until end of turn. 
+	
+Elvish Fighter	
+Elf	
+1	
+2/1
+	
+Elvish Marksman	
+Elf	
+4/1	
+3/2	
+Ranged: May attack creatures with Flying. First strike: Enemy creature only fights back if it survives.
+	
+Elvish Ranger	
+Elf	
+3/1	
+2/3	
+Stealth 2: Elvish Ranger can only be blocked by creatures with a gold cost greater than 2.
+	
+Elvish Scout	
+Elf - Rider	
+2	
+2/1	
+Quick: Elvish scout deploys at the beginning of the Combat phase.
+
+Elvish Shaman	
+Elf - Caster
+2	
+1/1	
+Mark: Target creature attack rating is halved (rounded up) for this attack 
+	
+Elvish Sharpshooter	
+Elf	
+4/1	
+2/3	
+Ranged: May attack creatures with Flying. Elvish sharpshooter may target a creature rather than target a player	
+	
+Merman Brawler	
+Merfolk	
+2	
+2/2	
+Stun: Whenever Merman Brawler does damage to a creature, place a stun token on it. When the creature would be unmarked, remove the token instead.
+
+Merman Hoplite	
+Merfolk	
+2	
+0/4	
+Guard: Merman Hoplite can defend against multiple creatures at once.	
+
+Nature's Omnipresence
+	Spell	
+Cost	---	needs more care or multiplication	Forum Link	Image Link
+	
+Ocean's Kiss	
+Enchantment-Front	
+4/?	---	
+Draw a card whenever an ally Merfolk creature is discarded from the enchanted front.
