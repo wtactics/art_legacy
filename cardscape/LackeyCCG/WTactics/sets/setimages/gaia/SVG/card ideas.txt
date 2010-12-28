@@ -1,0 +1,39 @@
+*=no art, ?=maybe art, @=have art
+---------
+Creatures
+---------
+
+------
+Events
+------
+* Old Oak (Living Trees) - Turns RP into tree creature
+* Fairy Pot - Turn RP into a swarm of 1/1 elf creatures
+* Natural Growth - RPs get +1 for turn
+? Fishy Rain (Sea Support) - Play a unit from hand for the battle
+* Green Shield - prevent all damage to attacking creature then give it +1/0
+@ Embrace of Peace - Remove all damage from battle, battle ends
+@ Focus - creature can't be target of abilities or event cards until EOR
+@ Bound by Love - play a creature which is linked to another.
+
+---------
+Artifacts
+---------
+* Floral Tower - Gives your creatures flying or defense bonus
+
+---------
+Equipment
+---------
+* Mud Armor - Reduce damage taken by half (rounded down)
+* Dried Algae Armor - 0/+2
+@ Fey Longbow - +2/0, Ranged
+* Storm Trident - 
+
+------------
+Enchantments
+------------
+
+-----
+Magic
+-----
+@ Aldriel's Defiance - Can't use Threshold cards
+

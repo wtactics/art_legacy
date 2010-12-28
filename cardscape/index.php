@@ -1,88 +1,87 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
-		<title></title>
-		<link rel="stylesheet" href="layout.css" />
-		<script type="text/javascript">/* <![CDATA[ *//* ]]> */</script>
-	</head>
-	<body>
 <?php
-error_reporting( E_ALL );
-function errror_handler() {
-	//TODO
-}
-session_start();
+require("connect.php");
+$pagename = "Home | ";
+include('header.php');
 
-require_once 'util.php';
-require_once 'config.php';
-if( !$conf[ 'accept' ] ) {
-	die( 'Please follow the <a href="install.php">installation instructions</a></body></html>' );
-}
-require_once 'Card.php';
-
-$db = $conf[ 'Database' ];
-mysql_connect( $db[ 'host' ], $db[ 'user' ], $db[ 'pass' ] );
-mysql_query( 'USE '.$db[ 'database' ] );
-
-/* Callback functions */
-$act = array();
-
-$act[ 'new_card' ] = function () {
-
-};
-
-$act[ 'edit_card' ] = function () {
-
-};
-
-$act[ 'search_card' ] = function () {
-	msg( 'Card search not implemented yet!' );
-
-};
-
-$act[ 'login' ] = function () {
-	msg( 'not implemented yet!' );
-	echo 'klabatz!';
-
-};
-
-$act[ 'logoff' ] = function () {
-
-};
-
-//output navigation and decide which link is active
-$category = (isset( $_GET[ 'dev' ] ) )? 'dev': 'official';
-$category = (isset( $_GET[ 'settings' ] ) )? 'settings': $category;
-$categories = array( 'official' => 'Official Cards',
-	'dev' => 'Card Development Area',
-	'settings' => 'User control panel' );
-
-echo '<div id="nav">';
-while( list( $key, $value ) = each( $categories ) ) {
-	echo '<a href="index.php?'.$key.'" class="'.
-		( ($key == $category)? 'active': 'inactive' ).
-		'">'.$value.'</a>';
-}
-echo '</div>';
-
-/* Decide what to do */
-foreach( $_GET as $key => $value ) {
-	if( isset( $act[ $key ] ) ) {
-		$act[ $key ]();
+function get_type_list(){
+	//include('util/util.php'); //because get_status_list() already included it...
+	$main_tables = file('card_definition.txt');
+	$list = null;
+	foreach( $main_tables as $table ) {
+		if($table[0]<>'#'){//edit out comments
+			$fieldname = substr($table, 0, strpos($table, " "));
+			$fieldtype = trim(substr($table, strpos($table, " ")));
+			if($fieldname == 'type'){
+				$list = enum_array($fieldtype); //this function is in util/util.php
+			}
+		}
 	}
-	msg( 'Using GET parameter ['.$key.']' );
+	return $list;
 }
 
-echo '<form name="search" method="get" action="index.php">
-	<fieldset><legend>Card search</legend>';
-	inputField( $category, '', 'hidden' );
-	inputField( 'search_card', '', 'hidden' );
-	inputField( 'srch_name', 'Name of card' ); #TODO implement complex search editor in JavaScript with OR AND and NOT combinations
-	inputField( 'srch_rule', 'Part of ruletext' );
-echo '</fiedset></form>';
+function print_progress_table(){
+	/* SET GOALS. THESE SHOULD BE MODIFIED AS NEEDED */
+	$goal = array(	'unit'=>24,
+			'event'=>6,
+			'spell'=>6,
+			'enchantment'=>6,
+			'equipment'=>6,
+			'artifact'=>2);
 
+	include('connect.php');
+	include('card_definition.php');
+
+	/* LOAD THE DATA */
+	$status_list = get_status_list();
+	$type_list = get_type_list();
+
+	$data = null;
+	foreach($type_list as $type){
+		$status_data = null;
+		foreach($status_list as $status){
+			$status_data["$status"] = mysql_num_rows(mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE status='$status' AND type='$type';"));
+		}
+		$data["$type"] = $status_data;
+	}
+
+	/* PRINT OUT THE TABLE */
+	echo "<table>";
+	echo "<th>type</th>";
+	foreach($status_list as $status){
+		echo "<th>$status</th>";
+	}
+	echo "<th>total in pool</th><th>goal</th><th>% completed</th>";
+	$col_total = null;
+	foreach($type_list as $type){
+		$status_data = null;
+		echo "<tr><td>$type</td>";
+		$row_total = 0;
+		foreach($status_list as $status){
+			$d = $data["$type"]["$status"];
+			$col_total["$status"] = $col_total["$status"] + $d; //add to the column total
+			$row_total = $row_total + $d; //add to the row total
+			echo "<td>$d</td>";
+		}
+		echo "<td>$row_total</td><td>" . $goal["$type"] . "</td><td>" . round($row_total / $goal["$type"] * 100) . "%</td></tr>";
+	}
+	echo "<tr><td>totals</td>";
+
+	foreach($col_total as $t){
+		echo "<td>$t</td>";
+	}
+	
+	echo "<td>" . array_sum($col_total) . "</td><td>" . array_sum($goal) . "</td><td>" . round(array_sum($col_total) / array_sum($goal) * 100) . "%</td></tr>";
+	echo "</table>";
+}
+
+//main body
+
+echo "<div style='margin:15px;'>";
+
+echo "<h1>Progress for Gaian Core Release:</h1>";
+print_progress_table();
+
+echo "</div>";
+//end
+include('footer.php');
 ?>
-
-</body></html>

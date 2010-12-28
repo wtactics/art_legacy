@@ -1,0 +1,16 @@
+Name	Set	Imagefile	Faction	Type	Threshold	Gold	Attack	Defense	Abilities
+[i] Information	general	Information	-	-	-	-	-	-	[i] = [info] This card is for information purposes only. [p] = [playtest] This card has been approved for playtesting. [c] = [core] This card has been approved for core release.
+[p] Elvish Archer	gaia	ElvishArcher	Gaia	Elf	0	2	2	1	Ranged
+[p] Elvish Druid	gaia	ElvishDruid	Gaia	Elf - Caster	2	3	2	2	Protect 2, [m]: Target creature cannot move until end of turn.
+[p] Elvish Fighter	gaia	ElvishFighter	Gaia	Elf	0	1	2	1	
+[p] Elvish Marksman	gaia	ElvishMarksman	Gaia	Elf	1	4	3	2	Ranged, First strike
+[p] Elvish Ranger	gaia	ElvishRanger	Gaia	Elf	1	3	2	3	Stealth 2
+[p] Elvish Scout	gaia	ElvishScout	Gaia	Elf - Rider	0	2	2	1	Quick
+[p] Elvish Shaman	gaia	ElvishShaman	Gaia	Elf - Caster	0	2	1	1	[m]: Target creature's attack rating is halved (rounded up) for this attack.
+[p] Elvish Sharpshooter	gaia	ElvishSharpshooter	Gaia	Elf	1	4	2	3	Ranged, Elvish Sharpshooter may target a creature when attacking rather than target a player.
+[p] Merman Brawler	gaia	MermanBrawler	Gaia	Merfolk	0	2	2	2	Stun
+[p] Merman Hoplite	gaia	MermanHoplite	Gaia	Merfolk	0	2	0	4	Guard
+Doubt the Violence	gaia	DoubtTheViolence	Gaia	Event	1	3	-	-	Target attacker is placed on the top of its Army Deck. If its cost is 3 or less and it has no attacking allies in its front, it is discarded instead. All damage to the defender(s) is resolved as usual.
+Elvish Captain	gaia	ElvishCaptain	Gaia	Unique - Elf - Leader	3	4	3	3	All ally Gaian creatures except the Elvish Captain get 0/+2 while defending in combat., [m]: Unmark target ally.
+Elvish Shyde	gaia	ElvishShyde	Gaia	Elf - Caster	3	5	2	3	[m]: Target ally that would be discarded is instead placed face down as a resource card on your smallest RP.
+Payback	gaia	Payback	Gaia	Event	0	3	-	-	Until end of turn, this card becomes a resource pile of size x, where x is equal to the number of enemy attackers this turn. You may only use this RP to pay for Events & Creatures. You may place a creature on it when it comes into play. If you did, deploy it at the end of turn.

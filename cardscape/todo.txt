@@ -1,0 +1,59 @@
+THIS IS THE TODO LIST FOR CARDSCAPE - CARD DEVELOPMENT SOFTWARE
+IT IS SEPARATED INTO TWO LISTS: BUGS AND FEATURES
+THE ITEMS ARE PRESENTED IN ORDER OF APPROXIMATE PRIORITY
+
+Key:
+:( = acknowledged as a bug or missing feature
+:| = should be fixed, but pending test review
+:) = fixed, next release will contain the fix
+
+////////////////////////////
+//          BUGS          //
+////////////////////////////
+
+MISCELLANEOUS
+:| All redirects are broken.
+:( Admin privileges dropped when trying to edit users.
+:( User update is malfunctioning because the changer does not "have permission to edit users"
+:| Fonts are not functioning.
+
+////////////////////////////
+//        FEATURES        //
+////////////////////////////
+
+MISCELLANEOUS
+:( Fields with no data are not shown.
+
+IMAGE UPLOAD
+:( Fix strange filenaming convention
+:( Add support
+
+REGISTER PAGE
+:( Add in re-captcha support.
+:( Explain how cardscape uses Gravatar and include a link to register there.
+:( Fix the password field as per snowdrop's request (2 fields, password char)
+
+VERSIONING AND ROLLBACK
+:( Keep a complete history of card revisions (a new, wt_history database?)
+:( Allow wiki-like rollback by admins
+
+SEARCH
+:( Will be implemented by foodoo, someday.
+
+MILESTONE/REPORTS
+:( Make easy to edit
+
+MAKE SURE CODE IS PRESENTABLE
+:( Easy enough that a 4 year old can read
+
+SECURITY
+:( Make so the system is invulnerable to SQL injection
+:( Salt password hashes
+
+NEW BROWSE PAGE
+:( Shows the cards in a searchable order.
+
+TODO PAGE (SIMILAR IDEA AS THE CURRENT BROWSE PAGE)
+:( "Queue list"
+:( only if it's been in for x days, where x is in config file
+:( chrono, DESC; pressing the title "date" in a column reverses order

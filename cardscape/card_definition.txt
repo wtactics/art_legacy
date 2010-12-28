@@ -1,0 +1,30 @@
+# THIS IS THE MAIN CARD DEFINITION FOR WTACTICS
+# TO MOD CARDSCAPE TO FIT YOUR CARD GAME, ALL YOU SHOULD HAVE TO DO IS EDIT THIS FILE AND TEMPLATE.CSS
+# to add a comment, place '#' at the beginning of the line.
+#===========================================
+# Cardscape Definition (please don't edit)
+#===========================================
+id INT PRIMARY KEY AUTO_INCREMENT
+revision FLOAT DEFAULT '.01'
+date TIMESTAMP
+author VARCHAR(15)
+status ENUM( 'concept', 'refine', 'playtest', 'approved', 'official', 'hold', 'restricted', 'rejected' ) DEFAULT 'concept'
+image VARCHAR(255)
+cardname VARCHAR(30)
+#====================================
+# WTactics-Specific Card Definition
+#====================================
+faction ENUM( 'Gaia', 'House of Nobles', 'Undead', 'Red Banner', 'Empire' )
+type ENUM( 'unit', 'event', 'spell', 'enchantment', 'equipment', 'artifact' )
+subtype VARCHAR(30)
+cost INT
+threshold INT
+attack INT
+defense INT
+rules TEXT
+flavor TEXT
+#=====================
+# IMPORTANT NOTES!!!
+#=====================
+# You cannot use the character ',' in your ENUMs or it won't register properly.
+# If you edit the cardscape definition lines, you run the risk of breaking cardscape.

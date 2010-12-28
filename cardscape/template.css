@@ -1,0 +1,121 @@
+table{
+  border-collapse:collapse;
+}
+  table,th,td{
+  text-align:left;
+  background-color:#d4ceb4;
+  border: 1px solid black;
+  padding: 2px;
+  vertical-align:top;
+}
+body{
+  background-color: #e5dfc5;
+  font-family: liberation;
+}
+img{
+  border-style:none;
+}
+.avatar{
+  border: 1px solid black;
+  margin-top: 3px;
+}
+.error{
+  color:red;
+  font-weight:bold;
+}
+.username{
+  font-weight:bold;
+  text-decoration: none;
+  color: black;
+}
+.role{
+  font-style:italic;
+}
+.fieldtype_int{
+  width:100px;
+}
+.header{
+  color:#FFFFFF;
+  text-decoration: none;
+}
+.statusheader{
+  font-weight:bold;
+  font-size:30px;
+  padding: 5px;
+}
+/* These style the infoboxes on card.php */
+.cardinfo{
+  background-color:#d4ceb4;
+  border: 1px dashed black;
+  padding:3px;
+}
+.cardtable{
+  border: none;
+}
+.cardtable td{
+  border: none;
+}
+.userdata{
+  border: none;
+}
+.userdata td{
+  border: none;
+}
+.comment{
+  width:100%;
+  margin-bottom:5px;
+}
+/*******  Style Association? Just a thought.  *******/
+/* These should match the titles of the entries in card_definition.txt */
+.cardname{
+  color:black;
+  text-decoration: underline;
+}
+.flavor{
+  text-decoration:none;
+  font-style:italic;
+}
+.subtype{
+  font-style:italic;
+}
+
+/*******  Color Association? Just a thought.  *******/
+/* These should match the ENUM values in card_definition.txt */
+.concept{ /*initial submission*/
+  color:#553300;
+}
+.refine{ /*refine rules to get ready for playtesting*/
+  color:#555500;
+}
+.playtest{ /*test and balance the cards*/
+  color:#335500;
+}
+.approved{ /*finalize art to get it ready for publication*/
+  color:#005500;
+}
+.official{ /*these cards have been publicly released*/
+  color:#000055;
+}
+.hold{ /*cards that are not being considered now, but have good ideas*/
+  color:#444444;
+}
+.restricted{ /*cards that were previously approved, but are now being reviewed*/
+  color:#FF6600;
+}
+.rejected{ /*at any step, can be discarded to here*/
+  color:red;
+}
+/***********  FONTS  ************/
+@font-face {
+	font-family: Liberation;
+	src: url(fonts/LiberationSerif-Regular.ttf);
+}
+@font-face {
+	font-family: ChunkFiveRoman;
+	src: url(fonts/ChunkFive-Roman.otf);
+}
+.chunk {
+	font-family: ChunkFiveRoman;
+}
+
+

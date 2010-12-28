@@ -1,0 +1,19 @@
+=== HOW TO INSTALL CARDSCAPE ===
+
+1: Make sure that you have already created the database you are using. You must do this manually. (We recommend using 'cardscape' as the database.)
+2: Edit ./cardscape/config.php and put in your appropriate server, username, password and database, replacing the ones in there now.
+3: Upload the folder ./cardscape/ into the desired location
+4: Run the ./cardscape/install.php script from a browser.
+5: Login as administrator - username: admin, password: password
+6: Go to the user control panel and change admin's password to something else. (Find this in the upper right hand corner of the screen.)
+7: Add other users from any admin account. If you enabled "register" in config.php, you can also register when logged out. (We recommend not using the admin account for normal use.)
+8: Pat yourself on your back, highfive a stranger, and praise yourself loudly in public. You're done!
+
+Cardscape should now be installed. You should be able to do everything from the interface now. In the likely event of something getting buggy or broken, you can fix most errors manually using phpMyAdmin. That's what I do.
+Please e-mail all questions or bug reports to pennomi@wtactics.org and I'll try to fix them as quick as I can.
+
+=== OTHER IMPORTANT THINGS TO DO TO MAKE SURE CARDSCAPE RUNS PROPERLY ===
+
+* To add card images, they must be manually added to the cardscape/cards directory with the filename as such: Elvish Archer => ElvishArcher.png (Capitalization matters!)
+* (NYI) Make sure cardscape/cards directory has permission to create and delete files. Otherwise, the card images will not be transferred when a cardname is changed.
+* Make sure you have a second admin account to the default. That way, if you forget a password, you can reset it without editing the database.
