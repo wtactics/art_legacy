@@ -4,8 +4,8 @@ $conf = array(
 /* SETS THE USER DATABASE OPTIONS */
 	'Database' => array(
 		'host' => 'localhost',
-		'user' => 'root',
-		'pass' => 'SQLinfin*9',
+		'user' => 'username',
+		'pass' => 'password',
 		'database' => 'cardscape',
 		'prefix' => 'wt_' ), //we recommend something like 'wt_' (short for WTactics)
 /* SETS THE OPTIONS SPECIFIC TO HOW CARDSCAPE FUNCTIONS FOR YOUR PROJECT */
