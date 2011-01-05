@@ -33,16 +33,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000001"
-     inkscape:cx="655.43528"
-     inkscape:cy="283.69726"
+     inkscape:cx="697.66799"
+     inkscape:cy="-109.19754"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer29"
      showgrid="true"
      inkscape:window-width="1280"
-     inkscape:window-height="752"
+     inkscape:window-height="971"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     showguides="false"
+     inkscape:window-y="24"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:window-maximized="1"
@@ -171,6 +171,18 @@
        orientation="0,1"
        position="1265.7211,962.72586"
        id="guide15358" />
+    <sodipodi:guide
+       orientation="0.70710678,0.70710678"
+       position="521.24999,-303.24999"
+       id="guide24509" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="514.12499,-346.12499"
+       id="guide24511" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="516.62499,-312.37499"
+       id="guide24513" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -71110,6 +71122,26 @@
            in="SourceGraphic" />
       </feMerge>
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5077"
+       id="linearGradient24496"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.72731862,0,0,0.72401891,490.94673,519.87248)"
+       x1="-2.0794444"
+       y1="286.87006"
+       x2="14.92683"
+       y2="302.49988" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4286"
+       id="linearGradient24500"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.79331202,0,0,0.79331202,453.05109,499.2831)"
+       x1="49.890034"
+       y1="292.15887"
+       x2="70.86171"
+       y2="313.30704" />
   </defs>
   <metadata
      id="metadata7">
@@ -71387,9 +71419,9 @@
          inkscape:export-xdpi="223.39319"
          inkscape:export-ydpi="223.39319" />
       <rect
-         inkscape:export-ydpi="131.21619"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          y="444.88135"
          x="296.88025"
          height="186.32687"
@@ -71397,9 +71429,9 @@
          id="rect16495"
          style="fill:url(#radialGradient16737);fill-opacity:1;stroke:#000000;stroke-width:0.83416891;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <rect
-         inkscape:export-ydpi="131.21619"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          style="fill:url(#linearGradient16739);fill-opacity:1;stroke:none"
          id="rect16497"
          width="129.49287"
@@ -71614,16 +71646,16 @@
          height="400"
          width="283" />
       <image
-         y="440.6434"
-         x="288.89514"
-         id="image16499"
-         height="308.73767"
+         sodipodi:absref="/home/eyerouge/trunk/misc/map3.png"
+         xlink:href="misc/map3.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          width="218.43193"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619"
-         xlink:href="/home/snowdrop/trunk/misc/map3.png"
-         sodipodi:absref="/home/snowdrop/trunk/misc/map3.png" />
+         height="308.73767"
+         id="image16499"
+         x="290.89514"
+         y="440.6434" />
     </g>
     <g
        style="opacity:0.65243901;display:inline;filter:url(#filter10630)"
@@ -73089,9 +73121,9 @@
       <g
          id="g16501"
          transform="matrix(0.7852039,0,0,0.78520453,527.73351,436.61293)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591">
         <path
            sodipodi:nodetypes="cccccccccccccc"
            style="fill:url(#linearGradient16741);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -75926,9 +75958,9 @@
          height="51.389095"
          x="298.96771"
          y="574.61206"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619" />
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
       <rect
          y="573.59125"
          x="298.53973"
@@ -75936,9 +75968,9 @@
          width="203.38394"
          id="rect16543"
          style="fill:#677821;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619" />
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
       <rect
          style="fill:url(#radialGradient16775);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect16545"
@@ -75946,16 +75978,16 @@
          height="0.96249962"
          x="301.20337"
          y="575.20734"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619" />
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
       <path
          style="fill:#977950;fill-opacity:1;stroke:url(#radialGradient16777);stroke-width:1.5504539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new"
          d="m 298.91429,572.91942 209.82844,-0.0439"
          id="path16547"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619" />
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
       <rect
          y="574.3053"
          x="301.64026"
@@ -75963,9 +75995,9 @@
          width="199.88808"
          id="rect16549"
          style="opacity:0.7;fill:url(#radialGradient16779);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619" />
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
       <rect
          inkscape:export-ydpi="119.18977"
          inkscape:export-xdpi="119.18977"
@@ -76753,9 +76785,9 @@
          x="286.47766"
          y="125.83913" />
       <rect
-         inkscape:export-ydpi="131.21619"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          style="fill:url(#radialGradient16781);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect16551"
          width="197.65971"
@@ -76763,16 +76795,16 @@
          x="300.75214"
          y="621.70404" />
       <path
-         inkscape:export-ydpi="131.21619"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          id="path16553"
          d="m 289.62002,625.09608 212.47832,-0.058"
          style="fill:#977950;fill-opacity:1;stroke:url(#radialGradient16783);stroke-width:1.79249835;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new" />
       <rect
-         inkscape:export-ydpi="131.21619"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          y="622.4754"
          x="298.51538"
          height="1.9323844"
@@ -76780,9 +76812,9 @@
          id="rect16555"
          style="fill:#677821;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
       <rect
-         inkscape:export-ydpi="131.21619"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          style="opacity:0.7;fill:url(#radialGradient16785);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect16557"
          width="200.79524"
@@ -77189,9 +77221,9 @@
          x="-501.78125"
          y="575.59222"
          transform="scale(-1,1)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619" />
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
       <rect
          inkscape:export-ydpi="119.18977"
          inkscape:export-xdpi="119.18977"
@@ -77824,9 +77856,9 @@
       <g
          id="g16561"
          transform="translate(583.07412,350.91681)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591">
         <text
            xml:space="preserve"
            style="font-size:13.7393322px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter13479-5-0);enable-background:new;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold"
@@ -77872,9 +77904,9 @@
       <g
          transform="matrix(1.0774596,0,0,1.0774596,-315.20761,-48.276027)"
          id="g16575"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591">
         <text
            inkscape:export-ydpi="134.58142"
            inkscape:export-xdpi="134.58142"
@@ -79796,9 +79828,9 @@
       <g
          id="g16585"
          transform="translate(558.23614,348.61871)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591">
         <rect
            inkscape:export-ydpi="111.66743"
            inkscape:export-xdpi="111.66743"
@@ -79916,129 +79948,120 @@
            inkscape:export-xdpi="111.66743"
            inkscape:export-ydpi="111.66743" />
       </g>
-      <g
-         id="g16619"
-         transform="translate(523.54111,392.16288)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
-        <path
-           inkscape:export-ydpi="88.580566"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           sodipodi:nodetypes="cccscc"
-           id="path16621"
-           d="m -43.279737,327.02299 0,10.09655 c 0,0 0,15.17543 15.84855,21.53931 15.787306,-6.36388 15.787306,-21.47811 15.787306,-21.47811 0,-10.15775 0,-10.15775 0,-10.15775 l -31.635856,0 z"
-           style="fill:#4b592b;fill-opacity:1;fill-rule:evenodd;stroke:#242814;stroke-width:1.18996799;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
-        <path
-           inkscape:export-ydpi="88.580566"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           style="fill:none;stroke:url(#linearGradient16801);stroke-width:0.39665601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
-           d="m -43.279737,327.02299 0,10.09655 c 0,0 0,15.17543 15.84855,21.53931 15.787306,-6.36388 15.787306,-21.47811 15.787306,-21.47811 0,-10.15775 0,-10.15775 0,-10.15775 l -31.635856,0 z"
-           id="path16623"
-           sodipodi:nodetypes="cccscc" />
-        <path
-           inkscape:export-ydpi="88.580566"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           style="fill:#3e4424;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;filter:url(#filter4314);enable-background:new"
-           d="m -41.581018,339.64823 c 0,0 -1.698719,12.04195 14.149831,18.40583 15.787306,-6.36388 15.808725,-20.27834 15.808725,-20.27834 -0.760786,1.1186 -6.385369,2.3681 -15.375974,-0.0306 -8.925077,-2.38123 -13.098216,1.06759 -14.582582,1.9031 z"
-           id="path16625"
-           sodipodi:nodetypes="ccczc" />
-        <path
-           inkscape:export-ydpi="88.580566"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           style="opacity:0.3;fill:url(#linearGradient16803);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;filter:url(#filter4308);enable-background:new"
-           d="m -42.029636,328.40462 0,9.21465 c 0,0 0,13.8499 14.530137,19.65791 14.474025,-5.80801 14.474025,-19.60206 14.474025,-19.60206 0,-9.2705 0,-9.2705 0,-9.2705 l -29.004162,0 z"
-           id="path16627"
-           sodipodi:nodetypes="cccscc" />
-        <text
-           inkscape:export-ydpi="88.580566"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           xml:space="preserve"
-           style="font-size:31.76018906px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;opacity:0.82239386;fill:#decd87;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
-           x="-27.571022"
-           y="347.67801"
-           id="text16629"><tspan
-             sodipodi:role="line"
-             x="-27.571022"
-             y="347.67801"
-             style="font-size:22.21273613px;fill:#decd87;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-             id="tspan16631">3</tspan></text>
-      </g>
-      <g
-         id="g16633"
-         transform="translate(544.54111,352.03745)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
-        <path
-           transform="matrix(0.79873415,0,0,0.79873359,-347.58449,179.43861)"
-           d="m 361.5,255.36447 c 0,11.32184 -9.17816,20.5 -20.5,20.5 -11.32184,0 -20.5,-9.17816 -20.5,-20.5 0,-11.32184 9.17816,-20.5 20.5,-20.5 11.32184,0 20.5,9.17816 20.5,20.5 z"
-           sodipodi:ry="20.5"
-           sodipodi:rx="20.5"
-           sodipodi:cy="255.36447"
-           sodipodi:cx="341"
-           id="path16635"
-           style="fill:#7c2d14;fill-opacity:1;stroke:#441b03;stroke-width:1.48981786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new"
-           sodipodi:type="arc"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-ydpi="88.580566" />
-        <path
-           inkscape:export-ydpi="88.580566"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           sodipodi:type="arc"
-           style="fill:none;stroke:url(#linearGradient16805);stroke-width:0.49660596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new"
-           id="path16637"
-           sodipodi:cx="341"
-           sodipodi:cy="255.36447"
-           sodipodi:rx="20.5"
-           sodipodi:ry="20.5"
-           d="m 361.5,255.36447 c 0,11.32184 -9.17816,20.5 -20.5,20.5 -11.32184,0 -20.5,-9.17816 -20.5,-20.5 0,-11.32184 9.17816,-20.5 20.5,-20.5 11.32184,0 20.5,9.17816 20.5,20.5 z"
-           transform="matrix(0.79873415,0,0,0.79873359,-347.58449,179.43861)" />
-        <path
-           style="opacity:0.83333333;fill:#642712;fill-opacity:1;stroke:none;display:inline;enable-background:new"
-           d="m -91.113,383.42553 c 15.76655,-4.58995 16.10148,3.79824 31.84702,-0.72842 0.19479,9.07222 -6.78085,16.59836 -15.57063,16.7994 -8.78979,0.20105 -16.0816,-6.99875 -16.27639,-16.07098 z"
-           id="path16639"
-           sodipodi:nodetypes="ccsc"
-           inkscape:transform-center-y="1.2669884"
-           inkscape:transform-center-x="-3.2643207"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-ydpi="88.580566" />
-        <path
-           inkscape:export-ydpi="88.580566"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           sodipodi:type="arc"
-           style="opacity:0.3;fill:url(#linearGradient16807);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;filter:url(#filter12309);enable-background:new"
-           id="path16641"
-           sodipodi:cx="24.625"
-           sodipodi:cy="241.36447"
-           sodipodi:rx="16.375"
-           sodipodi:ry="16.375"
-           d="m 41,241.36447 c 0,9.04366 -7.331337,16.375 -16.375,16.375 -9.043663,0 -16.375,-7.33134 -16.375,-16.375 0,-9.04366 7.331337,-16.375 16.375,-16.375 9.043663,0 16.375,7.33134 16.375,16.375 z"
-           transform="matrix(0.9094936,0,0,0.9094936,-97.6325,163.72532)" />
-        <text
-           id="text16643"
-           y="390.75266"
-           x="-75.291718"
-           style="font-size:19.03948784px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;opacity:0.82239386;fill:#decd87;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
-           xml:space="preserve"
-           inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-           inkscape:export-xdpi="88.580566"
-           inkscape:export-ydpi="88.580566"><tspan
-             id="tspan16645"
-             style="font-size:22.21273613px;fill:#decd87;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
-             y="390.75266"
-             x="-75.291718"
-             sodipodi:role="line">2</tspan></text>
-      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#4b592b;fill-opacity:1;fill-rule:evenodd;stroke:#242814;stroke-width:1.18996799;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+         d="m 480.26137,719.18587 0,10.09655 c 0,0 0,15.17543 15.84855,21.53931 15.78731,-6.36388 15.78731,-21.47811 15.78731,-21.47811 0,-10.15775 0,-10.15775 0,-10.15775 l -31.63586,0 z"
+         id="path16621"
+         sodipodi:nodetypes="cccscc"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccscc"
+         id="path16623"
+         d="m 480.26137,719.18587 0,10.09655 c 0,0 0,15.17543 15.84855,21.53931 15.78731,-6.36388 15.78731,-21.47811 15.78731,-21.47811 0,-10.15775 0,-10.15775 0,-10.15775 l -31.63586,0 z"
+         style="fill:none;stroke:url(#linearGradient24500);stroke-width:0.39665601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccczc"
+         id="path16625"
+         d="m 481.96009,731.81111 c 0,0 -1.69872,12.04195 14.14983,18.40583 15.78731,-6.36388 15.80873,-20.27834 15.80873,-20.27834 -0.76079,1.1186 -6.38537,2.3681 -15.37598,-0.0306 -8.92507,-2.38123 -13.09821,1.06759 -14.58258,1.9031 z"
+         style="fill:#3e4424;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;filter:url(#filter4314);enable-background:new"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccscc"
+         id="path16627"
+         d="m 481.51147,720.5675 0,9.21465 c 0,0 0,13.8499 14.53014,19.65791 14.47403,-5.80801 14.47403,-19.60206 14.47403,-19.60206 0,-9.2705 0,-9.2705 0,-9.2705 l -29.00417,0 z"
+         style="opacity:0.3;fill:url(#linearGradient24496);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;filter:url(#filter4308);enable-background:new"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
+      <text
+         id="text16629"
+         y="742.47913"
+         x="495.97009"
+         style="font-size:31.76018905999999831px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;opacity:0.82239386000000003;fill:#e6daa6;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         xml:space="preserve"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591"><tspan
+           id="tspan16631"
+           style="font-size:22.21273612999999969px;fill:#e6daa6;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           y="742.47913"
+           x="495.97009"
+           sodipodi:role="line">3</tspan></text>
+      <path
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         sodipodi:type="arc"
+         style="fill:#7c2d14;fill-opacity:1;stroke:#441b03;stroke-width:1.48981786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new"
+         id="path16635"
+         sodipodi:cx="341"
+         sodipodi:cy="255.36447"
+         sodipodi:rx="20.5"
+         sodipodi:ry="20.5"
+         d="m 361.5,255.36447 a 20.5,20.5 0 1 1 -41,0 20.5,20.5 0 1 1 41,0 z"
+         transform="matrix(0.79873415,0,0,0.79873359,196.95662,531.47606)" />
+      <path
+         transform="matrix(0.79873415,0,0,0.79873359,196.95662,531.47606)"
+         d="m 361.5,255.36447 a 20.5,20.5 0 1 1 -41,0 20.5,20.5 0 1 1 41,0 z"
+         sodipodi:ry="20.5"
+         sodipodi:rx="20.5"
+         sodipodi:cy="255.36447"
+         sodipodi:cx="341"
+         id="path16637"
+         style="fill:none;stroke:url(#linearGradient16805);stroke-width:0.49660596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;enable-background:new"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:transform-center-x="-3.2643207"
+         inkscape:transform-center-y="1.2669884"
+         sodipodi:nodetypes="ccsc"
+         id="path16639"
+         d="m 453.42811,735.46298 c 15.76655,-4.58995 16.10148,3.79824 31.84702,-0.72842 0.19479,9.07222 -6.78085,16.59836 -15.57063,16.7994 -8.78979,0.20105 -16.0816,-6.99875 -16.27639,-16.07098 z"
+         style="opacity:0.83333333;fill:#642712;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
+      <path
+         transform="matrix(0.9094936,0,0,0.9094936,446.90861,515.76277)"
+         d="m 41,241.36447 a 16.375,16.375 0 1 1 -32.75,0 16.375,16.375 0 1 1 32.75,0 z"
+         sodipodi:ry="16.375"
+         sodipodi:rx="16.375"
+         sodipodi:cy="241.36447"
+         sodipodi:cx="24.625"
+         id="path16641"
+         style="opacity:0.3;fill:url(#linearGradient16807);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;filter:url(#filter12309);enable-background:new"
+         sodipodi:type="arc"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591" />
+      <text
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         xml:space="preserve"
+         style="font-size:19.03948783999999961px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;opacity:0.82239386000000003;fill:#e6daa6;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+         x="469.24939"
+         y="742.7901"
+         id="text16643"><tspan
+           sodipodi:role="line"
+           x="469.24939"
+           y="742.7901"
+           style="font-size:22.21273612999999969px;fill:#e6daa6;fill-opacity:1;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           id="tspan16645">2</tspan></text>
       <rect
          style="fill:url(#linearGradient15329);fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
          id="rect15150"
@@ -81659,83 +81682,75 @@
                sodipodi:role="line"
                style="font-size:15px;font-style:normal;font-weight:normal;fill:#1f170d;fill-opacity:1;-inkscape-font-specification:Liberation Serif">magna aliqua. Ut enim ad minim veniam.</tspan></text>
         </g>
+        <text
+           inkscape:export-ydpi="225.15591"
+           inkscape:export-xdpi="225.15591"
+           inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+           xml:space="preserve"
+           style="font-size:7.70515966px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#eedc90;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+           x="308.45694"
+           y="645.17151"
+           id="text16649"><tspan
+             style="font-size:12.19925213px;font-style:normal;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif"
+             sodipodi:role="line"
+             x="308.45694"
+             y="645.17151"
+             id="tspan16657"><tspan
+               style="font-size:12.19925213px;font-style:italic;font-weight:bold;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif"
+               id="tspan24515"><tspan
+                 style="font-style:normal;font-weight:normal;fill:#eedc90;fill-opacity:1"
+                 id="tspan16653">Defending allies </tspan><tspan
+                 style="font-size:12.19925213px;font-style:normal;font-weight:normal;fill:#eedc90;fill-opacity:1"
+                 id="tspan16655">get 0/+2 .</tspan></tspan></tspan></text>
         <g
+           id="g16659"
+           transform="matrix(1.1090229,0,0,1.1090229,550.04161,288.11396)"
            style="fill:#eedc90;fill-opacity:1"
-           transform="matrix(1.1090229,0,0,1.1090229,-35.837163,-75.689204)"
-           id="g16647"
-           inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-           inkscape:export-xdpi="131.21619"
-           inkscape:export-ydpi="131.21619">
+           inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+           inkscape:export-xdpi="225.15591"
+           inkscape:export-ydpi="225.15591">
           <text
-             id="text16649"
-             y="649.99622"
-             x="310.44815"
-             style="font-size:6.94770098px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#eedc90;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+             id="text16661"
+             y="346.70517"
+             x="-199.64172"
+             style="font-size:7.11670876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#eedc90;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
              xml:space="preserve"
-             inkscape:export-filename="/home/eyerouge/Skrivbord/elvish_druid.png"
-             inkscape:export-xdpi="88.580566"
-             inkscape:export-ydpi="88.580566"><tspan
-               id="tspan16651"
-               y="649.99622"
-               x="310.44815"
-               sodipodi:role="line"
-               style="font-size:11px;font-style:italic;font-weight:bold;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif">Leadership - <tspan
-   id="tspan16653"
-   style="font-style:normal;font-weight:normal;fill:#eedc90;fill-opacity:1">Allies </tspan><tspan
-   id="tspan16655"
-   style="font-size:11px;font-style:normal;font-weight:normal;fill:#eedc90;fill-opacity:1"> get 0/+2  while</tspan></tspan><tspan
-               id="tspan16657"
-               y="663.74622"
-               x="310.44815"
-               sodipodi:role="line"
-               style="font-size:11px;font-style:normal;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif">defending in combat. </tspan></text>
-          <g
-             style="fill:#eedc90;fill-opacity:1"
-             transform="translate(528.28375,345.17156)"
-             id="g16659">
-            <text
-               inkscape:export-ydpi="126.74791"
-               inkscape:export-xdpi="126.74791"
-               inkscape:export-filename="/home/eyerouge/Bilder/elfsdeter.png"
-               xml:space="preserve"
-               style="font-size:7.11670876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#eedc90;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-               x="-199.64172"
+             inkscape:export-filename="/home/eyerouge/Bilder/elfsdeter.png"
+             inkscape:export-xdpi="126.74791"
+             inkscape:export-ydpi="126.74791"><tspan
+               id="tspan16663"
                y="346.70517"
-               id="text16661"><tspan
-                 style="font-size:11px;font-style:italic;font-weight:bold;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif Bold Italic"
+               x="-199.64172"
+               sodipodi:role="line"
+               style="font-size:11px;font-style:italic;font-weight:bold;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif Bold Italic">: <tspan
+   style="font-size:11px;font-style:normal;font-weight:normal;fill:#eedc90;fill-opacity:1"
+   id="tspan16665">Unmark target ally.</tspan></tspan></text>
+          <g
+             transform="matrix(0.88289316,0,0,0.88289316,-95.341193,-842.31031)"
+             inkscape:export-ydpi="126.74791"
+             inkscape:export-xdpi="126.74791"
+             inkscape:export-filename="/home/eyerouge/Bilder/elfsdeter.png"
+             id="g16667"
+             style="fill:#eedc90;fill-opacity:1;display:inline;enable-background:new">
+            <rect
+               style="fill:#eedc90;fill-opacity:1;stroke:none"
+               id="rect16669"
+               width="15.462921"
+               height="8.5710497"
+               x="-137.0724"
+               y="1339.5626"
+               ry="0.99253261" />
+            <text
+               xml:space="preserve"
+               style="font-size:10.74099636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#eedc90;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
+               x="-123.65665"
+               y="1347.1415"
+               id="text16671"><tspan
                  sodipodi:role="line"
-                 x="-199.64172"
-                 y="346.70517"
-                 id="tspan16663">: <tspan
-   id="tspan16665"
-   style="font-size:11px;font-style:normal;font-weight:normal;fill:#eedc90;fill-opacity:1">Unmark target ally.</tspan></tspan></text>
-            <g
-               style="fill:#eedc90;fill-opacity:1;display:inline;enable-background:new"
-               id="g16667"
-               inkscape:export-filename="/home/eyerouge/Bilder/elfsdeter.png"
-               inkscape:export-xdpi="126.74791"
-               inkscape:export-ydpi="126.74791"
-               transform="matrix(0.88289316,0,0,0.88289316,-95.341193,-842.31031)">
-              <rect
-                 ry="0.99253261"
-                 y="1339.5626"
-                 x="-137.0724"
-                 height="8.5710497"
-                 width="15.462921"
-                 id="rect16669"
-                 style="fill:#eedc90;fill-opacity:1;stroke:none" />
-              <text
-                 id="text16671"
-                 y="1347.1415"
+                 id="tspan16673"
                  x="-123.65665"
-                 style="font-size:10.74099636px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#eedc90;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif"
-                 xml:space="preserve"><tspan
-                   style="font-style:italic;font-weight:bold;text-align:center;text-anchor:middle;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif Bold Italic"
-                   y="1347.1415"
-                   x="-123.65665"
-                   id="tspan16673"
-                   sodipodi:role="line" /></text>
-            </g>
+                 y="1347.1415"
+                 style="font-style:italic;font-weight:bold;text-align:center;text-anchor:middle;fill:#eedc90;fill-opacity:1;-inkscape-font-specification:Liberation Serif Bold Italic" /></text>
           </g>
         </g>
         <g
@@ -82812,70 +82827,70 @@
          inkscape:export-xdpi="223.39319"
          inkscape:export-ydpi="223.39319" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/WT/goblin against wind/AgainstTheWind.png"
+         sodipodi:absref="/home/eyerouge/trunk/WT/goblin against wind/AgainstTheWind.png"
          xlink:href="WT/goblin against wind/AgainstTheWind.png"
-         width="258.31879"
-         height="200.50954"
-         id="image15239"
+         y="194.26897"
          x="1551.275"
-         y="194.26897" />
+         id="image15239"
+         height="200.50954"
+         width="258.31879" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/WT/raven/raven.png"
+         sodipodi:absref="/home/eyerouge/trunk/WT/raven/raven.png"
          xlink:href="WT/raven/raven.png"
-         inkscape:export-ydpi="75.793465"
-         inkscape:export-xdpi="75.793465"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/translate these.png"
-         width="162.25"
-         height="216.33331"
-         id="image15570"
-         x="1855.6199"
+         style="display:inline;enable-background:new"
          y="180.42555"
-         style="display:inline;enable-background:new" />
+         x="1855.6199"
+         id="image15570"
+         height="216.33331"
+         width="162.25"
+         inkscape:export-filename="/home/snowdrop/Skrivbord/translate these.png"
+         inkscape:export-xdpi="75.793465"
+         inkscape:export-ydpi="75.793465" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/WT/crumbling tower/CrumblingTower.png"
+         sodipodi:absref="/home/eyerouge/trunk/WT/crumbling tower/CrumblingTower.png"
          xlink:href="WT/crumbling tower/CrumblingTower.png"
-         y="214.80721"
-         x="2125.366"
-         id="image15982"
+         width="243.94568"
          height="189.35303"
-         width="243.94568" />
+         id="image15982"
+         x="2125.366"
+         y="214.80721" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/WT/potion pipe/small potion rev copy.png"
+         sodipodi:absref="/home/eyerouge/trunk/WT/potion pipe/small potion rev copy.png"
          xlink:href="WT/potion pipe/small potion rev copy.png"
-         transform="matrix(0.92135435,0.38872376,-0.38872376,0.92135435,0,0)"
-         width="185.32704"
-         height="247.10272"
-         id="image16198"
+         y="-815.2547"
          x="2287.021"
-         y="-815.2547" />
+         id="image16198"
+         height="247.10272"
+         width="185.32704"
+         transform="matrix(0.92135435,0.38872376,-0.38872376,0.92135435,0,0)" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/WT/kisses male/kisses male.png"
+         sodipodi:absref="/home/eyerouge/trunk/WT/kisses male/kisses male.png"
          xlink:href="WT/kisses male/kisses male.png"
-         width="153.00003"
-         height="204.00003"
-         id="image15124"
-         x="2624.9224"
+         style="display:inline;filter:url(#filter15150);enable-background:new"
          y="188.09219"
-         style="display:inline;filter:url(#filter15150);enable-background:new" />
+         x="2624.9224"
+         id="image15124"
+         height="204.00003"
+         width="153.00003" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/WT/confused orc/ConfusedOrc.png"
+         sodipodi:absref="/home/eyerouge/trunk/WT/confused orc/ConfusedOrc.png"
          xlink:href="WT/confused orc/ConfusedOrc.png"
-         transform="matrix(1.0180138,0,0,1.0180138,-5.6956195,-391.9145)"
-         width="261.69073"
-         height="203.12689"
-         id="image41139"
-         x="-10.93255"
+         style="display:inline;filter:url(#filter25006);enable-background:new"
          y="189.97746"
-         style="display:inline;filter:url(#filter25006);enable-background:new" />
+         x="-10.93255"
+         id="image41139"
+         height="203.12689"
+         width="261.69073"
+         transform="matrix(1.0180138,0,0,1.0180138,-5.6956195,-391.9145)" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/WT/empire horn blower/Horn.png"
+         sodipodi:absref="/home/eyerouge/trunk/WT/empire horn blower/Horn.png"
          xlink:href="WT/empire horn blower/Horn.png"
-         width="294.1301"
-         height="228.30663"
-         id="image41343"
-         x="-25.03091"
+         style="display:inline;enable-background:new;filter:url(#filter41364)"
          y="171.7778"
-         style="display:inline;enable-background:new;filter:url(#filter41364)" />
+         x="-25.03091"
+         id="image41343"
+         height="228.30663"
+         width="294.1301" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -82883,16 +82898,16 @@
        inkscape:label="Event Mask"
        style="display:inline">
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/misc/masks/event bottom mask hires.png"
+         sodipodi:absref="/home/eyerouge/trunk/misc/masks/event bottom mask hires.png"
          xlink:href="misc/masks/event bottom mask hires.png"
-         width="227.96667"
-         height="15.28906"
-         id="image12889"
-         x="546.42053"
-         y="389.83429"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/mjau.png"
+         inkscape:export-ydpi="223.39319"
          inkscape:export-xdpi="223.39319"
-         inkscape:export-ydpi="223.39319" />
+         inkscape:export-filename="/home/snowdrop/Skrivbord/mjau.png"
+         y="389.83429"
+         x="546.42053"
+         id="image12889"
+         height="15.28906"
+         width="227.96667" />
       <image
          xlink:href="file:///home/snowdrop/trunk/misc/masks/event%20right%20hires.png"
          width="12.409497"
@@ -82915,16 +82930,16 @@
          inkscape:export-xdpi="223.39319"
          inkscape:export-ydpi="223.39319" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/misc/masks/event bottom mask hires.png"
+         sodipodi:absref="/home/eyerouge/trunk/misc/masks/event bottom mask hires.png"
          xlink:href="misc/masks/event bottom mask hires.png"
-         width="227.96667"
-         height="15.28906"
-         id="image14146"
-         x="1063.7433"
-         y="389.83429"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/mjau.png"
+         inkscape:export-ydpi="223.39319"
          inkscape:export-xdpi="223.39319"
-         inkscape:export-ydpi="223.39319" />
+         inkscape:export-filename="/home/snowdrop/Skrivbord/mjau.png"
+         y="389.83429"
+         x="1063.7433"
+         id="image14146"
+         height="15.28906"
+         width="227.96667" />
       <image
          xlink:href="file:///home/snowdrop/trunk/misc/masks/event%20right%20hires.png"
          width="12.409497"
@@ -82947,16 +82962,16 @@
          inkscape:export-xdpi="223.39319"
          inkscape:export-ydpi="223.39319" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/misc/masks/event bottom mask hires.png"
+         sodipodi:absref="/home/eyerouge/trunk/misc/masks/event bottom mask hires.png"
          xlink:href="misc/masks/event bottom mask hires.png"
-         width="227.96667"
-         height="15.28906"
-         id="image12820"
-         x="287.56012"
-         y="389.83429"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/mjau.png"
+         inkscape:export-ydpi="223.39319"
          inkscape:export-xdpi="223.39319"
-         inkscape:export-ydpi="223.39319" />
+         inkscape:export-filename="/home/snowdrop/Skrivbord/mjau.png"
+         y="389.83429"
+         x="287.56012"
+         id="image12820"
+         height="15.28906"
+         width="227.96667" />
       <image
          xlink:href="file:///home/snowdrop/trunk/misc/masks/event%20left%20hires.png"
          width="12.4375"
@@ -83138,16 +83153,16 @@
            width="227.96667" />
       </g>
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/misc/masks/event bottom mask hires.png"
+         sodipodi:absref="/home/eyerouge/trunk/misc/masks/event bottom mask hires.png"
          xlink:href="misc/masks/event bottom mask hires.png"
-         inkscape:export-ydpi="119.18977"
-         inkscape:export-xdpi="119.18977"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/merfolkrev.png"
-         y="-304.2984"
-         x="1035.1127"
-         id="image15200"
+         width="227.96667"
          height="15.28906"
-         width="227.96667" />
+         id="image15200"
+         x="1035.1127"
+         y="-304.2984"
+         inkscape:export-filename="/home/snowdrop/Skrivbord/merfolkrev.png"
+         inkscape:export-xdpi="119.18977"
+         inkscape:export-ydpi="119.18977" />
       <image
          inkscape:export-ydpi="119.18977"
          inkscape:export-xdpi="119.18977"
@@ -83170,16 +83185,16 @@
          width="12.4375"
          xlink:href="file:///home/snowdrop/trunk/misc/masks/event%20left%20hires.png" />
       <image
-         sodipodi:absref="/home/snowdrop/WTactics/misc/masks/event bottom mask hires.png"
+         sodipodi:absref="/home/eyerouge/trunk/misc/masks/event bottom mask hires.png"
          xlink:href="misc/masks/event bottom mask hires.png"
-         width="227.96667"
-         height="15.28906"
-         id="image15081"
-         x="1293.1127"
-         y="-304.2984"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/merfolkrev.png"
+         inkscape:export-ydpi="119.18977"
          inkscape:export-xdpi="119.18977"
-         inkscape:export-ydpi="119.18977" />
+         inkscape:export-filename="/home/snowdrop/Skrivbord/merfolkrev.png"
+         y="-304.2984"
+         x="1293.1127"
+         id="image15081"
+         height="15.28906"
+         width="227.96667" />
       <image
          xlink:href="file:///home/snowdrop/trunk/misc/masks/event%20right%20hires.png"
          width="12.409497"
@@ -83203,17 +83218,17 @@
          inkscape:export-ydpi="119.18977" />
     </g>
     <image
-       sodipodi:absref="/home/snowdrop/trunk/BfW/portraits/elves/captain.png"
-       xlink:href="/home/snowdrop/trunk/BfW/portraits/elves/captain.png"
-       inkscape:export-ydpi="131.21619"
-       inkscape:export-xdpi="131.21619"
-       inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-       width="157.20914"
-       height="182.99475"
-       id="image16675"
-       x="282.36179"
+       sodipodi:absref="/home/eyerouge/trunk/unused artwork/BfW/portraits/elves/captain.png"
+       xlink:href="unused artwork/BfW/portraits/elves/captain.png"
+       transform="matrix(1.0180324,0,0,1.0180324,-6.3829434,-12.045163)"
        y="439.23056"
-       transform="matrix(1.0180324,0,0,1.0180324,-6.3829434,-12.045163)" />
+       x="282.36179"
+       id="image16675"
+       height="182.99475"
+       width="157.20914"
+       inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+       inkscape:export-xdpi="225.15591"
+       inkscape:export-ydpi="225.15591" />
     <image
        y="-513.98596"
        x="1265.3654"
@@ -83224,16 +83239,16 @@
        inkscape:export-xdpi="119.18977"
        inkscape:export-ydpi="119.18977" />
     <image
-       sodipodi:absref="/home/snowdrop/WTactics/WT/merfolk female noble/CutMerfolkFemaleNoble.png"
+       sodipodi:absref="/home/eyerouge/trunk/WT/merfolk female noble/CutMerfolkFemaleNoble.png"
        xlink:href="WT/merfolk female noble/CutMerfolkFemaleNoble.png"
-       y="-512.41956"
-       x="1035.4448"
-       id="image15034"
-       height="211.38118"
-       width="223.27707"
-       inkscape:export-filename="/home/snowdrop/Skrivbord/merfolkrev.png"
+       inkscape:export-ydpi="119.18977"
        inkscape:export-xdpi="119.18977"
-       inkscape:export-ydpi="119.18977" />
+       inkscape:export-filename="/home/snowdrop/Skrivbord/merfolkrev.png"
+       width="223.27707"
+       height="211.38118"
+       id="image15034"
+       x="1035.4448"
+       y="-512.41956" />
   </g>
   <g
      transform="translate(-0.05821483,-87.19457)"
@@ -85627,9 +85642,9 @@
         </g>
       </g>
       <rect
-         inkscape:export-ydpi="131.21619"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
+         inkscape:export-ydpi="225.15591"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
          style="color:#000000;fill:url(#linearGradient16809);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.76340663;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect16677"
          width="47.924931"
@@ -85640,9 +85655,9 @@
       <g
          id="g16711"
          transform="translate(-260.99999,0)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591">
         <rect
            y="438.46948"
            x="760.4209"
@@ -85733,9 +85748,9 @@
       <g
          id="g16896"
          transform="translate(2.5410879,0)"
-         inkscape:export-filename="/home/snowdrop/Skrivbord/threshold.png"
-         inkscape:export-xdpi="131.21619"
-         inkscape:export-ydpi="131.21619">
+         inkscape:export-filename="/home/eyerouge/Skrivbord/fontsize.png"
+         inkscape:export-xdpi="225.15591"
+         inkscape:export-ydpi="225.15591">
         <g
            style="fill:#211c09;fill-opacity:1;display:inline;enable-background:new"
            id="g16859"
