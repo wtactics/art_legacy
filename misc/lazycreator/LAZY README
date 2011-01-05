@@ -7,11 +7,14 @@ The lazy-files are _low resolution_ and speedy creations. They are _not_
 supposed to be used to create an end product: Their output will be inferior. 
 
 Their only purpose is to serve as a temporary and fast dirty way to 
-create new graphical representations of cards for unofficial oinline
+create new graphical representations of cards for unofficial online
 playtestig.
 
-For your convenience and to truly become even more lazy, all bitmap files
-have been embedded.
+For your convenience and to truly become even more lazy, all creature bitmap
+files have been embedded. The template bitmap itself is however linked.
+Because of that you should not rename or otherwise mess with the paths
+related to files in /textured
+
 
 
 // HOW TO USE  
@@ -22,7 +25,7 @@ Typically you'd have no reason to mess with this file.
 
 b) lazy gaian creature.svg + inkscape 0.48 or above is all you need to
 start creating Gaian creatures. Turn on / off layers, input the text
-and a creature image, export the result and you're done.
+and import a creature image, export the result and you're done.
 
 c) Never upload your creations to the /trunk for playtesting unless you
 ask/know what you are doing or have explicitly been delegated that task.
