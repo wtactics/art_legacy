@@ -81,7 +81,7 @@ echo '<form name="search" method="get" action="index.php">
 	inputField( 'search_card', '', 'hidden' );
 	inputField( 'srch_name', 'Name of card' ); #TODO implement complex search editor in JavaScript with OR AND and NOT combinations
 	inputField( 'srch_rule', 'Part of ruletext' );
-echo '</fiedset></form>';
+echo '</fieldset></form>';
 
 ?>
 

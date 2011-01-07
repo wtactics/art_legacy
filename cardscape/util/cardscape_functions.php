@@ -61,4 +61,13 @@ function gravatar_hash($username){
 	$gravatar = "http://www.gravatar.com/avatar/" . md5(strtolower(trim($row['email']))) . "?s=100&d=mm&r=PG";
 	return "<img src='$gravatar' class='avatar' title='$username'></img>";
 }
+
+/* RETURNS THE CARDNAME FROM THE ID */
+function get_card_name($id){
+	require('connect.php');
+	$query = "SELECT * FROM " . $db['prefix'] . "cards WHERE id='$id'";
+	$result = mysql_query($query);
+	$row = mysql_fetch_array($result);
+	return $row["cardname"];
+}
 ?>

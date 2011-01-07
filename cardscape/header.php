@@ -1,7 +1,7 @@
 <?
-include('config.php');
-include('util/util.php');
-include('util/cardscape_functions.php');
+require('config.php');
+require_once('util/util.php');
+require_once('util/cardscape_functions.php');
 $settings = $conf['Game'];
 ?>
 <html>
@@ -22,7 +22,7 @@ echo "<meta name='keywords' content='" . $settings['meta_key'] . "'>\n";
 <!--HEADER-->
 <div style="position:relative; background-image:url('images/header-center.jpg'); height:125; width:100%;">
 	<div style="position:relative; height:100px;">
-		<div class="chunk" style="position:absolute; font-size:30px; top:50%; margin-top:-15px; margin-left:15px; color:white;"><?echo $settings['name'];?> - Cardscape - Card Development Software</div>
+		<div class="chunk" style="position:absolute; font-size:30px; top:50%; margin-top:-15px; margin-left:15px; color:white;"><?echo $settings['name'];?> - Cardscape</div>
 	</div>
 <!--CARDSCAPE NAVIGATION-->
 <!--Container for the Magic Link Dropdown Boxes-->
@@ -32,10 +32,10 @@ echo "<meta name='keywords' content='" . $settings['meta_key'] . "'>\n";
 <!--Cardscape Navigation-->
 <div style="position:absolute; left:150;">
 <?
-$nav = array(	1=>"<a href='browse.php'>Browse Cards</a>",
-		2=>"<a href='index.php'>Progress Report</a>");
+$nav = array(	1=>"<a href='index.php?act=browse'>Browse Cards</a>",
+		2=>"<a href='index.php?act=progress'>Progress Report</a>");
 if($_SESSION['role']>0){
-	$nav[3] = "<a href='newcard.php'>Suggest a New Card</a>";}
+	$nav[3] = "<a href='index.php?act=new_card'>Suggest a New Card</a>";}
 dropdown_links("Cardscape Links", $nav,"150px;");
 ?>	
 </div>
@@ -46,13 +46,13 @@ dropdown_links("Cardscape Links", $nav,"150px;");
 
 if($_SESSION['username']==null){
 	$user = "Guest (login)";
-	$nav = array(	1=>"<a href='login.php'>Log In</a>",
-			2=>"<a href='register.php'>Register</a>");
+	$nav = array(	1=>"<a href='index.php?act=login'>Log In</a>",
+			2=>"<a href='index.php?act=register'>Register</a>");
 }
 else{
 	$user = $_SESSION['username'] . " (" . get_role_name($_SESSION['role']) . ")";
-	$nav = array(	1=>"<a href='usercp.php'>User CP</a>",
-			2=>"<a href='logout.php'>Log Out</a>");
+	$nav = array(	1=>"<a href='index.php?act=usercp'>User CP</a>",
+			2=>"<a href='index.php?act=logout'>Log Out</a>");
 }
 
 dropdown_links($user, $nav,"200px;");
@@ -63,3 +63,5 @@ dropdown_links($user, $nav,"200px;");
 
 </div>
 
+<!--main wrapper-->
+<div style="position:relative; min-width: 750px; width:80%; left:10%; right:10%;">

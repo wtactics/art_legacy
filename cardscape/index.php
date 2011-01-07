@@ -1,87 +1,99 @@
-<?php
-require("connect.php");
-$pagename = "Home | ";
-include('header.php');
+<?
+//get the dependencies
+require("card_functions.php");			//this holds all actions/functions pertaining to cards
+require("comment_functions.php");		//this holds all actions/functions pertaining to comments
+require("user_functions.php");			//this holds all actions/functions pertaining to users
+require("search_functions.php");		//this holds all actions/functions pertaining to browsing the database
+require("util/cardscape_functions.php");	//this holds various miscellaneous functions pertaining to cardscape
+require("connect.php");				//this connects to the database and the user session
 
-function get_type_list(){
-	//include('util/util.php'); //because get_status_list() already included it...
-	$main_tables = file('card_definition.txt');
-	$list = null;
-	foreach( $main_tables as $table ) {
-		if($table[0]<>'#'){//edit out comments
-			$fieldname = substr($table, 0, strpos($table, " "));
-			$fieldtype = trim(substr($table, strpos($table, " ")));
-			if($fieldname == 'type'){
-				$list = enum_array($fieldtype); //this function is in util/util.php
-			}
-		}
-	}
-	return $list;
-}
+//build the action array
+$action = array(
+		/* CARD FUNCTIONS */
+		'new_card' => function() {echo "New Card Form";},
+		'show_card' => function() {
+			$pagename = get_card_name($_GET["id"]) . " | ";
+			echo $db['prefix'];
+			include('header.php');
+			show_card($_GET["id"]);
+			show_comments($_GET["id"]);
+			show_new_comment_form($_GET["id"]);
+			include("footer.php");},
+		'new_card' => function(){
+			$pagename = "New Card | ";
+			include('header.php');
+			show_new_card_form();
+			include('footer.php');},
+		'insert_card' => function(){
+			insert_card();},
+		'edit_card' => function(){
+			$pagename = "Editing " . get_card_name($_GET["id"]) . " | ";
+			include('header.php');
+			show_edit_card_form($_GET["id"]);
+			include('footer.php');},
+		'update_card' => function(){
+			update_card($_GET["id"]);},
+		'delete_card' => function(){
+			delete_card($_GET["id"]);},
+		/* USER FUNCTIONS */
+		'login' => function(){
+			$pagename = "Login | ";
+			include('header.php');
+			show_login();
+			include('footer.php');},
+		'login_submit' => function(){
+			login_submit();},
+		'logout' => function(){
+			logout();},
+		'register' => function(){
+			$pagename = "Register | ";
+			include('header.php');
+			show_register_form();
+			include('footer.php');},
+		'insert_user' => function(){
+			insert_user();},
+		'usercp' => function(){
+			$pagename = "User CP | ";
+			include('header.php');
+			show_usercp();
+			include('footer.php');},
+		'update_user' => function(){
+			update_user($_GET['name']);},
+		'delete_user' => function(){
+			delete_user($_GET['name']);},
+		'show_user' => function(){
+			$pagename = "USERNAME | "; // TODO: get username (I'm just being lazy)
+			include('header.php');
+			show_user($_GET['id']);
+			include('footer.php');},
+		/* COMMENT FUNCTIONS */
+		'delete_comment' => function(){
+			delete_comment($_GET['id']);},
+		'insert_comment' => function(){
+			insert_comment($_GET['id']);},
+		/* OTHER FUNCTIONS */
+		'browse' => function(){
+			$pagename = "Browse | ";
+			include('header.php');
+			browse();
+			include('footer.php');},
+		'progress' => function(){
+			$pagename = "Progress Report | ";
+			include('header.php');
+			progress();
+			include('footer.php');},
+		'default' => function(){
+			$pagename = "Welcome | ";
+			include('header.php');
+			echo "<br>Welcome to Cardscape Alpha. Please click around and make some comments so we can test and revise this tool.";
+			include('footer.php');}
+		);
 
-function print_progress_table(){
-	/* SET GOALS. THESE SHOULD BE MODIFIED AS NEEDED */
-	$goal = array(	'unit'=>24,
-			'event'=>6,
-			'spell'=>6,
-			'enchantment'=>6,
-			'equipment'=>6,
-			'artifact'=>2);
+// get the URL instruction
+$act = $_GET["act"];
+if($act == null){
+	$act = 'default';}
 
-	include('connect.php');
-	include('card_definition.php');
-
-	/* LOAD THE DATA */
-	$status_list = get_status_list();
-	$type_list = get_type_list();
-
-	$data = null;
-	foreach($type_list as $type){
-		$status_data = null;
-		foreach($status_list as $status){
-			$status_data["$status"] = mysql_num_rows(mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE status='$status' AND type='$type';"));
-		}
-		$data["$type"] = $status_data;
-	}
-
-	/* PRINT OUT THE TABLE */
-	echo "<table>";
-	echo "<th>type</th>";
-	foreach($status_list as $status){
-		echo "<th>$status</th>";
-	}
-	echo "<th>total in pool</th><th>goal</th><th>% completed</th>";
-	$col_total = null;
-	foreach($type_list as $type){
-		$status_data = null;
-		echo "<tr><td>$type</td>";
-		$row_total = 0;
-		foreach($status_list as $status){
-			$d = $data["$type"]["$status"];
-			$col_total["$status"] = $col_total["$status"] + $d; //add to the column total
-			$row_total = $row_total + $d; //add to the row total
-			echo "<td>$d</td>";
-		}
-		echo "<td>$row_total</td><td>" . $goal["$type"] . "</td><td>" . round($row_total / $goal["$type"] * 100) . "%</td></tr>";
-	}
-	echo "<tr><td>totals</td>";
-
-	foreach($col_total as $t){
-		echo "<td>$t</td>";
-	}
-	
-	echo "<td>" . array_sum($col_total) . "</td><td>" . array_sum($goal) . "</td><td>" . round(array_sum($col_total) / array_sum($goal) * 100) . "%</td></tr>";
-	echo "</table>";
-}
-
-//main body
-
-echo "<div style='margin:15px;'>";
-
-echo "<h1>Progress for Gaian Core Release:</h1>";
-print_progress_table();
-
-echo "</div>";
-//end
-include('footer.php');
+//perform the action
+$action[$act](); // This is where the magic happens ;)
 ?>

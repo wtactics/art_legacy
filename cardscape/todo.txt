@@ -11,11 +11,7 @@ Key:
 //          BUGS          //
 ////////////////////////////
 
-MISCELLANEOUS
-:| All redirects are broken.
-:( Admin privileges dropped when trying to edit users.
-:( User update is malfunctioning because the changer does not "have permission to edit users"
-:| Fonts are not functioning.
+NONE FILED.
 
 ////////////////////////////
 //        FEATURES        //
@@ -27,6 +23,7 @@ MISCELLANEOUS
 IMAGE UPLOAD
 :( Fix strange filenaming convention
 :( Add support
+:( Images are not scaled by browser, but server uses imagemagick to create many scaled images.
 
 REGISTER PAGE
 :( Add in re-captcha support.
