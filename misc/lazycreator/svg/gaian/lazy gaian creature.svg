@@ -16,7 +16,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.0 r9654"
    version="1.0"
-   sodipodi:docname="elvish ranger.svg"
+   sodipodi:docname="lazy gaian creature.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/eyerouge/Skrivbord/Lackey Done/Elvish Ranger.png"
    inkscape:export-xdpi="89.99353"
@@ -32,9 +32,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-20.84725"
-     inkscape:cy="204.87115"
+     inkscape:zoom="1"
+     inkscape:cx="-5.1723272"
+     inkscape:cy="142.11338"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -71112,7 +71112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71141,11 +71141,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/12.png"
          xlink:href="../../textured/gaian/creatures/12.png"
-         y="-0.00048890075"
-         x="0"
-         id="image65163"
+         width="307"
          height="425"
-         width="307" />
+         id="image65163"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71156,11 +71156,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/11.png"
          xlink:href="../../textured/gaian/creatures/11.png"
-         y="-0.00048890075"
-         x="0"
-         id="image65101"
+         width="307"
          height="425"
-         width="307" />
+         id="image65101"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71171,11 +71171,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/10.png"
          xlink:href="../../textured/gaian/creatures/10.png"
-         y="-0.00048890075"
-         x="0"
-         id="image65039"
+         width="307"
          height="425"
-         width="307" />
+         id="image65039"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71186,11 +71186,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/9.png"
          xlink:href="../../textured/gaian/creatures/9.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64977"
+         width="307"
          height="425"
-         width="307" />
+         id="image64977"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71201,11 +71201,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/8.png"
          xlink:href="../../textured/gaian/creatures/8.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64915"
+         width="307"
          height="425"
-         width="307" />
+         id="image64915"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71216,11 +71216,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/7.png"
          xlink:href="../../textured/gaian/creatures/7.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64853"
+         width="307"
          height="425"
-         width="307" />
+         id="image64853"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71231,11 +71231,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/6.png"
          xlink:href="../../textured/gaian/creatures/6.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64791"
+         width="307"
          height="425"
-         width="307" />
+         id="image64791"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71246,11 +71246,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/5.png"
          xlink:href="../../textured/gaian/creatures/5.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64729"
+         width="307"
          height="425"
-         width="307" />
+         id="image64729"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71261,11 +71261,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/4.png"
          xlink:href="../../textured/gaian/creatures/4.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64605"
+         width="307"
          height="425"
-         width="307" />
+         id="image64605"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71276,11 +71276,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/3.png"
          xlink:href="../../textured/gaian/creatures/3.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64543"
+         width="307"
          height="425"
-         width="307" />
+         id="image64543"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71291,11 +71291,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/2.png"
          xlink:href="../../textured/gaian/creatures/2.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64481"
+         width="307"
          height="425"
-         width="307" />
+         id="image64481"
+         x="0"
+         y="-0.00048890075" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -71306,11 +71306,11 @@
       <image
          sodipodi:absref="/home/eyerouge/trunk/misc/lazycreator/svg/gaian/../../textured/gaian/creatures/1.png"
          xlink:href="../../textured/gaian/creatures/1.png"
-         y="-0.00048890075"
-         x="0"
-         id="image64419"
+         width="307"
          height="425"
-         width="307" />
+         id="image64419"
+         x="0"
+         y="-0.00048890075" />
     </g>
   </g>
   <g
@@ -71542,7 +71542,7 @@
     </g>
     <path
        style="fill:#eedc90;fill-opacity:1;stroke:none;display:inline;enable-background:new"
-       d="m -40.102316,264.91672 c -1.09385,0.0156 -2.19107,-0.0346 -3.2826,0.0281 -1.07328,0.18163 -1.17354,1.33557 -1.11006,2.21088 0.0181,2.88477 -0.0371,5.77328 0.0282,8.65576 0.18337,1.07263 1.33765,1.17108 2.21276,1.10815 5.56756,0 11.13512,0 16.70268,0 1.1855,0.0298 1.50252,-1.21938 1.38894,-2.16814 -0.0181,-2.90841 0.0371,-5.82051 -0.028,-8.72659 -0.18224,-1.07275 -1.33621,-1.17112 -2.21086,-1.10817 -1.44004,0 -1.85494,0 -3.29497,0 2.93989,2.93991 -0.35506,5.10142 -2.71748,6.37262 l 0.006,0.34109 1.85612,1.0884 -0.0496,0.61894 -7.62499,2.31802 -0.30829,-0.37107 3.4957,-6.94722 0.70809,0.0468 0.61601,2.07573 0.32733,0.0157 c 1.06596,-1.42527 2.3546,-3.65971 0.26346,-4.73334 -1.51204,-0.79499 -5.32056,-0.78139 -6.98053,-0.8246 z"
+       d="m -388.10231,205.91672 c -1.09385,0.0156 -2.19107,-0.0346 -3.2826,0.0281 -1.07328,0.18163 -1.17354,1.33557 -1.11006,2.21088 0.0181,2.88477 -0.0371,5.77328 0.0282,8.65576 0.18337,1.07263 1.33765,1.17108 2.21276,1.10815 5.56756,0 11.13512,0 16.70268,0 1.1855,0.0298 1.50252,-1.21938 1.38894,-2.16814 -0.0181,-2.90841 0.0371,-5.82051 -0.028,-8.72659 -0.18224,-1.07275 -1.33621,-1.17112 -2.21086,-1.10817 -1.44004,0 -1.85494,0 -3.29497,0 2.93989,2.93991 -0.35506,5.10142 -2.71748,6.37262 l 0.006,0.34109 1.85612,1.0884 -0.0496,0.61894 -7.62499,2.31802 -0.30829,-0.37107 3.4957,-6.94722 0.70809,0.0468 0.61601,2.07573 0.32733,0.0157 c 1.06596,-1.42527 2.3546,-3.65971 0.26346,-4.73334 -1.51204,-0.79499 -5.32056,-0.78139 -6.98053,-0.8246 z"
        id="path16516-2-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccc" />
