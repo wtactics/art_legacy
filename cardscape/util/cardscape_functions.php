@@ -1,4 +1,26 @@
 <?
+/* RETURNS THE LIST OF NON-GENERAL (GAME SPECIFIC) DATA FIELDS */
+function get_game_data_fields(){
+	$file = file('card_definition.txt');
+	foreach($file as $line){
+		if($line[0]<>'#'){//edit out comments
+			$fieldname = substr($line, 0, strpos($line, " "));
+			switch($fieldname){
+				case 'id': break;
+				case 'revision': break;
+				case 'date': break;
+				case 'author': break;
+				case 'status': break;
+				case 'image': break;
+				case 'cardname': break;
+				default:
+					$fields[$fieldname] = $fieldname;
+			}
+		}
+	}
+	return $fields;
+}
+
 /* RETURNS NAME CORRESPONDING TO ROLE VALUE */
 function get_role_name($int){
 	if($int == -1){

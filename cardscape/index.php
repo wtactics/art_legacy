@@ -16,7 +16,6 @@ $action = array(
 			echo $db['prefix'];
 			include('header.php');
 			show_card($_GET["id"]);
-			show_comments($_GET["id"]);
 			show_new_comment_form($_GET["id"]);
 			include("footer.php");},
 		'new_card' => function(){

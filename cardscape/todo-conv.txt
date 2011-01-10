@@ -1,0 +1,152 @@
+(01:50:01 PM) snow|away: try Rainbow1
+(01:50:05 PM) snow|away: and Rainbow11 as well
+(01:50:09 PM) pennomi: okay.
+(01:50:11 PM) snow|away: must be soe of them
+(01:50:22 PM) snow|away: i dont have a ft client on the wintendo im on.
+(01:50:27 PM) snow|away: at  my folks place.
+(01:52:10 PM) pennomi: Hrm still not working
+(01:52:21 PM) snow|away: heck
+(01:52:28 PM) snow|away: ftp.chaosrealm.net 21
+(01:52:30 PM) snow|away: right?
+(01:52:41 PM) pennomi: I think
+(01:52:46 PM) snow|away: try rainbow1 
+(01:52:48 PM) snow|away: rainbow11
+(01:52:49 PM) pennomi: let me try some more stuff
+(01:52:52 PM) snow|away: and rainbow2 as well
+(01:53:42 PM) pennomi: what username should I use? chaosrealm.net or chaosrealm_net?
+(01:53:51 PM) snow|away: i thin its chaosrealm.net
+(01:54:12 PM) snow|away: chaosrealm_net is only for the mysql db
+(01:55:53 PM) pennomi: I finally got in.
+(01:56:09 PM) snow|away: lol
+(01:56:11 PM) snow|away: what was it?
+(01:56:34 PM) pennomi: rainbow11
+(01:56:50 PM) snow|away: k
+(01:56:51 PM) pennomi: I was connecting to ftp://chaosrealm.net
+(01:57:05 PM) snow|away: it should be ftp.chaosrealm.net
+(01:57:11 PM) snow|away: i guess chaosrealm.net should work as well
+(01:59:18 PM) pennomi: hrm. only ftp.chaosrealm.net works. Who knew?
+(02:00:45 PM) snow|away: hehe
+(02:25:45 PM) pennomi: oops. I think I overwrote the config.php file. I will need your mysql info to fix it. If you (understandably) don't want to give that to me, I'll have to wait for you to fix that.
+(02:26:04 PM) snow|away: chaosrealm_net
+(02:26:05 PM) snow|away: rainbow
+(02:26:09 PM) snow|away: shoudl be it
+(02:26:22 PM) pennomi: thanks. sorry again.
+(02:26:26 PM) snow|away: dont frakk up the db = P
+(02:26:39 PM) pennomi: lol okay.
+(02:29:40 PM) pennomi: *phew* fixed.
+(02:29:52 PM) pennomi: er. sort of
+(02:31:21 PM) pennomi: what's the database name?
+(02:31:36 PM) snow|away: chaosrealm_net
+(02:31:53 PM) pennomi: okay.
+(02:32:43 PM) pennomi: hrm... something's not working
+(02:32:55 PM) pennomi: 		'host' => 'localhost',
+(02:32:55 PM) pennomi: 		'user' => 'chaosrealm_net',
+(02:32:55 PM) pennomi: 		'pass' => 'rainbow',
+(02:32:55 PM) pennomi: 		'database' => 'chaosrealm_net',
+(02:32:55 PM) pennomi: 		'prefix' => 'wt_' ),
+(02:33:38 PM) snow|away: prefix shoyld be wt_cs
+(02:33:44 PM) snow|away: or wt_cs_
+(02:33:46 PM) pennomi: oh thanks
+(02:33:53 PM) snow|away: if you're trying to reuse the same tables
+(02:34:01 PM) pennomi: yes
+(02:34:06 PM) snow|away: should work then
+(02:34:41 PM) snow|away: also, make the config.php file named config.php.dist instead
+(02:34:46 PM) snow|away: to avoid this
+(02:34:50 PM) snow|away: and also force a setup from user
+(02:34:52 PM) pennomi: okay, thanks
+(02:35:13 PM) pennomi: it works now. check it out, the fonts should work now too.
+(02:36:52 PM) snow|away: fonts do work
+(02:36:53 PM) snow|away: in ff
+(02:36:59 PM) pennomi: yay!
+(02:38:20 PM) snow|away: when displaying all emails... make them echo using (x) and (dot) instead of @ and .
+(02:38:29 PM) snow|away: to prevent emails from being harvested by spambots
+(02:38:45 PM) pennomi: I will add that now. Do the redirects fork for you now?
+(02:38:50 PM) pennomi: *for
+(02:38:57 PM) pennomi: *work, i mean
+(02:39:32 PM) snow|away: why is the hashed pw shown in y profile?
+(02:39:44 PM) pennomi: lazy. I'll fix that
+(02:39:45 PM) snow|away: i dont htink its of any use to the user..?
+(02:39:49 PM) snow|away: =)
+(02:40:02 PM) pennomi: it's left over from testing
+(02:40:34 PM) snow|away: dont show the name texbox qhen creating a card if its a regular user... then only nae should be seen there in plain text
+(02:40:46 PM) snow|away: i meant username box now
+(02:40:47 PM) snow|away: not cardname
+(02:41:53 PM) pennomi: I could, but if I do that, the file has problems sending the author to the next page. There's a workaround, but I'll have to think about it
+(02:42:18 PM) snow|away: you use $POST etc?
+(02:42:26 PM) pennomi: yes
+(02:42:34 PM) snow|away: you just dump the username in a variable
+(02:42:40 PM) snow|away: which youll be able to use instead.
+(02:43:36 PM) pennomi: you mean on the new_card.php add a line that says "$_POST['author'] = $_SESSION['username'];" and it will carry over for next page?
+(02:44:02 PM) snow|away: when you load the URL for the next page...
+(02:44:09 PM) snow|away: after pressing a button or whatever triggers it to load...
+(02:44:15 PM) snow|away: you input what URL it should load...
+(02:44:25 PM) snow|away: in that string you use the $variable in which you put the users name
+(02:44:37 PM) pennomi: oh, $_GET style.
+(02:44:39 PM) snow|away: you can do all this with a cookie as well.
+(02:44:45 PM) snow|away: but it shouldnt be needed.
+(02:44:57 PM) pennomi: Yeah, I haven't used cookies in a while.
+(02:45:13 PM) snow|away: it was 2 years ago i touched php and i dont remember anything.. but I know its doable very easy.
+(02:45:17 PM) snow|away: wihotu cookies as well
+(02:45:38 PM) snow|away: is you use SESSIONs you can do it all minus the cookies i think
+(02:45:56 PM) pennomi: Yeah, the whole thing uses sessions. So I think I know how to do it.
+(02:46:05 PM) snow|away: =)
+(02:46:27 PM) snow|away: whats good is when you DONT know how to do it... then youll actually have the benefit of hving to learn stuff = P
+(02:46:59 PM) snow|away: im a total php newb, but love that lingo
+(02:47:29 PM) pennomi: Yeah, this whole thing has been a learning experience for me. And foodoo has given me some big pointers on how we can streamline the whole thing
+(02:47:40 PM) snow|away: nice
+(02:47:44 PM) pennomi: so that's the big project after we fix the bugs
+(02:47:50 PM) snow|away: was worried you hade zero comunitcation  = P
+(02:47:58 PM) snow|away: goodie
+(02:48:05 PM) snow|away: page loading sees to work
+(02:48:13 PM) snow|away: havent seen bug this far
+(02:49:41 PM) pennomi: hrm... you are now a Lead Developer
+(02:49:50 PM) pennomi: so your login should give you extra permission.
+(02:50:00 PM) snow|away: meow
+(02:50:14 PM) pennomi: But that weird 'drop permissions when you edit users' bug still exists.
+(02:50:24 PM) pennomi: But you at least CAN edit users.
+(02:50:36 PM) pennomi: You'll just have to relogin after every edit.
+(02:50:42 PM) pennomi: Weird bug!
+(02:56:32 PM) snow|away: hr status changes are probably better done in drop down, as they were... now you must follow the work order
+(02:56:39 PM) snow|away: which i guess is good in a way
+(02:56:58 PM) pennomi: admins still have the dropdown
+(02:56:59 PM) snow|away: but it can never regress to anything except rejected
+(02:57:07 PM) snow|away: which is kind of strange maybe
+(02:57:18 PM) pennomi: do you think that I should put it back to dropdowns?
+(02:57:51 PM) pennomi: I suppose that it probably won't be abused, since only devs and up can change it.
+(02:57:56 PM) snow|away: i dunno... this is cool since it forces correct order
+(02:58:03 PM) snow|away: yeah, that too
+(02:58:11 PM) snow|away: yeah, put it on dropdown
+(02:58:16 PM) snow|away: or
+(02:58:18 PM) snow|away: better yet
+(02:58:48 PM) snow|away: add CONSTANT to config file... if == TRUE then this is shown
+(02:58:54 PM) snow|away: if false then dropdown is shown
+(02:58:59 PM) snow|away: allows custoization
+(02:59:07 PM) snow|away: then people could choose
+(02:59:21 PM) snow|away: ehr... admin could choose
+(02:59:24 PM) snow|away: when installing CS
+(02:59:39 PM) snow|away: FORCED_WORKFLOW
+(02:59:41 PM) snow|away: =)
+(02:59:46 PM) pennomi: perfect.
+(02:59:51 PM) pennomi: I'll put that in.
+(02:59:51 PM) snow|away: btw, it shouldnt be checkboxes
+(02:59:54 PM) snow|away: it should be radio.
+(03:00:04 PM) snow|away: both shouldnt be able to be pressed at once = P
+(03:00:23 PM) pennomi: okay. I just wanted a way to uncheck it if you decide you actually didn't want to advance it.
+(03:00:34 PM) pennomi: can't do that once you've checked radio
+(03:00:43 PM) snow|away: a third radio then - "same"
+(03:00:45 PM) snow|away: = P
+(03:00:54 PM) pennomi: easy fix.
+(03:01:00 PM) pennomi: Great, I'll do that
+(03:01:04 PM) snow|away: i checked both now and saved... it choose REJECTED
+(03:01:14 PM) snow|away: guess its bevause of the order in code hehe
+(03:01:23 PM) pennomi: yes I found the same
+(03:03:18 PM) snow|away: add some admin stuff that allows us to zap the db, erase all cards  and/or comments and/or images with a push of a button
+(03:03:44 PM) pennomi: good idea
+(03:03:46 PM) snow|away: that way we wont have to go into phpmyadmin and do it from there
+(03:04:35 PM) snow|away: also start keeping track of WHEN a card was rejected etc and by whom
+(03:04:36 PM) snow|away: = P
+(03:05:06 PM) pennomi: yeah, I think there will have to be a new table for old revisions and tracking who did what.
+(03:05:16 PM) snow|away: yeah, no prob.
+(03:14:44 PM) pennomi: fixed that stupid bug. Your server is screwy. It behaves kind of strange...
+(03:14:57 PM) pennomi: No you can edit users just like normal.
+(03:15:01 PM) pennomi: *Now

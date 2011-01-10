@@ -37,19 +37,19 @@ date TIMESTAMP DEFAULT CURRENT_TIMESTAMP )";
 $query['cards'] = generate_card_create_table_query();
 //echo $query['cards'] . "<br><br>";
 
+// card history database
+$query['history'] = generate_history_create_table_query();
+//echo $query['cards'] . "<br><br>";
+
 //run the queries
-if(!mysql_query($query['users'])){
-	die("Error creating users database.<br>Query used: " . $query['users']);}
-else{
-	echo "Database $prefix"."users created successfully.<br>";}
-if(!mysql_query($query['comments'])){
-	die("Error creating comments database.<br>Query used: " . $query['comments']);}
-else{
-	echo "Database $prefix"."comments created successfully.<br>";}
-if(!mysql_query($query['cards'])){
-	die("Error creating cards database.<br>Query used: " . $query['cards']);}
-else{
-	echo "Database $prefix"."cards created successfully.<br>";}
+mysql_query($query['users']) or die("Error creating users database.<br>Query used: " . $query['users']);
+echo "Database $prefix"."users created successfully.<br>";
+mysql_query($query['comments']) or die("Error creating comments database.<br>Query used: " . $query['comments']);
+echo "Database $prefix"."comments created successfully.<br>";
+mysql_query($query['cards']) or die("Error creating cards database.<br>Query used: " . $query['cards']);
+echo "Database $prefix"."cards created successfully.<br>";
+mysql_query($query['history']) or die("Error creating history database.<br>Query used: " . $query['history']);
+echo "Database $prefix"."history created successfully.<br>";
 
 /*////////////////////////
 // create default login //
@@ -64,8 +64,8 @@ if(!mysql_query($query['default_login'])){
 else{
 	echo "Added default administrator account to $prefix"."users successfully.<br><br>";}
 
-echo "Congratulations! You have successfully installed cardscape!
-Pat yourself on the back, give a stranger a high-five, and praise yourself loudly in public.
+echo "Congratulations! You have successfully installed cardscape!<br>
+Pat yourself on the back, give a stranger a high-five, and praise yourself loudly in public.<br>
 Once you've done that, click <a href='../login.php'>here</a> to log in as administrator and change the admin password.
 <br><b>username: admin</b>
 <br><b>password: password</b>";

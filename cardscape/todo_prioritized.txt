@@ -1,0 +1,14 @@
+PRIORITIZED TODO LIST:
+;) 1: Restructure Code to Use index.php
+2: Wiki-like Rollback (requires db changes)
+3: Image Upload and Management (may require db changes)
+4: Add User Favorites (requires db changes)
+5: Recent Activity Notifications (requires db changes)
+6: Robust Search (foodoo's job)
+7: LackeyCCG Files Export
+8: Admin Tools
+9: Reorganize (add tabs) Card Page
+10: Enhanced User Statistics
+11: Image Rescaling with imagemagick
+12: Security
+13: All Style to CSS
