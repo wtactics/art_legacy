@@ -6,7 +6,7 @@
 ********************************************/
 
 function show_card($id){
-	include('connect.php');
+	require('connect.php');
 
 	$result = mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE id='$id'");
 	$row = mysql_fetch_array($result);
@@ -15,11 +15,11 @@ function show_card($id){
 	foreach($file as $line){
 		preg_match_all("|{{[^{}]+}}|",$line,$fields);
 		foreach($fields[0] as $f){
-			$fieldname = str_replace("{","",str_replace("}","",$f));
+			$fieldname = str_replace("{{","",str_replace("}}","",$f));
 			
 			switch($fieldname){ //HERE'S WHERE SPECIAL REPLACES GO
 				case "SUBTITLE":
-					$replace = "Something will go here.";
+					$replace = "Card Statistics, Information and History";
 					break;
 				case "ADMIN": //this controls display of admin elements
 					if($_SESSION['role'] == 5){ //admin
@@ -27,14 +27,21 @@ function show_card($id){
 					else{
 						$replace = "none";}
 					break;
+				case "LEAD_DEVELOPER": //this controls display of lead dev elements
+					if($_SESSION['role'] > 3){ //lead dev or admin
+						$replace = "block";}
+					else{
+						$replace = "none";}
+					break;
 				case "DEVELOPER": //this controls display of developer elements
-					if($_SESSION['role'] > 1){ //dev or up
+					if($_SESSION['role'] > 2){ //dev or up
 						$replace = "block";}
 					else{
 						$replace = "none";}
 					break;
 				case "HISTORY":
-					$replace = "Revision History will go here.";
+					show_history($id);
+					$replace = null;
 					break;
 				case "COMMENTS":
 					show_comments($id);
@@ -102,14 +109,14 @@ function show_new_card_form() {
 		if($table[0]<>'#'){//edit out comments
 			$fieldname = substr($table, 0, strpos($table, " "));
 			$fieldtype = trim(substr($table, strpos($table, " ")));
-			/* SKIP THE CARDSCAPE PREDEFINED VALUES */
+			// SKIP THE CARDSCAPE PREDEFINED VALUES
 			if($fieldname == 'id'){}
 			elseif($fieldname == 'revision'){}
 			elseif($fieldname == 'date'){}
 			elseif($fieldname == 'author'){}
 			elseif($fieldname == 'status'){}
 			elseif($fieldname == 'image'){}
-			/* NOW HANDLE EACH DATA TYPE */
+			// NOW HANDLE EACH DATA TYPE
 			elseif(!(strpos($fieldtype, "INT") === false)){
 				tablerow($fieldname,"<input class='fieldtype_int' type='text' maxlength='10' name='$fieldname'>");
 			}
@@ -160,19 +167,26 @@ function insert_card(){
 	}
 	
 	//rejects cards with a name that already exists in the database
-	$result = mysql_query("SELECT * FROM cs_cards WHERE cardname='$cardname';");
+	$result = mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE cardname='". $_POST['cardname'] . "';");
 	$row = mysql_fetch_array($result);
-	if($row['cardname'] == $_POST['cardname']){die('A card with the suggested name already exists.');};
+	if($row['cardname'] == $_POST['cardname']){
+		die('A card with the suggested name already exists.');}
 	
-	//build the QUERY
+	//build the INSERT
 	$sql = generate_card_insert_query($_POST);
 	
-	//perform the QUERY
+	//perform the INSERT
 	mysql_query($sql) or die('Error: ' . mysql_error());
+	
+	//get the new id #
+	$id = get_id_from_cardname($_POST['cardname']);
+	/*mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE cardname='" . $_POST['cardname'] . "'");
+	$row = mysql_fetch_array($result);*/
 
-	//echo $cardname . " added to database successfully."; //can't do this before a header() function... why? dunno. But you can't.
-	$row = mysql_fetch_array(mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE cardname='" . $_POST['cardname'] . "'"));
-	header("Location: index.php?act=show_card&id=" . $row['id']);
+	//COPY NEW CARD TO HISTORY DB
+	copy_card_to_history($id);
+
+	header("Location: index.php?act=show_card&id=$id");
 }
 
 /* SHOWS THE EDIT FORM for card. Depending on the card status, not all fields will be changeable. */
@@ -230,11 +244,11 @@ function show_edit_card_form($id) {
 					$select .= "</select>";
 					tablerow("Status:", $select);}
 				elseif(($role > 2) && ($row['status'] == 'concept')){ //devs and up can advance the status of a concept card
-					$nextstatus = "refine";
+					$nextstatus = "discuss";
 					$select = "<input type='checkbox' name='status' value='$nextstatus'> Advance status to $nextstatus?<br>";
 					tablerow("Status:", $select . "<input type='checkbox' name='status' value='rejected'> Set this card as rejected?");}
 				elseif($role > 3){ //lead devs and up can advance the status of any card
-					if($row['status'] == "refine"){
+					if($row['status'] == "discuss"){
 						$nextstatus = "playtest";}
 					elseif($row['status'] == "playtest"){
 						$nextstatus = "approved";}
@@ -263,14 +277,14 @@ function show_edit_card_form($id) {
 			if($table[0]<>'#'){//edit out comments
 				$fieldname = substr($table, 0, strpos($table, " "));
 				$fieldtype = trim(substr($table, strpos($table, " ")));
-				/* SKIP THE CARDSCAPE PREDEFINED VALUES */
+				// SKIP THE CARDSCAPE PREDEFINED VALUES
 				if($fieldname == 'id'){}
 				elseif($fieldname == 'revision'){}
 				elseif($fieldname == 'date'){}
 				elseif($fieldname == 'author'){}
 				elseif($fieldname == 'status'){}
 				elseif($fieldname == 'image'){}
-				/* NOW HANDLE EACH DATA TYPE */
+				// NOW HANDLE EACH DATA TYPE
 				elseif(!(strpos($fieldtype, "INT") === false)){
 					tablerow($fieldname,"<input class='fieldtype_int' type='text' maxlength='10' name='$fieldname' value='" . $row["$fieldname"] . "'>");
 				}
@@ -332,9 +346,12 @@ function update_card($id){
 	//add slashes to everything so it doesn't break the query
 	foreach ($_POST as $key => $value) {
 		$_POST[$key] = addslashes($_POST[$key]);}
-	
-	//COPY OLD VERSION TO HISTORY DB
-	copy_card_to_history($id);
+
+	//fix return of null values
+        foreach ($_POST as &$val){
+		if($val == null){
+			$val = " ";}
+	}
 
 	//UPDATE THE CARD
 	$query = generate_card_update_query($id, $_POST);
@@ -343,6 +360,9 @@ function update_card($id){
 		}
 	else { die("There was an error. Card could not be updated.");}
 	
+	//COPY NEW VERSION TO HISTORY DB
+	copy_card_to_history($id);
+
 	//TODO: move the old imagefile to the new cardname (NYI)
 	
 	//add a comment to the card saying that it was edited

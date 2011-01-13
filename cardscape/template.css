@@ -96,8 +96,8 @@ img{
 .concept{
   background-image:url("images/concept.png");
 }
-.refine{
-  background-image:url("images/refine.png");
+.discuss{
+  background-image:url("images/discuss.png");
 }
 .playtest{
   background-image:url("images/playtest.png");
@@ -108,8 +108,8 @@ img{
 .official{
   background-image:url("images/official.png");
 }
-.hold{
-  background-image:url("images/hold.png");
+.halt{
+  background-image:url("images/halt.png");
 }
 .restricted{
   background-image:url("images/restricted.png");

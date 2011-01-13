@@ -9,7 +9,7 @@ id INT PRIMARY KEY AUTO_INCREMENT
 revision FLOAT DEFAULT '.01'
 date TIMESTAMP
 author VARCHAR(15)
-status ENUM( 'concept', 'refine', 'playtest', 'approved', 'official', 'hold', 'restricted', 'rejected' ) DEFAULT 'concept'
+status ENUM( 'concept', 'discuss', 'playtest', 'approved', 'official', 'halt', 'restricted', 'rejected' ) DEFAULT 'concept'
 image VARCHAR(255)
 cardname VARCHAR(30)
 #====================================

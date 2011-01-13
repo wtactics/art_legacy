@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="playtest.svg"
-   inkscape:export-filename="/var/www/cardscape/images/playtest.png"
+   sodipodi:docname="refine.svg"
+   inkscape:export-filename="/var/www/cardscape/images/discuss.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -53,7 +53,7 @@
      inkscape:cx="12.196776"
      inkscape:cy="35"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="738"
@@ -180,5 +180,5 @@
            y="3.9837399"
            style="font-size:50px;fill:#ececec" /></flowRegion><flowPara
          id="flowPara3041"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ececec;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">R</flowPara></flowRoot>  </g>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ececec;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Bold">D</flowPara></flowRoot>  </g>
 </svg>

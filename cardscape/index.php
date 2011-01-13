@@ -3,6 +3,7 @@
 require("card_functions.php");			//this holds all actions/functions pertaining to cards
 require("comment_functions.php");		//this holds all actions/functions pertaining to comments
 require("user_functions.php");			//this holds all actions/functions pertaining to users
+require("history_functions.php");		//this holds all actions/functions pertaining to history
 require("search_functions.php");		//this holds all actions/functions pertaining to browsing the database
 require("util/cardscape_functions.php");	//this holds various miscellaneous functions pertaining to cardscape
 require("connect.php");				//this connects to the database and the user session
@@ -10,7 +11,6 @@ require("connect.php");				//this connects to the database and the user session
 //build the action array
 $action = array(
 		/* CARD FUNCTIONS */
-		'new_card' => function() {echo "New Card Form";},
 		'show_card' => function() {
 			$pagename = get_card_name($_GET["id"]) . " | ";
 			echo $db['prefix'];
@@ -34,6 +34,9 @@ $action = array(
 			update_card($_GET["id"]);},
 		'delete_card' => function(){
 			delete_card($_GET["id"]);},
+		/* HISTORY FUNCTIONS */
+		'revert_card' => function(){
+			revert_card_to_revision($_GET["id"], $_GET["date"]);},
 		/* USER FUNCTIONS */
 		'login' => function(){
 			$pagename = "Login | ";

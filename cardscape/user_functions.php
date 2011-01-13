@@ -174,7 +174,6 @@ function display_usercp(){
 	$row = mysql_fetch_array($result);
 	echo "<table>\n";
 	echo "<tr><td>Username</td><td>" . $row['name'] . "</td></tr>";
-	echo "<tr><td>Password</td><td>" . $row['password'] . "</td></tr>";
 	echo "<tr><td>Change Password</td><form action='index.php?act=update_user&name=" . $row['name'] . "' method='post'><td><input type='text' name='password'><input type='submit' value='Update'></td></form></tr>";
 	echo "<tr><td>Email Address</td><form action='index.php?act=update_user&name=" . $row['name'] . "' method='post'><td><input type='text' name='email' value='" . $row['email'] . "'><input type='submit' value='Update'></td></form></tr>";
 	echo "<tr><td>Role</td><td>" . $row['role'] . "</td></tr>";

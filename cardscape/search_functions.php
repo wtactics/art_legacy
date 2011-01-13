@@ -7,7 +7,7 @@ function browse(){
 	function printlist($status){
 	require('connect.php');
 	$result = mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE status='" . $status . "' ORDER BY cardname;");
-	echo "<div style='position:relative; min-height:70px'><div class='$status card-status'></div></div>";
+	echo "<div style='position:relative; min-height:70px'><div class='chunk' style='padding-top:15px; font-size:30px;'>$status</div><div class='$status card-status' title='$status'></div></div>";
 	echo "<table style='width:100%'>
 	<tr>
 	<th width='33%'><span class='cardname'>Card Name</span> (Version)</th>

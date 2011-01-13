@@ -86,7 +86,7 @@ function generate_card_insert_query($new){
 		}
 	}
 	$query = substr($query, 0, strlen($query) - 2); //remove the ', ' from the last value
-	$query .= " );"; //finish the query
+	$query .= " )"; //finish the query
 	return $query;
 	//echo $query . "<br><br>";
 }
@@ -120,7 +120,7 @@ function generate_history_insert_query($new){
 		}
 	}
 	$query = substr($query, 0, strlen($query) - 2); //remove the ', ' from the last value
-	$query .= " );"; //finish the query
+	$query .= " )"; //finish the query
 	return $query;
 	//echo $query . "<br><br>";
 }

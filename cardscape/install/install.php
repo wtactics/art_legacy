@@ -66,7 +66,7 @@ else{
 
 echo "Congratulations! You have successfully installed cardscape!<br>
 Pat yourself on the back, give a stranger a high-five, and praise yourself loudly in public.<br>
-Once you've done that, click <a href='../login.php'>here</a> to log in as administrator and change the admin password.
+Once you've done that, click <a href='../index.php?act=login'>here</a> to log in as administrator and change the admin password.
 <br><b>username: admin</b>
 <br><b>password: password</b>";
 ?>
