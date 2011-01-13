@@ -11,12 +11,16 @@ function show_card($id){
 	$result = mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE id='$id'");
 	$row = mysql_fetch_array($result);
 
+	//make newline characters into html-compatible "<br>"
+	foreach($row as $key => $value){
+		$row[$key] = str_replace("\n","<br>",$row[$key]);}
+
 	$file = file("card.phtml");
 	foreach($file as $line){
 		preg_match_all("|{{[^{}]+}}|",$line,$fields);
 		foreach($fields[0] as $f){
 			$fieldname = str_replace("{{","",str_replace("}}","",$f));
-			
+
 			switch($fieldname){ //HERE'S WHERE SPECIAL REPLACES GO
 				case "SUBTITLE":
 					$replace = "Card Statistics, Information and History";
@@ -180,8 +184,6 @@ function insert_card(){
 	
 	//get the new id #
 	$id = get_id_from_cardname($_POST['cardname']);
-	/*mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE cardname='" . $_POST['cardname'] . "'");
-	$row = mysql_fetch_array($result);*/
 
 	//COPY NEW CARD TO HISTORY DB
 	copy_card_to_history($id);
@@ -362,8 +364,6 @@ function update_card($id){
 	
 	//COPY NEW VERSION TO HISTORY DB
 	copy_card_to_history($id);
-
-	//TODO: move the old imagefile to the new cardname (NYI)
 	
 	//add a comment to the card saying that it was edited
 	$user = $_SESSION['username'];
@@ -376,6 +376,7 @@ function update_card($id){
 }
 
 /* DELETES CARD WITH SELECTED ID */
+//TODO: DELETE ALL COMMENTS AND HISTORY ASSOCIATED WITH THAT CARD TOO
 function delete_card($id){
 	require('connect.php');
 	if($_SESSION['role']<>5){ //only admins can delete cards
