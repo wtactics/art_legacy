@@ -1,0 +1,10 @@
+This is simple ImageMagick script to make our cards out of what scribus spills out.
+
+To use it you have to have ImageMagick installed.
+
+1. Place all PNG files you need to tweak into one preemptyfied dir
+2. Place shrinker.bat file there
+3. Click-click on the file
+4. watch things rolling
+5. Remove mask.tga created by script
+6. Smile.
