@@ -15,6 +15,7 @@ echo "<meta name='keywords' content='" . $settings['meta_key'] . "'>\n";
 <link rel="stylesheet"type="text/css"href="dropdown.css">
 </head>
 <script type="text/javascript" src="dropdown.js"></script>
+<script type="text/javascript" src="upload.js"></script>
 <body>
 <!--CONTAINER FOR EVERYTHING-->
 <div style="position:absolute; min-width:900px; top:0; left:0; right:0">

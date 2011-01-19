@@ -4,6 +4,7 @@ require("card_functions.php");			//this holds all actions/functions pertaining t
 require("comment_functions.php");		//this holds all actions/functions pertaining to comments
 require("user_functions.php");			//this holds all actions/functions pertaining to users
 require("history_functions.php");		//this holds all actions/functions pertaining to history
+require("image_functions.php");			//this holds all actions/functions pertaining to image management
 require("search_functions.php");		//this holds all actions/functions pertaining to browsing the database
 require("util/cardscape_functions.php");	//this holds various miscellaneous functions pertaining to cardscape
 require("connect.php");				//this connects to the database and the user session
@@ -37,6 +38,11 @@ $action = array(
 		/* HISTORY FUNCTIONS */
 		'revert_card' => function(){
 			revert_card_to_revision($_GET["id"], $_GET["date"]);},
+		/* IMAGE FUNCTIONS */
+		'upload_image' => function(){
+			upload_image($_GET['id']);},
+		'save_upload' => function(){
+			save_image($_GET['id'], $_GET['filename']);},
 		/* USER FUNCTIONS */
 		'login' => function(){
 			$pagename = "Login | ";

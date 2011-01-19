@@ -59,7 +59,7 @@ function show_card($id){
 					$replace .= "</table>";
 					break;
 				case "IMAGE_FILENAME":
-					$filename = "cards/" . str_replace(" ","",$row["cardname"]) . ".png";
+					$filename = $row["image"];
 					$replace = $filename;
 					if(!file_exists($filename)){
 						$replace = "cards/not_found.png";}
@@ -212,12 +212,25 @@ function show_edit_card_form($id) {
 	$role = $_SESSION['role'];
 	$filename = str_replace(' ', '', $row['cardname']) . ".png";
 	$main_tables = file('card_definition.txt');
+	
+	//IMAGE OUTPUT
+	echo '<div style="position:absolute; right:51%">';
+	echo '<div id="preview-container" style="height:430px; width:310px; border: 1px solid black;"><img src="' . $row['image'] . '" style="width:100%"></img></div>';
+	echo '<form action="index.php?act=upload_image" method="post" enctype="multipart/form-data" target="upload_target">';
+	echo '<input name="file" type="file"><br>';
+	echo '<div id="preview-action-container" style="width:310px;">';
+	echo '<input type="submit" name="submitBtn" value="Upload">';
+	echo '</div></form>';
+	echo '<iframe id="upload_target" name="upload_target" onLoad="stopUpload()" src="#" style="position:absolute;width:0;height:0;border:none;"></iframe>';
+	echo '</div>';
+
+	//TABLE OUTPUT
 
 	//output the form;
 	echo "<form action='index.php?act=update_card&id=" . $row['id'] . "' method='post'>";
 
 	//non-game-specific outputs
-	echo "<table>";
+	echo "<table style='position:relative; left:51%'>";
 	foreach( $main_tables as $table ) {
 		if($table[0]<>'#'){//edit out comments
 			$fieldname = substr($table, 0, strpos($table, " "));
@@ -266,7 +279,7 @@ function show_edit_card_form($id) {
 				else{ //everyone else just sees the status
 					tablerow("Status:", $row["$fieldname"]);}}
 			elseif($fieldname == 'image'){
-				tablerow("Imagefile:", $row["$fieldname"]);}
+				tablerow("Image Path:", "<input id='image' readonly='true' type=\"text\" name=\"$fieldname\" value=\"" . $row[$fieldname] . "\">");}
 			else{}
 		}
 	}
@@ -274,7 +287,7 @@ function show_edit_card_form($id) {
 
 	//game-specific outputs (THESE CAN'T BE CHANGED IF THE CARD IS OFFICIAL)
 	if($row['status'] <> "official"){
-		echo "<table>";
+		echo "<table style='position:relative; left:51%'>";
 		foreach( $main_tables as $table ) {
 			if($table[0]<>'#'){//edit out comments
 				$fieldname = substr($table, 0, strpos($table, " "));
@@ -316,7 +329,7 @@ function show_edit_card_form($id) {
 		}
 		echo "</table>";
 	}
-	echo "<input type='submit' value='Apply Changes'></form>";
+	echo "<input type='submit' value='Apply Changes' style='position: relative; left:50%'></form>";
 }
 
 /* UPDATES CARD INFO IN THE DATABASE */
