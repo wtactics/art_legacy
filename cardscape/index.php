@@ -6,6 +6,7 @@ require("user_functions.php");			//this holds all actions/functions pertaining t
 require("history_functions.php");		//this holds all actions/functions pertaining to history
 require("image_functions.php");			//this holds all actions/functions pertaining to image management
 require("search_functions.php");		//this holds all actions/functions pertaining to browsing the database
+require("activity_functions.php");		//this holds all actions/functions pertaining to activity notifications
 require("util/cardscape_functions.php");	//this holds various miscellaneous functions pertaining to cardscape
 require("connect.php");				//this connects to the database and the user session
 
@@ -84,6 +85,11 @@ $action = array(
 			$pagename = "Browse | ";
 			include('header.php');
 			browse();
+			include('footer.php');},
+		'recent_activity' => function(){
+			$pagename = "Recent Activity | ";
+			include('header.php');
+			recent_activity();
 			include('footer.php');},
 		'progress' => function(){
 			$pagename = "Progress Report | ";

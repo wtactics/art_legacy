@@ -86,6 +86,12 @@ function insert_comment($id){
 	
 	//perform the QUERY
 	mysql_query($sql) or die('Error: ' . mysql_error());
+
+	//add notification to activity table
+	$msg = $_SESSION['username'] . " commented on " . get_card_name($id) . ".";
+	post_activity($_SESSION['username'], "comment", $id, $msg);
+
+	//redirect
 	header( "Location: index.php?act=show_card&id=" . $card );
 }
 ?>

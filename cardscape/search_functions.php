@@ -9,7 +9,7 @@ function browse(){
 	$result = mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE status='" . $status . "' ORDER BY cardname;");
 	echo "<div style='position:relative; min-height:70px'><div class='chunk' style='padding-top:15px; font-size:30px;'>$status</div><div class='$status card-status' title='$status'></div></div>";
 	echo "<table style='width:100%'>
-	<tr>
+	<tr><th></th>
 	<th width='33%'><span class='cardname'>Card Name</span> (Version)</th>
 	<th width='33%'>Submitted</th>
 	<th width='33%'>Author</th>
@@ -17,6 +17,11 @@ function browse(){
 	
 	while($row = mysql_fetch_array($result)){
 		echo "<tr>";
+		if(has_new_activity($row['id'])){
+			$new = "<a href='index.php?act=show_card&id=" . $row['id'] . "'><img src='images/new_activity.png' title='New activity!'></a>";}
+		else{
+			$new = "<img src='images/no_activity.png' title='No new activity'>";}
+		echo "<td>$new</td>";
 		echo "<td><a class='cardname' href='index.php?act=show_card&id=" . $row['id'] . "'>" . $row['cardname'] . "</a> (" . $row['id'] . ':' . $row['revision'] . ")</td>";
 		echo "<td>" . $row['date'] . "</td>";
 

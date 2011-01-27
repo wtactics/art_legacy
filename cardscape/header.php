@@ -34,9 +34,10 @@ echo "<meta name='keywords' content='" . $settings['meta_key'] . "'>\n";
 <div style="position:absolute; left:150;">
 <?
 $nav = array(	1=>"<a href='index.php?act=browse'>Browse Cards</a>",
-		2=>"<a href='index.php?act=progress'>Progress Report</a>");
+		2=>"<a href='index.php?act=progress'>Progress Report</a>",
+		3=>"<a href='index.php?act=recent_activity'>Recent Activity</a>");
 if($_SESSION['role']>0){
-	$nav[3] = "<a href='index.php?act=new_card'>Suggest a New Card</a>";}
+	$nav[4] = "<a href='index.php?act=new_card'>Suggest a New Card</a>";}
 dropdown_links("Cardscape Links", $nav,"150px;");
 ?>	
 </div>

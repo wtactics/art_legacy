@@ -21,6 +21,7 @@ name VARCHAR(16) ,
 password CHAR(32) , 
 email CHAR(64) , 
 role ENUM('User','Moderator','Developer','Lead Developer','Administrator','Banned') DEFAULT 'user' , 
+lastvisit TIMESTAMP NULL , 
 date TIMESTAMP DEFAULT CURRENT_TIMESTAMP )";
 //echo $query['users'] . "<br><br>";
 
@@ -39,7 +40,17 @@ $query['cards'] = generate_card_create_table_query();
 
 // card history database
 $query['history'] = generate_history_create_table_query();
-//echo $query['cards'] . "<br><br>";
+//echo $query['history'] . "<br><br>";
+
+// activity database
+$query['activity'] = "CREATE TABLE $prefix" . "activity (
+id INT PRIMARY KEY AUTO_INCREMENT ,
+user VARCHAR(16) ,
+type ENUM('new','promote','edit','comment','delete') ,
+card INT ,
+message TEXT ,
+date TIMESTAMP DEFAULT CURRENT_TIMESTAMP )";
+//echo $query['activity'] . "<br><br>";
 
 //run the queries
 mysql_query($query['users']) or die("Error creating users database.<br>Query used: " . $query['users']);
@@ -50,6 +61,8 @@ mysql_query($query['cards']) or die("Error creating cards database.<br>Query use
 echo "Database $prefix"."cards created successfully.<br>";
 mysql_query($query['history']) or die("Error creating history database.<br>Query used: " . $query['history']);
 echo "Database $prefix"."history created successfully.<br>";
+mysql_query($query['activity']) or die("Error creating activity database.<br>Query used: " . $query['activity']);
+echo "Database $prefix"."activity created successfully.<br>";
 
 /*////////////////////////
 // create default login //

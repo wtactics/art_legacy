@@ -11,6 +11,10 @@ function upload_image($id){
 		echo "Size: " . ($_FILES["file"]["size"] / 1024) . " Kb<br>";
 		echo "Stored in: " . $_FILES["file"]["tmp_name"];
 		*/
+		
+		if($_FILES["file"]["type"] <> "image/png"){
+			die("Error! Only .png files can be uploaded.");}
+		
 		$key = rand(); //this makes it so the temporary filename is random
 		move_uploaded_file($_FILES["file"]["tmp_name"],"cards/temp/$key.png") or die("Error! " . $_FILES["file"]["error"]);
 		echo "cards/temp/$key.png";

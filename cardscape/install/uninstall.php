@@ -10,4 +10,8 @@ mysql_query("DROP TABLE " . $db['prefix'] . "cards");
 mysql_query("DROP TABLE " . $db['prefix'] . "history");
 mysql_query("DROP TABLE " . $db['prefix'] . "comments");
 mysql_query("DROP TABLE " . $db['prefix'] . "users");
+mysql_query("DROP TABLE " . $db['prefix'] . "activity");
+
+echo "Uninstall successful.";
+// (I was obviously in a sardonic mood when I wrote the code in this file. Please ignore my bad attitude.)
 ?>

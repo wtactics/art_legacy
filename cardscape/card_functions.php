@@ -11,6 +11,10 @@ function show_card($id){
 	$result = mysql_query("SELECT * FROM " . $db['prefix'] . "cards WHERE id='$id'");
 	$row = mysql_fetch_array($result);
 
+	//add card page to the 'visited' variable
+	if($_SESSION['visited'] <> null){
+		$_SESSION['visited'] .= $_GET['id'] . "|";}
+
 	//make newline characters into html-compatible "<br>"
 	foreach($row as $key => $value){
 		$row[$key] = str_replace("\n","<br>",$row[$key]);}
@@ -187,6 +191,10 @@ function insert_card(){
 
 	//COPY NEW CARD TO HISTORY DB
 	copy_card_to_history($id);
+
+	//add notification to activity table
+	$msg = get_card_name($id) . " added by " . $_POST['author'] . ".";
+	post_activity($_POST['author'], "new", $id, $msg);
 
 	header("Location: index.php?act=show_card&id=$id");
 }
@@ -384,6 +392,10 @@ function update_card($id){
 	VALUES ( '$id', 'cardscape', 'Card updated by $user." . date(" (H:i:s d M y)",time()) . "', CURRENT_TIMESTAMP )";
 	mysql_query($sql);
 	
+	//add notification to activity table
+	$msg = get_card_name($id) . " edited by " . $_SESSION['username'] . ".";
+	post_activity($_SESSION['username'], "edit", $id, $msg);
+
 	//redirect back to the card page
 	header( "Location: index.php?act=show_card&id=$id" );
 }
@@ -397,7 +409,12 @@ function delete_card($id){
 	$query = "DELETE FROM " . $db['prefix'] . "cards WHERE id = '" . $_GET['id'] . "'";
 	mysql_query($query) or die(mysql_error());
 	//echo "Card deleted.";
-	header( "Location: index.php?act=browse" );
+
+	//add notification to activity table
+	$msg = get_card_name($id) . "deleted by" . $_SESSION['username'] . ".";
+	post_activity($_SESSION['username'], "delete", $id, $msg);
+
+	header("Location: index.php?act=browse");
 }
 
 /* COPIES CARD BY ID TO HISTORY DB */
