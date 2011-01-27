@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg13728"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="numbers.svg">
+  <defs
+     id="defs13730">
+    <filter
+       inkscape:collect="always"
+       id="filter14529">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.444675"
+         id="feGaussianBlur14531" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter14537">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.57543502"
+         id="feGaussianBlur14539" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="671.05523"
+     inkscape:cy="640.46491"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1400"
+     inkscape:window-height="999"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13733">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       id="text14533"
+       y="398.42047"
+       x="568.97156"
+       style="font-size:26.85760689000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:NimbusRomNo9L;-inkscape-font-specification:NimbusRomNo9L;filter:url(#filter14537);opacity:0.5"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Qx\Pulpit\big numbers.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:30.21480942000000200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:NimbusRomNo9L;-inkscape-font-specification:NimbusRomNo9L"
+         y="398.42047"
+         x="568.97156"
+         id="tspan14535"
+         sodipodi:role="line">1   2   3   4    5   6   7   8   9   0   X   ?</tspan></text>
+    <text
+       id="text13749"
+       y="437.8443"
+       x="479.34769"
+       style="font-size:19.03948784000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;opacity:0.45;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Times New Roman;-inkscape-font-specification:Times New Roman;filter:url(#filter14529)"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Documents and Settings\Qx\Pulpit\small numbers.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan13751"
+         style="font-size:22.21273613000000000px;fill:#000000;fill-opacity:1;font-family:NimbusRomNo9L;-inkscape-font-specification:NimbusRomNo9L"
+         y="437.8443"
+         x="482.12427"
+         sodipodi:role="line">1   2   3   4   5    6   7   8   9   0    X   ?   </tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Documents and Settings\Qx\Pulpit\small numbers.png"
+       xml:space="preserve"
+       style="font-size:19.03948784px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6daa6;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="478.78131"
+       y="437.12009"
+       id="text16643"><tspan
+         sodipodi:role="line"
+         x="481.55789"
+         y="437.12009"
+         style="font-size:22.21273613px;fill:#e6daa6;fill-opacity:1;font-family:NimbusRomNo9L;-inkscape-font-specification:NimbusRomNo9L"
+         id="tspan16645">1   2   3   4   5    6   7   8   9   0    X   ?   </tspan></text>
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Documents and Settings\Qx\Pulpit\big numbers.png"
+       xml:space="preserve"
+       style="font-size:26.85760689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6daa6;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:NimbusRomNo9L;-inkscape-font-specification:NimbusRomNo9L"
+       x="568.13232"
+       y="397.49197"
+       id="text16733"><tspan
+         sodipodi:role="line"
+         id="tspan16735"
+         x="568.13232"
+         y="397.49197"
+         style="font-size:30.21480942px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#e6daa6;fill-opacity:1;font-family:NimbusRomNo9L;-inkscape-font-specification:NimbusRomNo9L">1   2   3   4    5   6   7   8   9   0   X   ?</tspan></text>
+  </g>
+</svg>
