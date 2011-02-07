@@ -1,8 +1,7 @@
 function stopUpload(){
 	//show preview
 	document.getElementById('preview-container').innerHTML = "<img id='preview' width='100%' src='" + window.frames['upload_target'].document.body.innerHTML + "'></img>";
-	//activate Save button
-	document.getElementById('preview-action-container').innerHTML = '<input onClick="saveUploadedImage();" type="button" name="saveBtn" value="Save"><input onClick="resetUploader();" type="button" name="resetBtn" value="Cancel">';
+	document.getElementById('preview-message').innerHTML = window.frames['upload_target'].document.body.innerHTML;
 }
 
 function saveUploadedImage(){
@@ -20,7 +19,7 @@ function saveUploadedImage(){
 		if(ajaxRequest.readyState == 4){
 			var path = ajaxRequest.responseText;
 			//output the response
-			document.getElementById('preview-action-container').innerHTML = path;
+			document.getElementById('preview-message').innerHTML = path;
 
 			//set the image field in the edit card form
 			document.getElementById('image').value = path.substr(path.lastIndexOf(":") + 2);

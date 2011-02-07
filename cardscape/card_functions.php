@@ -228,8 +228,10 @@ function show_edit_card_form($id) {
 	echo '<input name="file" type="file"><br>';
 	echo '<div id="preview-action-container" style="width:310px;">';
 	echo '<input type="submit" name="submitBtn" value="Upload">';
+	echo '<input type="button" name="saveBtn" onClick="saveUploadedImage()" value="Save">';
 	echo '</div></form>';
-	echo '<iframe id="upload_target" name="upload_target" onLoad="stopUpload()" src="#" style="position:absolute;width:0;height:0;border:none;"></iframe>';
+	echo '<div id="preview-message"></div>';
+	echo '<iframe id="upload_target" name="upload_target" onLoad="stopUpload()" style="position:absolute;width:0;height:0;border:none;"></iframe>';
 	echo '</div>';
 
 	//TABLE OUTPUT
