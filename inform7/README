@@ -1,0 +1,42 @@
+-----------------------------------
+Working project title: WTLore
+
+Contributors: snowdrop, 
+Status: Early concept
+
+Join!
+-----------------------------------
+
+// What
+
+Within this dir is our attempt to deliver an optional and richer 
+background story for WTactics via enabeling the plateyer to partake in
+a interactive fiction - a kind of novell where the player her/himself
+has been put in the lead.
+
+The goal is to use the IF to give the player a feeling of the atmosphere
+where WTactics takes place. 
+
+The setting for the story is some kind of happening in a castle where
+there are relatively few rooms, some puzzles and many visitors that
+together will represent the different factions and show signs of the 
+conflicts found in the main background story of WTactics.org
+
+
+// How
+
+a) Talk things over with snowdrop first: Enlight us as to what you want
+to add, why and so on. Get the ok sign and...
+
+b) Use bzr + Inform7 to contribute.
+
+c) Document it in our own recepie book.
+
+
+// License
+
+All within this directory is released using GPL2 or later.
+
+
+
+
