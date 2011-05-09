@@ -52,17 +52,17 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="01 Card Title" ALIGN="2" LINESP="12" RMARGIN="11.33858268" FIRST="5.669291339" NACH="0" FONT="Liberation Serif Bold" FONTSIZE="12" FEATURES="shadowed" FCOLOR="TitleYellow" TXTSHX="7" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="2"/>
         <STYLE NAME="02 Card Type" ALIGN="2" LINESP="12" RMARGIN="11.33858268" FIRST="5.669291339" NACH="10" FONT="Liberation Serif Italic" FONTSIZE="10" FEATURES="shadowed" FCOLOR="CardType" TXTSHX="6" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="16"/>
         <STYLE NAME="04 Card Text" ALIGN="0" LINESP="10" INDENT="14.17322835" RMARGIN="11.33858268" FIRST="0" VOR="0" DROP="0" FONT="Liberation Serif Regular" FONTSIZE="9" FCOLOR="TitleYellow" BASEO="0"/>
         <STYLE NAME="Card Cost" ALIGN="1" LINESP="36" INDENT="0" RMARGIN="0" FIRST="0" FONT="NimbusRomNo9L Regular" FONTSIZE="22" FEATURES="" FCOLOR="TitleYellow" SCOLOR="LettersShadow" TXTSHX="5" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0"/>
         <STYLE NAME="Card version" INDENT="2.834645669" FIRST="0" VOR="0" FONT="Liberation Sans Italic" FONTSIZE="6" FCOLOR="FromSVG#a58e4e" BASEO="-50" LANGUAGE="Polish"/>
         <STYLE NAME="Card A/D Values" ALIGN="1" LINESP="36" INDENT="0" RMARGIN="0" FIRST="0" FONT="NimbusRomNo9L Regular" FONTSIZE="20" FEATURES="" FCOLOR="FromSVG#decd87" SCOLOR="LettersShadow" TXTSHX="5" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="NimbusRomNo9L Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="NimbusRomNo9L Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
         <CHARSTYLE CNAME="Card Text drop cap" FONT="NimbusRomNo9L Regular" FONTSIZE="25" FCOLOR="WarmBlack" SCALEH="100" SCALEV="100" BASEO="-43"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Tło" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
-        <Printer firstUse="1" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Generic PostScript Printer" filename="C:/Documents and Settings/Qx/Pulpit/DEV/WTthings/event card template/event card template.ps" separationName="Wszystkie" printerCommand=""/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="/home/redqueen/WT/cards/Gaian/creature cards.ps" separationName="Wszystkie" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="1" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="Adobe RGB (1998)" ImageP="Adobe RGB (1998)" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Subset Name="Liberation Serif Bold"/>
             <Subset Name="Liberation Serif Italic"/>
@@ -151,13 +151,15 @@
             <ITEXT CH="Elf"/>
             <nbspace/>
             <para PARENT="02 Card Type"/>
-            <ITEXT FONT="Liberation Serif Bold" CH="Ranged: "/>
-            <para PARENT="04 Card Text"/>
+            <ITEXT FONT="Liberation Serif Bold Italic" CH="Ranged"/>
+            <ITEXT FONT="Liberation Serif Bold" CH=" – "/>
             <ITEXT CH="This unit can defend against units with Flying."/>
             <para PARENT="04 Card Text"/>
-            <ITEXT FONT="Liberation Serif Bold" CH="Offensive Initiative:"/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT CH="Creatures defending against this creature only strike back if they survive. "/>
+            <ITEXT FONT="Liberation Serif Bold Italic" KERN="-1" CH="Offensive Initiative"/>
+            <ITEXT KERN="-1" CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold" KERN="-1" CH="–"/>
+            <ITEXT KERN="-1" CH=" Creatures defending "/>
+            <ITEXT CH="against this creature only strike back if they survive. "/>
             <trail PARENT="04 Card Text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -187,14 +189,18 @@
             <nbspace/>
             <para PARENT="02 Card Type"/>
             <ITEXT Unicode="25" COBJ="0"/>
-            <ITEXT CH=": "/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT CH="Target creatures attack is reduced to half (rounded up) until end of turn. "/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold" CH="–"/>
+            <ITEXT CH=" Target creatures attack is reduced "/>
+            <breakline/>
+            <ITEXT CH="to half (rounded up) until end of turn. "/>
             <para PARENT="04 Card Text"/>
             <ITEXT Unicode="25" COBJ="1"/>
-            <ITEXT CH=":"/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT CH="Target creature can't move until end of turn.  "/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold" CH="–"/>
+            <ITEXT CH=" Target creature can't move until "/>
+            <breakline/>
+            <ITEXT CH="end of turn.  "/>
             <trail PARENT="04 Card Text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -235,10 +241,10 @@
             <ITEXT CH="Elf"/>
             <nbspace/>
             <para PARENT="02 Card Type"/>
-            <ITEXT FONT="Liberation Serif Bold" CH="Stealth 2"/>
-            <ITEXT CH=": "/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT CH="Only creatures with a gold cost of 2 or more can defend against this creature "/>
+            <ITEXT FONT="Liberation Serif Bold Italic" CH="Stealth 2"/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold" CH="–"/>
+            <ITEXT CH=" Only creatures with a gold cost of 2 or more can defend against this creature "/>
             <trail PARENT="04 Card Text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -260,11 +266,13 @@
             <nbspace/>
             <para PARENT="02 Card Type"/>
             <ITEXT Unicode="25" COBJ="2"/>
-            <ITEXT CH=": "/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT FONT="Liberation Serif Bold" CH="Protect 2:"/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT CH="Prevent up to 2 damage to target creature. "/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold" CH="–"/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold Italic" CH="Protect 2"/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold" CH="–"/>
+            <ITEXT CH=" Prevent up to 2 damage to target creature. "/>
             <trail PARENT="04 Card Text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -284,8 +292,8 @@
             <para PARENT="01 Card Title"/>
             <ITEXT CH="Elf"/>
             <para PARENT="02 Card Type"/>
-            <ITEXT FONT="Liberation Serif Bold" CH="Ranged: "/>
-            <para PARENT="04 Card Text"/>
+            <ITEXT FONT="Liberation Serif Bold Italic" CH="Ranged"/>
+            <ITEXT FONT="Liberation Serif Bold" CH=" – "/>
             <ITEXT CH="This creature may defend against flying creatures. "/>
             <para PARENT="04 Card Text"/>
             <para PARENT="04 Card Text"/>
@@ -331,9 +339,9 @@
             <ITEXT CH="Merfolk"/>
             <nbspace/>
             <para PARENT="02 Card Type"/>
-            <ITEXT FONT="Liberation Serif Bold" CH="Guard: "/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT CH="This creature can defend against multiple attackers"/>
+            <ITEXT FONT="Liberation Serif Bold Italic" CH="Guard "/>
+            <ITEXT FONT="Liberation Serif Bold" CH="–"/>
+            <ITEXT CH=" This creature can defend against multiple attackers"/>
             <trail PARENT="04 Card Text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -366,9 +374,9 @@
             <para PARENT="04 Card Text"/>
             <para PARENT="04 Card Text"/>
             <ITEXT Unicode="25" COBJ="3"/>
-            <ITEXT CH=":"/>
-            <para PARENT="04 Card Text"/>
-            <ITEXT CH="Unmark target ally."/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Liberation Serif Bold" CH="–"/>
+            <ITEXT CH=" Unmark target ally."/>
             <para PARENT="04 Card Text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
