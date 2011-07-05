@@ -23,7 +23,7 @@
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="01 Card Title" ALIGN="2" LINESP="11" RMARGIN="11.33858268" FIRST="5.669291339" NACH="0" FONT="Liberation Serif Bold" FONTSIZE="13" FEATURES="shadowed" FCOLOR="TitleYellow" TXTSHX="7" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="2"/>
         <STYLE NAME="02 Card Type" ALIGN="2" LINESP="12" RMARGIN="11.33858268" FIRST="5.669291339" VOR="0" NACH="5" FONT="Liberation Serif Italic" FONTSIZE="9" FEATURES="shadowed" FCOLOR="CardType" TXTSHX="6" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="16"/>
-        <STYLE NAME="04 Card Text" ALIGN="0" LINESP="11" INDENT="14.17322835" RMARGIN="11.33858268" FIRST="0" VOR="0" DROP="0" FONT="Liberation Serif Regular" FONTSIZE="10" FCOLOR="Card Text" BASEO="0"/>
+        <STYLE NAME="04 Card Text" ALIGN="0" LINESP="11" INDENT="14.17322835" RMARGIN="11.33858268" FIRST="0" VOR="0" NACH="4" DROP="0" FONT="Liberation Serif Regular" FONTSIZE="10" FCOLOR="Card Text" BASEO="0"/>
         <STYLE NAME="Card Cost" ALIGN="1" LINESP="36" INDENT="0" RMARGIN="0" FIRST="0" FONT="NimbusRomNo9L Regular" FONTSIZE="22" FEATURES="" FCOLOR="TitleYellow" SCOLOR="LettersShadow" TXTSHX="5" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0"/>
         <STYLE NAME="Card A/D Values" ALIGN="1" LINESP="36" INDENT="0" RMARGIN="0" FIRST="0" FONT="NimbusRomNo9L Regular" FONTSIZE="20" FEATURES="" FCOLOR="FromSVG#decd87" SCOLOR="LettersShadow" TXTSHX="5" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0"/>
         <STYLE NAME="Card version" ALIGN="0" INDENT="7.08661417322835" FIRST="0" VOR="0" FONT="Liberation Sans Italic" FONTSIZE="6" FCOLOR="bottom line darker text" BASEO="0" wordTrack="1.07" LANGUAGE="Polish"/>
@@ -118,14 +118,16 @@
             <ITEXT CH="Elf"/>
             <nbspace/>
             <para PARENT="02 Card Type"/>
-            <ITEXT CPARENT="Card Text drop cap" CH="R"/>
+            <ITEXT CPARENT="Card Text drop cap" FONT="NimbusRomNo9L Regular" CH="R"/>
             <ITEXT FONT="Liberation Serif Bold Italic" CH="anged"/>
             <ITEXT FONT="Liberation Serif Bold" CH=" – "/>
             <ITEXT CH="This unit can defend"/>
             <breakline/>
             <tab/>
             <ITEXT CH="against units with Flying."/>
-            <para PARENT="04 Card Text"/>
+            <para PARENT="04 Card Text">
+                <Tabs Type="0" Pos="30" Fill=""/>
+            </para>
             <ITEXT FONT="Liberation Serif Bold Italic" KERN="-1" CH="Offensive Initiative"/>
             <ITEXT KERN="-1" CH=" "/>
             <ITEXT FONT="Liberation Serif Bold" KERN="-1" CH="–"/>
