@@ -13,13 +13,12 @@
         <COLOR NAME="LettersShadow" CMYK="#b366ffd9" Spot="0" Register="0"/>
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
         <COLOR NAME="TitleYellow" CMYK="#0000671c" Spot="0" Register="0"/>
-        <COLOR NAME="WarmBlack" RGB="#1e170d" Spot="0" Register="0"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="bottom card brighter text" RGB="#bdab5f" Spot="0" Register="0"/>
         <COLOR NAME="bottom line darker text" RGB="#a58e4e" Spot="0" Register="0"/>
         <COLOR NAME="jakistam" RGB="#966432" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <STYLE NAME="01 Card Title" LINESP="11" FIRST="5.669291339" FONT="Liberation Serif Bold" FONTSIZE="11" FEATURES="shadowed" FCOLOR="TitleYellow" TXTSHX="7" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="2"/>
         <STYLE NAME="02 Card Type" LINESP="12" FIRST="5.669291339" VOR="1" NACH="5" FONT="Liberation Serif Italic" FONTSIZE="11" FEATURES="shadowed" FCOLOR="CardType" TXTSHX="6" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="16"/>
         <STYLE NAME="04 Card Text" ALIGN="0" LINESP="11.3" INDENT="14.17322835" RMARGIN="14.17322835" FIRST="0" VOR="0" DROP="0" FONT="Liberation Serif Regular" FONTSIZE="10" FCOLOR="Black" BASEO="0">
@@ -28,8 +27,8 @@
         <STYLE NAME="Card version" ALIGN="2" INDENT="2.834645669" FIRST="0" VOR="0" FONT="Liberation Sans Italic" FONTSIZE="6" FCOLOR="bottom line darker text" BASEO="0" wordTrack="1.07" LANGUAGE="Polish"/>
         <STYLE NAME="Card A/D Values" ALIGN="1" LINESP="36" INDENT="0" RMARGIN="0" FIRST="0" FONT="NimbusRomNo9L Regular" FONTSIZE="20" FEATURES="" FCOLOR="TitleYellow" SCOLOR="LettersShadow" TXTSHX="5" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0"/>
         <STYLE NAME="Card Cost" ALIGN="1" LINESP="36" INDENT="0" RMARGIN="0" FIRST="0" FONT="NimbusRomNo9L Regular" FONTSIZE="22" FEATURES="" FCOLOR="TitleYellow" SCOLOR="LettersShadow" TXTSHX="5" TXTSHY="0" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="NimbusRomNo9L Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
-        <CHARSTYLE CNAME="Card Text drop cap" FONT="NimbusRomNo9L Regular" FONTSIZE="23" FCOLOR="WarmBlack" SCALEH="100" SCALEV="100" BASEO="-48"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="NimbusRomNo9L Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0"/>
+        <CHARSTYLE CNAME="Card Text drop cap" FONT="NimbusRomNo9L Regular" FONTSIZE="23" FCOLOR="Black" SCALEH="100" SCALEV="100" BASEO="-48"/>
         <CHARSTYLE CNAME="Card version brighter" FONT="Liberation Sans Regular" FONTSIZE="6" FCOLOR="bottom card brighter text" SCALEV="102" LANGUAGE="Polish"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Tło" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Generic PostScript Printer" filename="C:/Documents and Settings/Qx/Pulpit/DEV/WTthings/event card template/event card template.ps" separationName="Wszystkie" printerCommand=""/>
