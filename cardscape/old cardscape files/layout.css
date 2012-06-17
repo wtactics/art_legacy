@@ -1,8 +1,0 @@
-.active { font-weight: bold; background-color: #cccccc; }
-.inactive{ border: 1px solid black; background-color: #aaaaaa; }
-.active, .inactive{ text-decoration: none; color: black; padding: 4px; }
-
-.informative{ background-color: #0000aa }
-.warning{ background-color: #ffff00; }
-.error{ background-color: #ff0000; }
-.informative, .warning, .error { border-top: 4px solid #33ff00; border-left: 10px solid #33bb00; padding-left: 10px; padding-bottom:5px; font-size: 20px; }
